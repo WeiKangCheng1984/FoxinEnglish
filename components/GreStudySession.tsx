@@ -157,23 +157,28 @@ export function GreStudySession() {
     );
   }
 
+  if (!current) {
+    return <p className="text-muted">載入練習…</p>;
+  }
+
+  const word = current;
+
   function grade(next: GreGrade) {
-    if (!current) return;
-    gradeGreWord(current.id, next);
-    setDone((prev) => [...prev, { id: current.id, grade: next }]);
+    gradeGreWord(word.id, next);
+    setDone((prev) => [...prev, { id: word.id, grade: next }]);
     setIndex((n) => n + 1);
     setFlipped(false);
     setPicked(null);
   }
 
-  function pick(word: GreWord) {
-    setPicked(word.id);
+  function pick(choice: GreWord) {
+    setPicked(choice.id);
     setFlipped(true);
   }
 
   const title = review ? "今日複習" : `第 ${pack} 組`;
   const modeMeta = modes.find((item) => item.id === mode);
-  const cloze = current ? clozeExample(current) : "";
+  const cloze = clozeExample(word);
 
   return (
     <div className="space-y-5">
@@ -210,10 +215,10 @@ export function GreStudySession() {
 
       {mode === "recall" && !flipped ? (
         <article className="rounded-[28px] border border-line bg-sand p-8 text-center">
-          <p className="text-[11px] tracking-wide text-muted">{current.pos}</p>
-          <h2 className="mt-3 font-[family-name:var(--font-display)] text-5xl">{current.word}</h2>
+          <p className="text-[11px] tracking-wide text-muted">{word.pos}</p>
+          <h2 className="mt-3 font-[family-name:var(--font-display)] text-5xl">{word.word}</h2>
           <div className="mt-5 flex justify-center">
-            <SpeakButton text={current.word} label="再唸一次" rate={0.8} />
+            <SpeakButton text={word.word} label="再唸一次" rate={0.8} />
           </div>
           <p className="mt-6 text-sm text-muted">點喇叭聽發音，先用英文定義對意思，再翻面核對。</p>
           <button
@@ -230,8 +235,8 @@ export function GreStudySession() {
         <article className="rounded-[28px] border border-line bg-sand p-6">
           <p className="text-[11px] tracking-wide text-copper">英文定義</p>
           <div className="mt-2 flex items-start gap-3">
-            <p className="min-w-0 flex-1 font-[family-name:var(--font-display)] text-2xl leading-snug">{current.defEn}</p>
-            <SpeakButton text={current.defEn} label="唸定義" />
+            <p className="min-w-0 flex-1 font-[family-name:var(--font-display)] text-2xl leading-snug">{word.defEn}</p>
+            <SpeakButton text={word.defEn} label="唸定義" />
           </div>
           <p className="mt-4 text-sm text-muted">選出對應的單字。這最接近 GRE 填空時你要做的事。</p>
           <div className="mt-5 grid gap-2 sm:grid-cols-2">
@@ -255,7 +260,7 @@ export function GreStudySession() {
             <p className="min-w-0 flex-1 font-[family-name:var(--font-display)] text-2xl leading-snug">{cloze}</p>
             <SpeakButton text={cloze} label="唸挖空例句" />
           </div>
-          <p className="mt-3 text-sm text-muted">詞性提示：{current.pos}</p>
+          <p className="mt-3 text-sm text-muted">詞性提示：{word.pos}</p>
           <div className="mt-5 grid gap-2 sm:grid-cols-2">
             {choices.map((choice) => (
               <div key={choice.id} className="flex items-center gap-2 rounded-2xl border border-line bg-paper-2 px-3 py-2">
@@ -269,18 +274,18 @@ export function GreStudySession() {
         </article>
       ) : null}
 
-      {flipped && current ? (
+      {flipped ? (
         <div className="space-y-4">
           {picked ? (
             <p
               className={`rounded-2xl px-4 py-3 text-sm ${
-                picked === current.id ? "bg-forest text-white" : "bg-copper/15 text-copper-2"
+                picked === word.id ? "bg-forest text-white" : "bg-copper/15 text-copper-2"
               }`}
             >
-              {picked === current.id ? "選對了。把例句跟陷阱再聽一遍，記憶會比較穩。" : `正確是 ${current.word}。對照定義和例句，看差在哪。`}
+              {picked === word.id ? "選對了。把例句跟陷阱再聽一遍，記憶會比較穩。" : `正確是 ${word.word}。對照定義和例句，看差在哪。`}
             </p>
           ) : null}
-          <GreWordCard word={current} />
+          <GreWordCard word={word} />
           <GradeBar onGrade={grade} />
         </div>
       ) : null}

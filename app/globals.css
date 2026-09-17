@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f3eadc;
+  --paper-2: #efe4d2;
+  --ink: #1c1814;
+  --muted: #6b6258;
+  --line: #d7cbb8;
+  --copper: #c45c26;
+  --copper-2: #9a4318;
+  --forest: #2c4a42;
+  --sand: #fff8ee;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-copper: var(--copper);
+  --color-copper-2: var(--copper-2);
+  --color-forest: var(--forest);
+  --color-sand: var(--sand);
+  --font-sans: var(--font-noto);
+}
+
+html,
+body {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+body {
+  min-height: 100vh;
+  font-family: var(--font-noto), "Microsoft JhengHei", "Noto Sans TC", sans-serif;
+  background-image:
+    radial-gradient(circle at top left, rgba(196, 92, 38, 0.08), transparent 28%),
+    linear-gradient(180deg, #f7f0e4 0%, var(--paper) 180px);
+}
+
+::selection {
+  background: #e8c3a8;
+}
+
+a {
+  text-underline-offset: 3px;
+}
+
+button,
+a,
+input,
+select {
+  -webkit-tap-highlight-color: transparent;
+}

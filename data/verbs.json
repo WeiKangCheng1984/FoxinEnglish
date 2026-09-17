@@ -1,0 +1,2245 @@
+{
+  "stages": [
+    {
+      "id": "verb-stage-1",
+      "no": 1,
+      "titleZh": "工作與專案管理",
+      "titleEn": "Work & Project Management"
+    },
+    {
+      "id": "verb-stage-2",
+      "no": 2,
+      "titleZh": "生活、社交與人際互動",
+      "titleEn": "Daily Life & Socializing"
+    },
+    {
+      "id": "verb-stage-3",
+      "no": 3,
+      "titleZh": "科技、系統與日常操作",
+      "titleEn": "Tech, Systems & Operations"
+    },
+    {
+      "id": "verb-stage-4",
+      "no": 4,
+      "titleZh": "情感、態度與應變思維",
+      "titleEn": "Emotions & Adaptability"
+    }
+  ],
+  "items": [
+    {
+      "id": "verb-001",
+      "source": "verb",
+      "number": 1,
+      "titleEn": "Come up with",
+      "titleZh": "想出（點子、方案、資金、藉口）",
+      "usage": "想出（點子、方案、資金、藉口）",
+      "synonyms": "Invent / Devise / Produce",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We need to come up with a solid marketing strategy to attract more visitors to the permanent exhibition.",
+          "zh": "我們需要想出一個紮實的行銷策略，來吸引更多人參觀常設展。",
+          "scene": "工作"
+        },
+        {
+          "en": "Don't worry about the weekend trip; I'll come up with a fun itinerary for us.",
+          "zh": "不用擔心週末旅行的事，我會想出一個好玩的行程。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-002",
+      "source": "verb",
+      "number": 2,
+      "titleEn": "Carry out",
+      "titleZh": "執行、貫徹、實施（計畫、分析、檢查、命令）",
+      "usage": "執行、貫徹、實施（計畫、分析、檢查、命令）",
+      "synonyms": "Execute / Implement / Perform",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The engineering team is ready to carry out the final data analysis on the cloud server.",
+          "zh": "工程團隊已經準備好對雲端伺服器執行最終的數據分析。",
+          "scene": "工作"
+        },
+        {
+          "en": "It’s easy to make a fitness plan, but it's much harder to carry it out every day.",
+          "zh": "制定健身計畫很容易，但每天去貫徹執行就難得多了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-003",
+      "source": "verb",
+      "number": 3,
+      "titleEn": "Push back",
+      "titleZh": "延後、推遲（截止日期、會議時間）",
+      "usage": "延後、推遲（截止日期、會議時間）",
+      "synonyms": "Postpone / Delay",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Due to the sudden layout bug, we have to push back the front-end deployment deadline by a week.",
+          "zh": "由於突發的排版錯誤，我們不得不將前端部署的截止日期延後一週。",
+          "scene": "工作"
+        },
+        {
+          "en": "The traffic is terrible right now; can we push back our dinner reservation to 7:30 PM?",
+          "zh": "現在交通太堵了，我們能把晚餐預約延後到晚上 7:30 嗎？",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-004",
+      "source": "verb",
+      "number": 4,
+      "titleEn": "Bring forward",
+      "titleZh": "提前（會議時間、截止日期）",
+      "usage": "提前（會議時間、截止日期）",
+      "synonyms": "Advance / Reschedule earlier",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The director wants to review the draft early, so the sync-up meeting has been brought forward to Thursday morning.",
+          "zh": "主管想提前審查草案，所以對齊會議已提前到週四上午。",
+          "scene": "工作"
+        },
+        {
+          "en": "Since bad weather is approaching, we decided to bring forward our flight to Los Angeles.",
+          "zh": "因為惡劣天氣即將來臨，我們決定提前飛往洛杉磯的航班。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-005",
+      "source": "verb",
+      "number": 5,
+      "titleEn": "Fall behind",
+      "titleZh": "（進度、學業）落後、跟不上",
+      "usage": "（進度、學業）落後、跟不上",
+      "synonyms": "Lag / Fail to keep up",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "If the external vendor delays the hardware shipping again, the project will fall behind schedule.",
+          "zh": "如果外部廠商再次延誤硬體出貨，專案進度將會落後。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’ve been so busy with work lately that I'm falling behind on my real estate course modules.",
+          "zh": "我最近工作太忙了，以至於營業員課程的進度有點跟不上。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-006",
+      "source": "verb",
+      "number": 6,
+      "titleEn": "Catch up",
+      "titleZh": "趕上（進度）、敘舊（跟朋友碰面聊近況）",
+      "usage": "趕上（進度）、敘舊（跟朋友碰面聊近況）",
+      "synonyms": "Reach the same point / Connect",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We need to work efficiently this afternoon to catch up on the delayed exhibition layout tasks.",
+          "zh": "我們今天下午需要高效工作，以趕上延誤的展覽館佈置進度。",
+          "scene": "工作"
+        },
+        {
+          "en": "I haven't seen my aunt in months; we should grab dinner to catch up.",
+          "zh": "我好幾個月沒見到我阿姨了，我們應該一起吃個晚餐敘敘舊。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-007",
+      "source": "verb",
+      "number": 7,
+      "titleEn": "Run into",
+      "titleZh": "遭遇（困難、瓶頸）、偶遇（某人）",
+      "usage": "遭遇（困難、瓶頸）、偶遇（某人）",
+      "synonyms": "Encounter / Meet unexpectedly",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We ran into some unexpected configuration glitches while deploying the Next.js utility application.",
+          "zh": "我們在部署 Next.js 工具應用程式時，遭遇了一些意料之外的設定故障。",
+          "scene": "工作"
+        },
+        {
+          "en": "You won't believe who I ran into at the coffee shop yesterday—an old high school classmate!",
+          "zh": "你絕對不敢相信我昨天在咖啡廳偶遇了誰——一個高中老同學！",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-008",
+      "source": "verb",
+      "number": 8,
+      "titleEn": "Call off",
+      "titleZh": "取消（活動、會議、計畫）",
+      "usage": "取消（活動、會議、計畫）",
+      "synonyms": "Cancel",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The coordinator decided to call off the afternoon session because the client couldn't attend.",
+          "zh": "窗口決定取消下午的會議，因為客戶無法出席。",
+          "scene": "工作"
+        },
+        {
+          "en": "They had to call off the outdoor photo shoot because it started pouring down rain.",
+          "zh": "因為開始下起傾盆大雨，他們不得不取消戶外的攝影行程。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-009",
+      "source": "verb",
+      "number": 9,
+      "titleEn": "Clear up",
+      "titleZh": "澄清（誤會）、解決（小問題）、（天氣）轉晴",
+      "usage": "澄清（誤會）、解決（小問題）、（天氣）轉晴",
+      "synonyms": "Clarify / Resolve",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Let’s arrange a quick call to clear up the misunderstanding regarding the budget breakdown.",
+          "zh": "我們安排個短電話，來澄清關於預算明細的誤會吧。",
+          "scene": "工作"
+        },
+        {
+          "en": "I hope the weather clears up by tomorrow so we can take the drone out for a flight.",
+          "zh": "我希望明天天氣能轉晴，這樣我們就能帶無人機出門空拍了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-010",
+      "source": "verb",
+      "number": 10,
+      "titleEn": "Follow up",
+      "titleZh": "跟進、追蹤（後續進度、郵件、客戶）",
+      "usage": "跟進、追蹤（後續進度、郵件、客戶）",
+      "synonyms": "Pursue / Check status",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "I will follow up with the graphic designer tomorrow regarding the anniversary event banners.",
+          "zh": "我明天會跟平面設計師追蹤一下週年慶活動布條的後續進度。",
+          "scene": "工作"
+        },
+        {
+          "en": "The store said they would restock the camera lens today, so I’m going to follow up with them.",
+          "zh": "店家說這款相機鏡頭今天會補貨，所以我打算去追蹤一下情況。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-011",
+      "source": "verb",
+      "number": 11,
+      "titleEn": "Put off",
+      "titleZh": "拖延、遲延（做某事，通常帶有消極拖延的意思）",
+      "usage": "拖延、遲延（做某事，通常帶有消極拖延的意思）",
+      "synonyms": "Procrastinate / Delay doing something",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We shouldn't put off reviewing the server security log files any longer.",
+          "zh": "我們不應該再拖延審查伺服器安全日誌檔案的時間了。",
+          "scene": "工作"
+        },
+        {
+          "en": "Stop putting off your packing; our transpacific flight leaves tomorrow morning!",
+          "zh": "別再拖延打包了，我們飛越太平洋的航班明天早上就要起飛了！",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-012",
+      "source": "verb",
+      "number": 12,
+      "titleEn": "Take over",
+      "titleZh": "接管、接手（工作、職位、控制權）",
+      "usage": "接管、接手（工作、職位、控制權）",
+      "synonyms": "Assume control / Replace",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "When the project manager goes on vacation, his deputy will take over his duties.",
+          "zh": "當專案經理去休假時，他的代理人將會接手他的職責。",
+          "scene": "工作"
+        },
+        {
+          "en": "Can you take over the driving for an hour? My eyes are feeling a bit strained.",
+          "zh": "你能接手開車一小時嗎？我的眼睛覺得有點疲勞。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-013",
+      "source": "verb",
+      "number": 13,
+      "titleEn": "Map out",
+      "titleZh": "詳細規劃、擬定、勾勒（時程表、藍圖、計畫）",
+      "usage": "詳細規劃、擬定、勾勒（時程表、藍圖、計畫）",
+      "synonyms": "Outline / Plan in detail",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The public relations team spent all morning mapping out the strategy for the permanent exhibition launch.",
+          "zh": "公關團隊花了一整天上午，詳細擬定常設展廳開幕的宣傳策略。",
+          "scene": "工作"
+        },
+        {
+          "en": "Before heading to Las Vegas, we spent weeks mapping out the routes to the national parks.",
+          "zh": "在前往拉斯維加斯之前，我們花了幾週詳細規劃去國家公園的路線。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-014",
+      "source": "verb",
+      "number": 14,
+      "titleEn": "Keep back",
+      "titleZh": "保留（一部分資源、資金、實力不對外公布）",
+      "usage": "保留（一部分資源、資金、實力不對外公布）",
+      "synonyms": "Reserve / Retain",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We should keep back 10% of the budget as a contingency fund for unexpected installation layout costs.",
+          "zh": "我們理當保留 10% 的預算作為準備金，以應對意料之外的裝置佈置成本。",
+          "scene": "工作"
+        },
+        {
+          "en": "When flying the drone in high winds, always keep back some extra battery power for landing.",
+          "zh": "在強風中操作無人機時，永遠要保留一些額外的電池電量以便降落。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-015",
+      "source": "verb",
+      "number": 15,
+      "titleEn": "Fill in",
+      "titleZh": "臨時頂替（職缺）；讓某人了解狀況（補足資訊 gap）",
+      "usage": "臨時頂替（職缺）；讓某人了解狀況（補足資訊 gap）",
+      "synonyms": "Substitute / Inform",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Since Kevin is out sick today, could you fill in for him at the weekly sync-up meeting?",
+          "zh": "既然 Kevin 今天請病假，你能臨時頂替他出席每週的對齊會議嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "I missed yesterday's briefing; could you fill me in on the core decisions?",
+          "zh": "我錯過了昨天的簡報，你能讓我了解一下核心決定的具體狀況嗎？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-016",
+      "source": "verb",
+      "number": 16,
+      "titleEn": "Sort out",
+      "titleZh": "解決（亂局、問題）、整理（雜物、頭緒）",
+      "usage": "解決（亂局、問題）、整理（雜物、頭緒）",
+      "synonyms": "Resolve / Organize",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We need to sort out the licensing compatibility issues before integrating the new web framework.",
+          "zh": "在整合新的網頁框架之前，我們需要解決授權相容性的問題。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’m going to spend my Saturday afternoon sorting out all my raw landscape photography files.",
+          "zh": "我打算把週六下午花在整理我所有的風景攝影原檔上。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-017",
+      "source": "verb",
+      "number": 17,
+      "titleEn": "Hand over",
+      "titleZh": "交接（工作、文件、權力）、移交",
+      "usage": "交接（工作、文件、權力）、移交",
+      "synonyms": "Transfer / Deliver",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Before you transfer to the new department, please hand over all your client logs to the team.",
+          "zh": "在你調動到新部門之前，請將你所有的客戶紀錄交接給團隊。",
+          "scene": "工作"
+        },
+        {
+          "en": "Once the security check is complete, the coordinator will hand over the event entry passes.",
+          "zh": "一旦安全檢查完成，窗口就會移交活動的入場證。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-018",
+      "source": "verb",
+      "number": 18,
+      "titleEn": "Look into",
+      "titleZh": "調查、研究、了解（某個問題、投訴、方案）",
+      "usage": "調查、研究、了解（某個問題、投訴、方案）",
+      "synonyms": "Investigate / Research",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The engineering team is currently looking into the cause of the database lag.",
+          "zh": "工程團隊目前正在調查導致資料庫延遲的原因。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’m looking into buying a more responsive wide-angle lens for travel videography.",
+          "zh": "我正在研究買一款更流暢的廣角鏡頭，用來做旅遊影音製作。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-019",
+      "source": "verb",
+      "number": 19,
+      "titleEn": "Back up",
+      "titleZh": "備份（數據）、支持/當...的後盾",
+      "usage": "備份（數據）、支持/當...的後盾",
+      "synonyms": "Support / Duplicate data",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Don't forget to back up the configuration file layout before modifying the server code.",
+          "zh": "在修改伺服器程式碼之前，別忘了備份設定檔的排版。",
+          "scene": "工作"
+        },
+        {
+          "en": "Thank you for backing me up during the discussion with the landlord; I really appreciate it.",
+          "zh": "謝謝你在跟房東討論時當我的後盾支持我，我真的很感激。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-020",
+      "source": "verb",
+      "number": 20,
+      "titleEn": "Lock in",
+      "titleZh": "最終定案、鎖定（價格、合約、時間）",
+      "usage": "最終定案、鎖定（價格、合約、時間）",
+      "synonyms": "Finalize / Secure",
+      "category": "工作與專案管理",
+      "categoryId": "verb-stage-1",
+      "categoryNo": 1,
+      "tags": [
+        "工作與專案管理",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We need to sign the contract this week to lock in the vendor's early-bird price for the interactive screens.",
+          "zh": "我們需要本週簽約，以鎖定廠商給予互動式螢幕的早鳥價格。",
+          "scene": "工作"
+        },
+        {
+          "en": "Let's book the flight tickets today to lock in our travel dates for the upcoming holiday.",
+          "zh": "我們今天就把機票訂好，以鎖定我們即將到來的假期的旅遊日期。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-021",
+      "source": "verb",
+      "number": 21,
+      "titleEn": "Run into",
+      "titleZh": "偶遇（某人）、碰見",
+      "usage": "偶遇（某人）、碰見",
+      "synonyms": "Encounter / Meet unexpectedly",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Guess who I ran into at the traditional market this morning? Our old neighbor!",
+          "zh": "猜猜我今天早上在傳統市場偶遇了誰？我們以前的老鄰居！",
+          "scene": "生活"
+        },
+        {
+          "en": "I happened to run into the general manager in the elevator, and we had a quick chat.",
+          "zh": "我剛好在電梯裡碰見總經理，我們就順便擠出時間聊了一下。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-022",
+      "source": "verb",
+      "number": 22,
+      "titleEn": "Show up",
+      "titleZh": "現身、出席、到場（特別強調「抵達、出現」的動作）",
+      "usage": "現身、出席、到場（特別強調「抵達、出現」的動作）",
+      "synonyms": "Arrive / Appear",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We waited for him at the cinema for an hour, but he didn't show up.",
+          "zh": "我們在電影院等了他一個小時，但他根本沒現身。",
+          "scene": "生活"
+        },
+        {
+          "en": "Over fifty journalists showed up for Taiwan Power Company's press conference today.",
+          "zh": "今天有超過五十位記者出席了台灣電力公司的新聞發布會。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-023",
+      "source": "verb",
+      "number": 23,
+      "titleEn": "Turn down",
+      "titleZh": "拒絕（邀請、要求、好意）；調小（音量、冷氣）",
+      "usage": "拒絕（邀請、要求、好意）；調小（音量、冷氣）",
+      "synonyms": "Reject / Refuse / Decrease volume",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "It was hard to turn down my aunt's invitation to stay at her place in Los Angeles.",
+          "zh": "要拒絕我阿姨邀請我去她洛杉磯家裡住的好意，真的很難為情。",
+          "scene": "生活"
+        },
+        {
+          "en": "The board turned down our initial proposal because the setup cost was too high.",
+          "zh": "董事會拒絕了我們最初的企劃，因為佈置成本太高了。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-024",
+      "source": "verb",
+      "number": 24,
+      "titleEn": "Hang out",
+      "titleZh": "聚會、閒晃、消磨時間（最常用來約朋友出門放鬆）",
+      "usage": "聚會、閒晃、消磨時間（最常用來約朋友出門放鬆）",
+      "synonyms": "Socialize / Spend time relaxingly",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "My wife and I love to hang out at that quiet cafe near the park on weekends.",
+          "zh": "我老婆和我週末很喜歡在公園附近那家安靜的咖啡廳消磨時間。",
+          "scene": "生活"
+        },
+        {
+          "en": "After finishing the exhibition setup, the whole team went out to hang out and grab a beer.",
+          "zh": "完成展覽佈置後，整個團隊一起出門聚聚、喝杯啤酒。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-025",
+      "source": "verb",
+      "number": 25,
+      "titleEn": "Catch up",
+      "titleZh": "敘舊、碰面聊近況、得知彼此漏掉的進度",
+      "usage": "敘舊、碰面聊近況、得知彼此漏掉的進度",
+      "synonyms": "Update each other / Share recent news",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We haven't seen each other since college, so we spent the whole evening catching up.",
+          "zh": "我們自從大學畢業後就沒見過面了，所以整個晚上都在聊彼此的近況。",
+          "scene": "生活"
+        },
+        {
+          "en": "Let’s grab a coffee tomorrow to catch up on what happened while I was away on business.",
+          "zh": "我們明天一起喝杯咖啡，來補齊一下我出差期間發生的事情吧。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-026",
+      "source": "verb",
+      "number": 26,
+      "titleEn": "Fit in",
+      "titleZh": "融入（群體、環境）；抽空安排（行程、時間）",
+      "usage": "融入（群體、環境）；抽空安排（行程、時間）",
+      "synonyms": "Adapt / Belong / Find time for",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "He moved to Taipei last year, and it didn't take him long to fit in.",
+          "zh": "他去年搬到台北，沒過多久就完全融入這裡的生活了。",
+          "scene": "生活"
+        },
+        {
+          "en": "My schedule is packed tomorrow, but I think I can fit in a brief ten-minute call.",
+          "zh": "我明天的行程滿檔，但我看應該還能為你抽空安排一個十分鐘的短暫通話。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-027",
+      "source": "verb",
+      "number": 27,
+      "titleEn": "Drop by / Drop in",
+      "titleZh": "順道拜訪、路過順便坐一下（不用預約的臨時拜訪）",
+      "usage": "順道拜訪、路過順便坐一下（不用預約的臨時拜訪）",
+      "synonyms": "Visit briefly / Pay a short visit",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "If you happen to be in the area this weekend, feel free to drop by our apartment.",
+          "zh": "如果你這週末剛好在附近，隨時歡迎順道來我們公寓坐坐。",
+          "scene": "生活"
+        },
+        {
+          "en": "The deputy director dropped by our department to check the interactive display's testing status.",
+          "zh": "副主管順道前來我們部門，查看互動式顯示器的測試狀態。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-028",
+      "source": "verb",
+      "number": 28,
+      "titleEn": "Ask out",
+      "titleZh": "約（某人）出去、提出約會邀請",
+      "usage": "約（某人）出去、提出約會邀請",
+      "synonyms": "Invite someone on a date",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "He finally gathered the courage to ask her out to dinner and a movie.",
+          "zh": "他終於鼓起勇氣約她出去吃晚餐、看電影。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-029",
+      "source": "verb",
+      "number": 29,
+      "titleEn": "Count on",
+      "titleZh": "指望、信賴、依靠（某人或某事）",
+      "usage": "指望、信賴、依靠（某人或某事）",
+      "synonyms": "Rely on / Depend on",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "You can always count on your old friends to back you up when you're in a pinch.",
+          "zh": "當你陷入困境時，你永遠可以指望你的老朋友當你的後盾。",
+          "scene": "生活"
+        },
+        {
+          "en": "We are counting on this public relations campaign to change the brand's public image.",
+          "zh": "我們正指望這次的公關宣傳活動，來翻轉品牌的公眾形象。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-030",
+      "source": "verb",
+      "number": 30,
+      "titleEn": "Look forward to",
+      "titleZh": "非常期待、盼望（注意：後面一定要接動名詞 V-ing 或名詞）",
+      "usage": "非常期待、盼望（注意：後面一定要接動名詞 V-ing 或名詞）",
+      "synonyms": "Anticipate with pleasure",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "I’m really looking forward to capturing the landscape photography during our Arizona trip.",
+          "zh": "我真的非常期待在我們的亞利桑那之旅中捕捉美麗的風景攝影。",
+          "scene": "生活"
+        },
+        {
+          "en": "We are looking forward to establishing a long-term partnership with your design firm.",
+          "zh": "我們非常期待與貴設計公司建立長期的合作關係。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-031",
+      "source": "verb",
+      "number": 31,
+      "titleEn": "Drift apart",
+      "titleZh": "漸行漸遠、感情變淡、疏遠",
+      "usage": "漸行漸遠、感情變淡、疏遠",
+      "synonyms": "Become estranged / Grow distant",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "After high school graduation, many classmates naturally drifted apart due to different paths.",
+          "zh": "高中畢業後，許多同學因為選擇了不同的道路，自然而然就漸行漸遠了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-032",
+      "source": "verb",
+      "number": 32,
+      "titleEn": "Stand out",
+      "titleZh": "脫穎而出、引人注目、格外醒目",
+      "usage": "脫穎而出、引人注目、格外醒目",
+      "synonyms": "Be conspicuous / Be prominent",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Her bright neon jacket made her stand out immediately in the crowded night market.",
+          "zh": "她明亮的霓虹外套讓她在擁擠的夜市中立刻顯得格外醒目。",
+          "scene": "生活"
+        },
+        {
+          "en": "Excellent responsive interface optimization will make our application stand out from our competitors.",
+          "zh": "優秀的響應式介面優化，將會讓我們的應用程式在競爭對手中脫穎而出。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-033",
+      "source": "verb",
+      "number": 33,
+      "titleEn": "Get along (with)",
+      "titleZh": "相處融洽、與...合得來",
+      "usage": "相處融洽、與...合得來",
+      "synonyms": "Have a harmonious relationship",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "I’m so glad that my wife and my sister get along so well with each other.",
+          "zh": "我很高興我老婆和我妹妹兩個人相處得這麼融洽。",
+          "scene": "生活"
+        },
+        {
+          "en": "It’s critical to get along with the venue coordinators to ensure the event runs smoothly.",
+          "zh": "與會場的窗口窗口相處融洽，是確保活動順利進行的關鍵。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-034",
+      "source": "verb",
+      "number": 34,
+      "titleEn": "Call back",
+      "titleZh": "回電、再打過來",
+      "usage": "回電、再打過來",
+      "synonyms": "Return a phone call",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "I'm driving right now, so I'll call you back as soon as I park the car.",
+          "zh": "我現在正在開車，一停好車我會立刻回電給你。",
+          "scene": "生活"
+        },
+        {
+          "en": "The media representative is on another line; could you please call back in ten minutes?",
+          "zh": "媒體窗口目前正在通話中，可以請您十分鐘後再打過來嗎？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-035",
+      "source": "verb",
+      "number": 35,
+      "titleEn": "Make up",
+      "titleZh": "和好、妥協；捏造（故事、藉口）；彌補",
+      "usage": "和好、妥協；捏造（故事、藉口）；彌補",
+      "synonyms": "Reconcile / Fabricate / Compensate",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "They had a huge argument yesterday morning, but they already made up last night.",
+          "zh": "他們昨天早上大吵了一架，但昨晚兩個人就已經和好了。",
+          "scene": "生活"
+        },
+        {
+          "en": "I promise to work overtime this weekend to make up for the delayed project files.",
+          "zh": "我保證這週末加班，以彌補延誤的專案檔案進度。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-036",
+      "source": "verb",
+      "number": 36,
+      "titleEn": "Talk over",
+      "titleZh": "討論、商量（通常指花時間好好坐下來談事情）",
+      "usage": "討論、商量（通常指花時間好好坐下來談事情）",
+      "synonyms": "Discuss / Debate",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Don't make a hasty decision; let’s talk it over during dinner tonight.",
+          "zh": "別匆忙做決定，我們今晚吃晚餐時再來好好商量一下。",
+          "scene": "生活"
+        },
+        {
+          "en": "We need to talk over the licensing details with our legal department before signing the contract.",
+          "zh": "在簽約之前，我們需要與法務部門好好討論一下授權細節。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-037",
+      "source": "verb",
+      "number": 37,
+      "titleEn": "Give in",
+      "titleZh": "讓步、妥協、屈服（通常指拗不過別人最後答應）",
+      "usage": "讓步、妥協、屈服（通常指拗不過別人最後答應）",
+      "synonyms": "Yield / Surrender / Concede",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The kids kept begging for ice cream, and their mom finally gave in.",
+          "zh": "孩子們一直哭求著要吃冰淇淋，媽媽最後終於妥協答應了。",
+          "scene": "生活"
+        },
+        {
+          "en": "In terms of contract price negotiation, we shouldn't give in too easily to the vendor.",
+          "zh": "在合約價格談判方面，我們不應該太輕易向廠商讓步。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-038",
+      "source": "verb",
+      "number": 38,
+      "titleEn": "Bring up",
+      "titleZh": "撫養（小孩）；提起（某個話題、事情）",
+      "usage": "撫養（小孩）；提起（某個話題、事情）",
+      "synonyms": "Raise children / Mention a topic",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Please don't bring up his old job during dinner; he is still sensitive about it.",
+          "zh": "晚餐時請千萬別提起他舊工作的事，他現在對這件事依然很敏感。",
+          "scene": "生活"
+        },
+        {
+          "en": "I plan to bring up the venue utility budget issue during tomorrow's sync-up meeting.",
+          "zh": "我計劃在明天的對齊會議上，提起會場水電預算的問題。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-039",
+      "source": "verb",
+      "number": 39,
+      "titleEn": "Put up with",
+      "titleZh": "忍受、容忍、對...將就（非常無奈地忍耐）",
+      "usage": "忍受、容忍、對...將就（非常無奈地忍耐）",
+      "synonyms": "Tolerate / Endure",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "I don't know how she puts up with her husband's constant complaining about everything.",
+          "zh": "我真不知道她怎麼能忍受她老公對所有事情都不停地抱怨。",
+          "scene": "生活"
+        },
+        {
+          "en": "We can't put up with this server's terrible configuration lag anymore; we need an upgrade.",
+          "zh": "我們再也無法忍受這個伺服器糟糕的設定延遲了，我們需要升級。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-040",
+      "source": "verb",
+      "number": 40,
+      "titleEn": "Mix up",
+      "titleZh": "搞混、弄錯（分不清楚兩個很像的人、時間或事物）",
+      "usage": "搞混、弄錯（分不清楚兩個很像的人、時間或事物）",
+      "synonyms": "Confuse / Muddle",
+      "category": "生活、社交與人際互動",
+      "categoryId": "verb-stage-2",
+      "categoryNo": 2,
+      "tags": [
+        "生活、社交與人際互動",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The twins look so identical that everyone constantly mixes them up.",
+          "zh": "這對雙胞胎長得太像了，以至於大家經常把他們兩個人搞混。",
+          "scene": "生活"
+        },
+        {
+          "en": "The coordinator mixed up the dates and sent out the wrong calendar invitations to the team.",
+          "zh": "窗口弄錯了日期，結果把錯誤的行事曆邀請發給了整個團隊。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-041",
+      "source": "verb",
+      "number": 41,
+      "titleEn": "Set up",
+      "titleZh": "設定（參數/環境）、安裝（軟體）、佈置（場地）",
+      "usage": "設定（參數/環境）、安裝（軟體）、佈置（場地）",
+      "synonyms": "Configure / Install / Arrange",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "It took me all morning to set up the local development environment for the new Next.js project.",
+          "zh": "我花了整個上午的時間，才把新 Next.js 專案的本地開發環境給設定好。",
+          "scene": "工作"
+        },
+        {
+          "en": "Could you help me set up the new home Wi-Fi router? The configuration steps look a bit complicated.",
+          "zh": "你能幫我安裝設定新的家用 Wi-Fi 分享器嗎？設定步驟看起來有點複雜。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-042",
+      "source": "verb",
+      "number": 42,
+      "titleEn": "Log into / Log in",
+      "titleZh": "登入（帳號、系統、平台）",
+      "usage": "登入（帳號、系統、平台）",
+      "synonyms": "Authenticate / Access system",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Please log into the cloud dashboard to verify the website traffic data analysis results.",
+          "zh": "請登入雲端控制台，以核實網站流量數據分析的結果。",
+          "scene": "工作"
+        },
+        {
+          "en": "I can't log into my streaming account; I think I might have mixed up the password.",
+          "zh": "我登入不了我的影音串流帳號，我想我可能把密碼給搞混了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-043",
+      "source": "verb",
+      "number": 43,
+      "titleEn": "Back up",
+      "titleZh": "備份（數據、資料、系統設定）",
+      "usage": "備份（數據、資料、系統設定）",
+      "synonyms": "Duplicate data / Archive",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Before deploying the code patch, make sure you back up the production database files.",
+          "zh": "在部署程式碼補丁之前，請確保你有先備份正式環境的資料庫檔案。",
+          "scene": "工作"
+        },
+        {
+          "en": "I always back up my raw photography and media files onto an external drive after every trip.",
+          "zh": "每次旅行回來後，我一定會把我所有的攝影原檔與媒體檔案備份到外接硬碟裡。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-044",
+      "source": "verb",
+      "number": 44,
+      "titleEn": "Go off",
+      "titleZh": "（警報、鬧鐘）響起；（電力/系統）突然中斷或出故障",
+      "usage": "（警報、鬧鐘）響起；（電力/系統）突然中斷或出故障",
+      "synonyms": "Explode / Ring loudly / Malfunction",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The server room alarm went off all of a sudden because the internal temperature leaked.",
+          "zh": "因為內部溫度異常，伺服器房的警報器突然間響了起來。",
+          "scene": "工作"
+        },
+        {
+          "en": "My drone's low-battery warning went off during the flight, so I had to land it immediately.",
+          "zh": "飛行過程中無人機的低電量警報響了起來，所以我不得不立刻讓它降落。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-045",
+      "source": "verb",
+      "number": 45,
+      "titleEn": "Shut down",
+      "titleZh": "關機、關閉（系統）、停工",
+      "usage": "關機、關閉（系統）、停工",
+      "synonyms": "Terminate / Power off / Cease operations",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We need to temporarily shut down the main server for maintenance at midnight.",
+          "zh": "我們需要在半夜暫時關閉主伺服器來進行維護。",
+          "scene": "工作"
+        },
+        {
+          "en": "Remember to shut down your computer properly before leaving for the long weekend holiday.",
+          "zh": "連假出遊前，記得要把電腦妥善關機。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-046",
+      "source": "verb",
+      "number": 46,
+      "titleEn": "Clear out",
+      "titleZh": "清除（快取、垃圾資料、空間）、清空",
+      "usage": "清除（快取、垃圾資料、空間）、清空",
+      "synonyms": "Delete permanently / Empty / Purge",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The app is running slow; we should clear out the database logs to optimize performance.",
+          "zh": "應用程式跑得有點慢；我們理當清除資料庫日誌來優化效能。",
+          "scene": "工作"
+        },
+        {
+          "en": "I need to clear out some storage space on my memory card before the landscape photo shoot.",
+          "zh": "在進行風景攝影拍攝之前，我需要清空記憶卡裡的某些儲存空間。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-047",
+      "source": "verb",
+      "number": 47,
+      "titleEn": "Pick up",
+      "titleZh": "接收/偵測到（訊號、座標、網路）；領取/拾起",
+      "usage": "接收/偵測到（訊號、座標、網路）；領取/拾起",
+      "synonyms": "Detect / Acquire signal / Collect",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The controller is struggling to pick up the GPS coordinate signal near these high buildings.",
+          "zh": "在這些高樓建築附近，遙控器很難接收到 GPS 座標訊號。",
+          "scene": "生活"
+        },
+        {
+          "en": "Our system automatically picks up any configuration syntax errors during code compilation.",
+          "zh": "我們的系統在程式碼編譯期間，會自動偵測到任何設定上的語法錯誤。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-048",
+      "source": "verb",
+      "number": 48,
+      "titleEn": "Wipe out",
+      "titleZh": "徹底抹除、完全清除（數據、檔案、努力的成果）",
+      "usage": "徹底抹除、完全清除（數據、檔案、努力的成果）",
+      "synonyms": "Erase completely / Eradicate",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "A sudden power surge completely wiped out the unsaved system layout configuration files.",
+          "zh": "突如其來的電壓突波，完全抹除了未存檔的系統版面設定檔案。",
+          "scene": "工作"
+        },
+        {
+          "en": "One accidental format command wiped out all the travel videography files I captured last week.",
+          "zh": "一次不小心的格式化指令，就把我上週拍攝的所有旅遊影像檔案清空抹除了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-049",
+      "source": "verb",
+      "number": 49,
+      "titleEn": "Hack into",
+      "titleZh": "駭入、侵入（網路、伺服器、個人帳號）",
+      "usage": "駭入、侵入（網路、伺服器、個人帳號）",
+      "synonyms": "Gain unauthorized access / Breach",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The security system successfully blocked an external attempt to hack into our company database.",
+          "zh": "安全系統成功攔截了一次試圖駭入我們公司資料庫的外部企圖。",
+          "scene": "工作"
+        },
+        {
+          "en": "Someone tried to hack into my social media account, so the system locked me out for safety.",
+          "zh": "有人試圖侵入我的社群媒體帳號，所以系統為了安全起見把我鎖在外面了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-050",
+      "source": "verb",
+      "number": 50,
+      "titleEn": "Boot up",
+      "titleZh": "開機（特指電腦、伺服器或系統開始載入運作的過程）",
+      "usage": "開機（特指電腦、伺服器或系統開始載入運作的過程）",
+      "synonyms": "Initialize system / Start computer",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "It takes a few minutes for the legacy server infrastructure to boot up completely.",
+          "zh": "舊款的伺服器基礎架構需要幾分鐘的時間才能完全開機載入完畢。",
+          "scene": "工作"
+        },
+        {
+          "en": "My laptop boots up incredibly fast since I upgraded the main operating drive.",
+          "zh": "自從我升級了主硬碟後，我的筆電開機速度變得驚人地快。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-051",
+      "source": "verb",
+      "number": 51,
+      "titleEn": "Roll out",
+      "titleZh": "推出（新功能）、全面上線、發布（軟體、產品）",
+      "usage": "推出（新功能）、全面上線、發布（軟體、產品）",
+      "synonyms": "Launch / Deploy to public / Introduce",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We plan to roll out the interactive interface update to all users by next Tuesday.",
+          "zh": "我們計劃在下週二之前，向所有使用者全面推出互動介面的更新。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-052",
+      "source": "verb",
+      "number": 52,
+      "titleEn": "Click through",
+      "titleZh": "點擊進入、點閱（常用於追蹤網頁連結或數位廣告的點擊率）",
+      "usage": "點擊進入、點閱（常用於追蹤網頁連結或數位廣告的點擊率）",
+      "synonyms": "Navigate by clicking / Track conversions",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We need to analyze how many visitors actually click through to the event registration link.",
+          "zh": "我們需要分析究竟有多少參觀者真的點擊進入活動報名連結。",
+          "scene": "工作"
+        },
+        {
+          "en": "I was browsing Klook and ended up clicking through to buy attraction tickets for Las Vegas.",
+          "zh": "我當時正在瀏覽 Klook，結果一路點擊進入買了拉斯維加斯的景點門票。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-053",
+      "source": "verb",
+      "number": 53,
+      "titleEn": "Key in",
+      "titleZh": "鍵入、輸入（資料、密碼、數據代碼）",
+      "usage": "鍵入、輸入（資料、密碼、數據代碼）",
+      "synonyms": "Input / Type data",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Please double-check the figures before you key them in to the budget analysis sheet.",
+          "zh": "在您將數據鍵入預算分析表之前，請務必再次核對數字。",
+          "scene": "工作"
+        },
+        {
+          "en": "Make sure you key in the correct coordinate parameters into your drone controller navigation layout.",
+          "zh": "確保你有在無人機遙控器的導航版面上鍵入正確的座標參數。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-054",
+      "source": "verb",
+      "number": 54,
+      "titleEn": "Freeze up",
+      "titleZh": "當機、卡死、畫面凍結（指軟體或系統完全沒反應）",
+      "usage": "當機、卡死、畫面凍結（指軟體或系統完全沒反應）",
+      "synonyms": "Stop responding / Crash / Lock",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The application layout tends to freeze up whenever users import large data files.",
+          "zh": "每當使用者匯入大型數據檔案時，應用程式的版面往往就會卡死沒反應。",
+          "scene": "工作"
+        },
+        {
+          "en": "My favorite photo editing software keeps freezing up after the latest system deployment.",
+          "zh": "自從最新一次的系統更新後，我最喜歡的相片編輯軟體就一直出現畫面凍結。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-055",
+      "source": "verb",
+      "number": 55,
+      "titleEn": "Tap into",
+      "titleZh": "接入（系統/網絡）；利用、開發、對接（資源、數據）",
+      "usage": "接入（系統/網絡）；利用、開發、對接（資源、數據）",
+      "synonyms": "Utilize / Leverage / Connect to",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The new front-end framework allows us to tap into the server-side rendering benefits of Next.js.",
+          "zh": "新的前端框架允許我們對接並利用 Next.js 伺服器端渲染的好處。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-056",
+      "source": "verb",
+      "number": 56,
+      "titleEn": "Sync up (with)",
+      "titleZh": "（進度/認知）對齊、同步；（設備/數據）同步資料",
+      "usage": "（進度/認知）對齊、同步；（設備/數據）同步資料",
+      "synonyms": "Synchronize / Align progress",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Let’s sync up tomorrow morning to make sure everyone is on the same page regarding the venue design.",
+          "zh": "我們明天早上對齊一下進度，確保大家對場地設計的認知完全一致。",
+          "scene": "工作"
+        },
+        {
+          "en": "Once my camera connects to Wi-Fi, it will automatically sync up all new photography files with my phone.",
+          "zh": "相機一旦連上 Wi-Fi，它就會自動將所有新的相片檔案同步到我的手機上。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-057",
+      "source": "verb",
+      "number": 57,
+      "titleEn": "Sign out / Log out",
+      "titleZh": "登出（系統、帳號、平台）",
+      "usage": "登出（系統、帳號、平台）",
+      "synonyms": "Terminate session / Deauthenticate",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "For data safety reasons, always sign out of the cloud development infrastructure before leaving your desk.",
+          "zh": "出於數據安全考量，離開座位前請務必登出雲端開發架構平台。",
+          "scene": "工作"
+        },
+        {
+          "en": "I forgot to sign out of my Google account on the public computer at the hotel terminal.",
+          "zh": "我忘了在飯店大廳的公用電腦上登出我的 Google 帳號了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-058",
+      "source": "verb",
+      "number": 58,
+      "titleEn": "Look up",
+      "titleZh": "查詢（資料、代碼、單字）；事情好轉（口語）",
+      "usage": "查詢（資料、代碼、單字）；事情好轉（口語）",
+      "synonyms": "Query / Search data / Improve",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "If you encounter an unfamiliar Tailwind CSS style, you can look it up in the documentation layout.",
+          "zh": "如果您遇到不熟悉的 Tailwind CSS 樣式，可以在文件排版中查詢。",
+          "scene": "工作"
+        },
+        {
+          "en": "I need to look up the specific drone flight regulations for this national park coordinate area.",
+          "zh": "我需要查詢這座國家公園座標區域的具體無人機飛行法規。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-059",
+      "source": "verb",
+      "number": 59,
+      "titleEn": "Break down",
+      "titleZh": "（機器、硬體）故障/壞掉；細分、拆解（預算、數據、分析）",
+      "usage": "（機器、硬體）故障/壞掉；細分、拆解（預算、數據、分析）",
+      "synonyms": "Malfunction / Analyze in detail",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Could you please break down the exhibition venue costs by department for our evaluation?",
+          "zh": "能否請您將展覽場地的成本按部門進行細分，以便我們評估？",
+          "scene": "工作"
+        },
+        {
+          "en": "Our car broke down on the highway to Las Vegas, so we had to call for a tow truck on short notice.",
+          "zh": "我們的車在去拉斯維加斯的高速公路上故障了，所以我們不得不臨時叫拖吊車。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-060",
+      "source": "verb",
+      "number": 60,
+      "titleEn": "Work out",
+      "titleZh": "解決（技術問題、邏輯bug）；計算出（數據/代價）；健身（生活口語）",
+      "usage": "解決（技術問題、邏輯bug）；計算出（數據/代價）；健身（生活口語）",
+      "synonyms": "Resolve / Calculate / Exercise",
+      "category": "科技、系統與日常操作",
+      "categoryId": "verb-stage-3",
+      "categoryNo": 3,
+      "tags": [
+        "科技、系統與日常操作",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The front-end team is collaborating with the backend developers to work out the system integration glitch.",
+          "zh": "前端團隊正與後端開發人員通力合作，以解決系統整合的故障。",
+          "scene": "工作"
+        },
+        {
+          "en": "I try to work out at the gym at least three times a week to maintain my energy levels.",
+          "zh": "我試著每週至少去健身房健身三次，以保持我的活力狀態。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-061",
+      "source": "verb",
+      "number": 61,
+      "titleEn": "Get over",
+      "titleZh": "克服（困難）、從...之中恢復/走出來（時差、疾病、情感打擊）",
+      "usage": "克服（困難）、從...之中恢復/走出來（時差、疾病、情感打擊）",
+      "synonyms": "Overcome / Recover from / Surpass",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "It usually takes me a few days to get over the jet lag after flying across the Pacific Ocean back to Taipei.",
+          "zh": "飛越太平洋回到台北後，我通常需要花幾天時間才能克服時差。",
+          "scene": "生活"
+        },
+        {
+          "en": "The team needs to get over the disappointment of losing the initial pitch and focus on the revision.",
+          "zh": "團隊需要從失去第一輪提案的失望中走出來，並專注於修改。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-062",
+      "source": "verb",
+      "number": 62,
+      "titleEn": "Burn out",
+      "titleZh": "（身心）精疲力竭、過勞（指長期高壓工作後失去動力的焦慮狀態）",
+      "usage": "（身心）精疲力竭、過勞（指長期高壓工作後失去動力的焦慮狀態）",
+      "synonyms": "Exhaust / Deplete energy",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "If we keep working overtime every night to rush the layout deployment, the developers will burn out.",
+          "zh": "如果我們每晚都加班來趕版面部署，開發人員遲早會精疲力竭的。",
+          "scene": "工作"
+        },
+        {
+          "en": "After editing high-intensity video projects for weeks, I felt completely burned out and needed a break.",
+          "zh": "連續幾週進行高強度的影音剪輯專案後，我感到完全精疲力竭，需要休息一下。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-063",
+      "source": "verb",
+      "number": 63,
+      "titleEn": "Cheer up",
+      "titleZh": "（使）振作起來、高興起來",
+      "usage": "（使）振作起來、高興起來",
+      "synonyms": "Encourage / Become happier",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We brought him to a nice Italian restaurant downtown to cheer him up after his drone crashed.",
+          "zh": "在他的無人機摔機後，我們帶他去市中心一家不錯的義大利餐廳，好讓他振作起來。",
+          "scene": "生活"
+        },
+        {
+          "en": "The director shared the positive user feedback to cheer up the team after a long week of work.",
+          "zh": "在辛勞工作了一整週後，主管分享了正面的使用者回饋，好讓團隊振作精神。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-064",
+      "source": "verb",
+      "number": 64,
+      "titleEn": "Give up",
+      "titleZh": "放棄、半途而廢",
+      "usage": "放棄、半途而廢",
+      "synonyms": "Surrender / Quit / Abandon",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Learning a new application framework can be frustrating, but don't give up just yet.",
+          "zh": "學習新的應用程式框架可能會令人沮喪，但先別急著放棄。",
+          "scene": "生活"
+        },
+        {
+          "en": "The technical team refused to give up until they found the root cause of the server glitch.",
+          "zh": "技術團隊拒絕放棄，直到他們找到伺服器故障的根本原因為止。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-065",
+      "source": "verb",
+      "number": 65,
+      "titleEn": "Calm down",
+      "titleZh": "冷靜下來、平靜下來",
+      "usage": "冷靜下來、平靜下來",
+      "synonyms": "Relax / Compose oneself",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Take a deep breath and calm down before you try to recalibrate the hardware configuration.",
+          "zh": "在你想重新校準硬體設定之前，深呼吸，先冷靜下來。",
+          "scene": "生活"
+        },
+        {
+          "en": "The public relations manager managed to calm down the angry customer by offering a practical solution.",
+          "zh": "公關經理透過提出實用的解決方案，成功讓憤怒的客戶冷靜下來。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-066",
+      "source": "verb",
+      "number": 66,
+      "titleEn": "Face up to",
+      "titleZh": "勇敢面對、正視（令人不快的現實或困難）",
+      "usage": "勇敢面對、正視（令人不快的現實或困難）",
+      "synonyms": "Accept / Confront bravely",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We have to face up to the fact that the permanent exhibition renovation budget will not be extended.",
+          "zh": "我們必須正視這個事實：常設展廳的改造預算將不會再增加了。",
+          "scene": "工作"
+        },
+        {
+          "en": "It’s time to face up to your fears and sign up for the salesperson course examination.",
+          "zh": "是時候勇敢面對你的恐懼，報名營業員的課程考試了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-067",
+      "source": "verb",
+      "number": 67,
+      "titleEn": "Think over",
+      "titleZh": "仔細考慮、深思熟慮（通常需要花時間評估利弊）",
+      "usage": "仔細考慮、深思熟慮（通常需要花時間評估利弊）",
+      "synonyms": "Consider carefully / Ponder",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "I need to think over whether to invest in a high-end cinema camera lens or an upgraded laptop framework.",
+          "zh": "我需要仔細考慮是要投資高階電影相機鏡頭，還是升級筆電架構。",
+          "scene": "生活"
+        },
+        {
+          "en": "The director told us to think over the vendor’s terms before making a final consensus choice.",
+          "zh": "主管讓我們在做出最終的共識抉擇前，先仔細考慮一下廠商的條件。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-068",
+      "source": "verb",
+      "number": 68,
+      "titleEn": "Deal with",
+      "titleZh": "處理、應對（棘手的問題、人或狀況）",
+      "usage": "處理、應對（棘手的問題、人或狀況）",
+      "synonyms": "Handle / Manage / Address",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Public relations professionals are fully trained to deal with unexpected crisis management issues.",
+          "zh": "公關專業人員都受過完善的訓練，能從容處理意料之外的危機管理問題。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’m trying to deal with the responsive layout bug, but the stylesheet configuration is a mess.",
+          "zh": "我正試著處理前端響應式排版的錯誤，但樣式表設定一團糟。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-069",
+      "source": "verb",
+      "number": 69,
+      "titleEn": "Brush off",
+      "titleZh": "迎風拂去、對...不予理睬、一笑置之（形容不在乎、不被負面情緒影響）",
+      "usage": "迎風拂去、對...不予理睬、一笑置之（形容不在乎、不被負面情緒影響）",
+      "synonyms": "Dismiss / Ignore coldly",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "He just brushed off the negative comments about his travel video and kept creating media content.",
+          "zh": "他對關於他旅遊影片的負面評論一笑置之，並繼續創作影音內容。",
+          "scene": "生活"
+        },
+        {
+          "en": "Don't brush off the technical coordinator’s evaluation; his feedback is highly valuable.",
+          "zh": "別不理睬技術窗口的評估意見，他的回饋是非常有價值的。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-070",
+      "source": "verb",
+      "number": 70,
+      "titleEn": "Put up with",
+      "titleZh": "忍受、容忍、將就（無奈地去包容某種糟糕的環境或行為）",
+      "usage": "忍受、容忍、將就（無奈地去包容某種糟糕的環境或行為）",
+      "synonyms": "Tolerate / Endure passive",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We can no longer put up with the continuous delays caused by this secondary hardware supplier.",
+          "zh": "我們再也無法容忍由這家二級硬體供應商所造成的持續延誤了。",
+          "scene": "工作"
+        },
+        {
+          "en": "I don’t know how she puts up with the terrible city noise; I prefer living near quiet scenic views.",
+          "zh": "我不知道她怎麼忍受得了糟糕的城市噪音，我個人比較喜歡住在清幽的風景區附近。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-071",
+      "source": "verb",
+      "number": 71,
+      "titleEn": "Look down on",
+      "titleZh": "瞧不起、輕視、看不起（帶有居高臨下的傲慢態度）",
+      "usage": "瞧不起、輕視、看不起（帶有居高臨下的傲慢態度）",
+      "synonyms": "Despise / Scorn",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "You shouldn't look down on basic utility applications; sometimes they solve the most direct problems.",
+          "zh": "你不應該瞧不起基礎的工具型應用程式，有時候它們解決了最直接的問題。",
+          "scene": "生活"
+        },
+        {
+          "en": "A great leader never looks down on junior developers who are still learning the Next.js framework.",
+          "zh": "一位優秀的領導者絕不會輕視那些還在學習 Next.js 框架的初級開發人員。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-072",
+      "source": "verb",
+      "number": 72,
+      "titleEn": "Look up to",
+      "titleZh": "仰慕、尊敬、把...視為榜樣",
+      "usage": "仰慕、尊敬、把...視為榜樣",
+      "synonyms": "Admire / Respect deeply",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Many aspiring creators look up to him for his professional-grade cinematography skills.",
+          "zh": "許多有志於創作的人都非常仰慕他，並將他專業級的影音製作技巧視為榜樣。",
+          "scene": "生活"
+        },
+        {
+          "en": "The entire department looks up to the public relations official for her exceptional communication strategy.",
+          "zh": "整個部門都非常尊敬這位公關官員，因為她擁有卓越的溝通策略。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-073",
+      "source": "verb",
+      "number": 73,
+      "titleEn": "Shake off",
+      "titleZh": "擺脫、甩掉（負面情緒、時差、壞習慣、追兵）",
+      "usage": "擺脫、甩掉（負面情緒、時差、壞習慣、追兵）",
+      "synonyms": "Rid oneself of / Discard",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "It took a nice warm shower and a hot cup of coffee to shake off my morning fatigue.",
+          "zh": "洗個舒服的熱水澡並喝杯熱咖啡，才終於甩掉了我早晨的疲憊感。",
+          "scene": "生活"
+        },
+        {
+          "en": "The company managed to shake off its old traditional image by deploying interactive digital exhibits.",
+          "zh": "公司透過佈署互動式數位展品，成功擺脫了過往傳統的舊形象。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-074",
+      "source": "verb",
+      "number": 74,
+      "titleEn": "Back down",
+      "titleZh": "認輸、退讓、放棄立場（通常指在爭論中讓步）",
+      "usage": "認輸、退讓、放棄立場（通常指在爭論中讓步）",
+      "synonyms": "Yield / Concede in argument",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Even when facing harsh criticism, she refused to back down on her core Net Zero layout concept.",
+          "zh": "即使面臨嚴厲的批評，她也拒絕在她核心的淨零排放展廳規劃概念上做出退讓。",
+          "scene": "工作"
+        },
+        {
+          "en": "Neither driver wanted to back down after the minor road incident, causing a huge traffic jam.",
+          "zh": "在小小的擦撞事件後，兩位司機都不願意退讓退縮，導致了嚴重的塞車。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-075",
+      "source": "verb",
+      "number": 75,
+      "titleEn": "Open up",
+      "titleZh": "敞開心扉、坦白說出心裡話；展現出新機會",
+      "usage": "敞開心扉、坦白說出心裡話；展現出新機會",
+      "synonyms": "Reveal feelings / Unblock",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "It takes time for him to open up and share his true feelings with new friends.",
+          "zh": "他需要花一些時間才能敞開心扉，與新朋友分享他的真實感受。",
+          "scene": "生活"
+        },
+        {
+          "en": "Mastering the Tailwind CSS framework will open up new possibilities for your front-end layout career.",
+          "zh": "精通 Tailwind CSS 框架，將會為你的前端版面開發職涯展現出全新的可能性。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-076",
+      "source": "verb",
+      "number": 76,
+      "titleEn": "Lean on",
+      "titleZh": "依賴、依靠（特別指在情感、心理上將某人視為支柱）",
+      "usage": "依賴、依靠（特別指在情感、心理上將某人視為支柱）",
+      "synonyms": "Depend for emotional support",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "During tough times, it’s a blessing to have close family members to lean on.",
+          "zh": "在艱難的時期，能有親近的家人可以依靠，真是一種福氣。",
+          "scene": "生活"
+        },
+        {
+          "en": "When running into complex configuration issues, junior staff always lean on the senior engineers.",
+          "zh": "當遇到複雜的設定問題時，初級員工總是會依賴資深工程師的協助。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "verb-077",
+      "source": "verb",
+      "number": 77,
+      "titleEn": "Standardize on (或常用 Keep to)",
+      "titleZh": "堅持（某種態度/原則）、嚴格遵循（規範/計畫）",
+      "usage": "堅持（某種態度/原則）、嚴格遵循（規範/計畫）",
+      "synonyms": "Adhere to / Comply with",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "We must keep to our high standards regarding user data privacy and configuration safety.",
+          "zh": "我們必須堅持我們在使用者數據隱私與設定安全方面的高標準。",
+          "scene": "工作"
+        },
+        {
+          "en": "No matter how busy I am, I try to keep to my goal of completing at least one interactive test case daily.",
+          "zh": "不論有多忙，我都努力堅持自己每天至少完成一個互動式測試案例的目標。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-078",
+      "source": "verb",
+      "number": 78,
+      "titleEn": "Pass out",
+      "titleZh": "昏倒、失去知覺；醉倒睡著（生活口語）",
+      "usage": "昏倒、失去知覺；醉倒睡著（生活口語）",
+      "synonyms": "Faint / Lose consciousness",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "He was so exhausted after the transpacific flight that he almost passed out on the hotel sofa.",
+          "zh": "搭完跨太平洋航班後他實在太累了，差點在飯店沙發上昏睡過去。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-079",
+      "source": "verb",
+      "number": 79,
+      "titleEn": "Stand by",
+      "titleZh": "支持（某人）、力挺；（系統/人員）嚴陣以待、隨時待命",
+      "usage": "支持（某人）、力挺；（系統/人員）嚴陣以待、隨時待命",
+      "synonyms": "Support someone / Remain ready",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "The engineering team will stand by during the live deployment showcase to fix any sudden logic bugs.",
+          "zh": "工程團隊將在現場部署展示期間隨時待命，以修復任何突發的邏輯錯誤。",
+          "scene": "工作"
+        },
+        {
+          "en": "I promise to stand by you no matter what challenges we face down the road.",
+          "zh": "我承諾無論我們未來面臨什麼挑戰，我都一定會全力支持你。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "verb-080",
+      "source": "verb",
+      "number": 80,
+      "titleEn": "Key off (或常用 Pivot on)",
+      "titleZh": "根據...做出應變、隨...調整（態度、策略、步伐）",
+      "usage": "根據...做出應變、隨...調整（態度、策略、步伐）",
+      "synonyms": "Respond to / Adapt based on",
+      "category": "情感、態度與應變思維",
+      "categoryId": "verb-stage-4",
+      "categoryNo": 4,
+      "tags": [
+        "情感、態度與應變思維",
+        "片語動詞"
+      ],
+      "examples": [
+        {
+          "en": "Our public relations strategy must pivot on the real-time social media evaluation feedback.",
+          "zh": "我們的公關策略必須根據即時的社群媒體評估回饋，隨時做出彈性調整。",
+          "scene": "工作"
+        },
+        {
+          "en": "When flying a drone, your steering controls must key off the sudden wind speed parameter changes.",
+          "zh": "操作無人機飛行時，你的搖桿控制必須根據突發的風速參數變化來隨時進行調整。",
+          "scene": "生活"
+        }
+      ]
+    }
+  ]
+}

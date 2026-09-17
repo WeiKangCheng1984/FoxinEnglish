@@ -1,0 +1,5504 @@
+{
+  "types": [
+    {
+      "id": "ask",
+      "no": 1,
+      "title": "提問探詢",
+      "titleEn": "Ask & Explore",
+      "intent": "開啟話題、挖深觀點、讓對話延續",
+      "blocks": [
+        {
+          "letter": "A",
+          "name": "破冰式觸探",
+          "subtitle": "無痛開啟話題",
+          "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。"
+        },
+        {
+          "letter": "B",
+          "name": "深度觀點挖掘",
+          "subtitle": "掏出真心話",
+          "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。"
+        },
+        {
+          "letter": "C",
+          "name": "迴旋式追問",
+          "subtitle": "引導話題無限延伸",
+          "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。"
+        },
+        {
+          "letter": "D",
+          "name": "反向引力",
+          "subtitle": "打破常規的創意思考發問",
+          "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。"
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "no": 2,
+      "title": "表達觀點",
+      "titleEn": "Share a View",
+      "intent": "鋪陳想法、溫和不同意、果斷肯定",
+      "blocks": [
+        {
+          "letter": "A",
+          "name": "溫和墊句",
+          "subtitle": "優雅承接再拋出",
+          "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。"
+        },
+        {
+          "letter": "B",
+          "name": "立體鋪陳",
+          "subtitle": "多維度展現想法",
+          "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。"
+        },
+        {
+          "letter": "C",
+          "name": "高EQ太極",
+          "subtitle": "優雅表達不同意見",
+          "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。"
+        },
+        {
+          "letter": "D",
+          "name": "定海神針",
+          "subtitle": "強烈肯定的拍板觀點",
+          "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "no": 3,
+      "title": "說故事",
+      "titleEn": "Tell a Story",
+      "intent": "懸念開場、細節推進、高潮與收尾",
+      "blocks": [
+        {
+          "letter": "A",
+          "name": "懸念式開頭",
+          "subtitle": "瞬間勾起好奇心",
+          "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。"
+        },
+        {
+          "letter": "B",
+          "name": "情境帶入",
+          "subtitle": "細節鋪陳與推進",
+          "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。"
+        },
+        {
+          "letter": "C",
+          "name": "高潮轉折",
+          "subtitle": "劇情反轉的瞬間",
+          "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！"
+        },
+        {
+          "letter": "D",
+          "name": "畫龍點睛",
+          "subtitle": "收尾與引發強烈共鳴",
+          "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。"
+        }
+      ]
+    },
+    {
+      "id": "empathy",
+      "no": 4,
+      "title": "同理傾聽",
+      "titleEn": "Listen with Empathy",
+      "intent": "接住情緒、重述、賦能、引導說出來",
+      "blocks": [
+        {
+          "letter": "A",
+          "name": "情緒同頻",
+          "subtitle": "精準接住對方的情緒",
+          "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。"
+        },
+        {
+          "letter": "B",
+          "name": "換句話說",
+          "subtitle": "神級反饋證明你在聽",
+          "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。"
+        },
+        {
+          "letter": "C",
+          "name": "積極賦能",
+          "subtitle": "給予最高EQ的支持與肯定",
+          "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。"
+        },
+        {
+          "letter": "D",
+          "name": "引導宣洩",
+          "subtitle": "安全又溫暖的延伸提問",
+          "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "cat-1-a-01",
+      "source": "catalogue",
+      "titleEn": "I’ve been meaning to ask someone who knows about [領域]... How did you get into [主題]?",
+      "titleZh": "我一直想問懂〔領域〕的人……你是怎麼開始接觸〔主題〕的？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "領域",
+          "examples": [
+            "coding",
+            "marketing"
+          ]
+        },
+        {
+          "name": "主題",
+          "examples": [
+            "UI design",
+            "running marathons"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "I’ve been meaning to ask someone who knows about coding... How did you get into UI design?",
+          "zh": "我一直想問懂行的人……你是怎麼開始接觸UI設計的？",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "I've been meaning to",
+      "layerRole": "破冰公式：用「一直想問」降低搭話壓力。",
+      "togetherHint": "句型層表達「想做很久但被耽擱」。公式層把同一結構變成破冰：我一直想問懂這行的人。一個講自己的待辦，一個打開別人的故事。",
+      "togetherExample": "I’ve been meaning to ask someone who knows about this industry… How did you get into UI design?",
+      "togetherZh": "我一直想問懂這行的人……你是怎麼開始接觸 UI 設計的？",
+      "related": [
+        {
+          "id": "phrase-020",
+          "source": "phrase",
+          "titleEn": "I've been meaning to...",
+          "titleZh": "我一直想著要...",
+          "role": "表達個人一直想做的事。"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-02",
+      "source": "catalogue",
+      "titleEn": "I couldn’t help but notice your [物品/配件]. What’s the story behind it?",
+      "titleZh": "我忍不住注意到你的〔物品/配件〕。它背後有什麼故事？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "高段位讚美兼開場",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "物品/配件",
+          "examples": [
+            "unique phone case",
+            "beautiful watch",
+            "vintage jacket"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "I couldn’t help but notice your unique phone case. What’s the story behind it?",
+          "zh": "我忍不住注意到你的復古夾克，它有什麼故事嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-03",
+      "source": "catalogue",
+      "titleEn": "So, what’s keeping you busy and excited these days outside of [工作/學校]?",
+      "titleZh": "所以，〔工作/學校〕之外，最近有什麼事讓你又忙又興奮？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "工作/學校",
+          "examples": [
+            "work",
+            "classes",
+            "the office"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "So, what’s keeping you busy and excited these days outside of work?",
+          "zh": "所以，最近上班之外，有什麼事讓你忙碌又興奮的嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-04",
+      "source": "catalogue",
+      "titleEn": "I’m trying to expand my [清單] playlist. Any must-try [清單項目] around here?",
+      "titleZh": "我正想擴充我的〔清單〕清單。這附近有什麼必試的〔清單項目〕？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "清單",
+          "examples": [
+            "coffee",
+            "podcast",
+            "weekend getaway"
+          ]
+        },
+        {
+          "name": "清單項目",
+          "examples": [
+            "cafes",
+            "episodes",
+            "spots"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "I’m trying to expand my coffee playlist. Any must-try cafes around here?",
+          "zh": "我正想擴充我的咖啡清單。這附近有什麼必去咖啡廳嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-05",
+      "source": "catalogue",
+      "titleEn": "If you had to pick just one [類別] to [動作] for the rest of your life, what would it be?",
+      "titleZh": "如果餘生只能選一種〔類別〕來〔動作〕，你會選什麼？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "類別",
+          "examples": [
+            "cuisine",
+            "movie genre",
+            "album"
+          ]
+        },
+        {
+          "name": "動作",
+          "examples": [
+            "eat",
+            "watch",
+            "listen to"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "If you had to pick just one cuisine to eat for the rest of your life, what would it be?",
+          "zh": "如果餘生只能選一種菜來吃，你會選什麼？」（趣味假設性問題）",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-06",
+      "source": "catalogue",
+      "titleEn": "Are you working on any personal projects or [活動] that you’re passionate about right now?",
+      "titleZh": "你最近有沒有在做什麼特別有熱情的個人計畫或〔活動〕？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "活動",
+          "examples": [
+            "side hustles",
+            "new skills",
+            "hobbies"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "Are you working on any personal projects or side hustles that you’re passionate about right now?",
+          "zh": "你最近有沒有在忙什麼特別有熱情的小計畫或新興趣？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-07",
+      "source": "catalogue",
+      "titleEn": "I’m actually quite new to [領域/群體]. What’s the one thing everyone should know about it?",
+      "titleZh": "我其實很新進〔領域/群體〕。有哪一件事是大家都該知道的？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "領域/群體",
+          "examples": [
+            "this industry",
+            "this company",
+            "this neighborhood"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "I’m actually quite new to this industry. What’s the one thing everyone should know about it?",
+          "zh": "我是這行的新人，關於這個產業，每個人都該知道的一件事是什麼？",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "actually",
+      "layerRole": "破冰：承認自己是新人，降低對立。",
+      "togetherHint": "風格裡用來修正誤解或講得更精確，不是反駁對方不誠實。公式破冰也有 I’m actually quite new to…，那是自我定位，不是轉折。",
+      "togetherExample": "I’m actually quite new to this industry. Actually, to be more precise, I just want to understand how you got into it.",
+      "togetherZh": "我其實很新進這一行。其實，更精確地說，我只是想搞懂你是怎麼進這行的。",
+      "related": [
+        {
+          "id": "style-s1-01",
+          "source": "style",
+          "titleEn": "Actually",
+          "titleZh": "其實／更精確地說",
+          "role": "發語詞：提出更精確的觀察。"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-08",
+      "source": "catalogue",
+      "titleEn": "I’ve heard so much about [事件/趨勢]. As a [身份], what’s your take on it?",
+      "titleZh": "〔事件/趨勢〕我聽很多了。身為〔身份〕，你怎麼看？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "事件/趨勢",
+          "examples": [
+            "the new AI tool",
+            "the market shift"
+          ]
+        },
+        {
+          "name": "身份",
+          "examples": [
+            "designer",
+            "developer",
+            "local"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "I’ve heard so much about the new AI tool. As a designer, what’s your take on it?",
+          "zh": "聽說了好多關於這個新AI工具的事。身為設計師，你的看法是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-a-09",
+      "source": "catalogue",
+      "titleEn": "What was the highlight of your [時間段]? Anything unexpected happen?",
+      "titleZh": "你這個〔時間段〕最精彩的是什麼？有沒有意料之外的事？",
+      "usage": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "A",
+      "blockName": "破冰式觸探",
+      "tags": [
+        "提問探詢",
+        "破冰式觸探",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "時間段",
+          "examples": [
+            "week",
+            "weekend",
+            "trip to Japan"
+          ]
+        }
+      ],
+      "sceneHint": "茶水間、派對、會議空檔，面對半熟不熟的人或陌生人，打破尷尬沉默。",
+      "examples": [
+        {
+          "en": "What was the highlight of your week? Anything unexpected happen?",
+          "zh": "你這週最精彩的部分是什麼？有發生什麼意料之外的事嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-10",
+      "source": "catalogue",
+      "titleEn": "What do you think is the biggest misconception people have about [主題/職業]?",
+      "titleZh": "你覺得一般人對〔主題/職業〕最大的誤解是什麼？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主題/職業",
+          "examples": [
+            "remote work",
+            "product managers",
+            "crypto"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "What do you think is the biggest misconception people have about remote work?",
+          "zh": "你覺得一般人對遠端工作最大的誤解是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-11",
+      "source": "catalogue",
+      "titleEn": "If money and time weren’t an issue, how would you approach [問題/計畫]?",
+      "titleZh": "如果金錢和時間都不是問題，你會怎麼做〔問題/計畫〕？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "問題/計畫",
+          "examples": [
+            "this project",
+            "solving this bug",
+            "marketing the product"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "If money and time weren’t an issue, how would you approach this project?",
+          "zh": "如果金錢和時間都不是問題，你會怎麼做這個專案？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-12",
+      "source": "catalogue",
+      "titleEn": "I’m torn between [選項A] and [選項B]. From your experience, which one yields better results?",
+      "titleZh": "我在〔選項A〕和〔選項B〕之間猶豫。依你的經驗，哪個效果比較好？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "選項A/B",
+          "examples": [
+            "hiring an agency / doing it in-house",
+            "Python / Java"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "I’m torn between hiring an agency and [選項B]. From your experience, which one yields better results?",
+          "zh": "我在外包和自己做之間猶豫不決。依你的經驗，哪個效果比較好？",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "torn between",
+      "layerRole": "深度提問：請對方依經驗幫你選。",
+      "togetherHint": "句型層說出你自己的兩難。公式層則把兩難拋給對方，向他取經。一個是自我揭露，一個是深度提問。",
+      "togetherExample": "I’m torn between hiring an agency and doing it in-house. From your experience, which one yields better results?",
+      "togetherZh": "我在找外包公司和自己做之間猶豫。依你的經驗，哪個效果比較好？",
+      "related": [
+        {
+          "id": "phrase-016",
+          "source": "phrase",
+          "titleEn": "I'm torn between...",
+          "titleZh": "我在...之間糾結/難以抉擇",
+          "role": "表達自己卡在兩個選項。"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-13",
+      "source": "catalogue",
+      "titleEn": "What’s your golden rule when it comes to dealing with [棘手狀況]?",
+      "titleZh": "面對〔棘手狀況〕時，你的黃金法則是什麼？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "棘手狀況",
+          "examples": [
+            "difficult clients",
+            "creative blocks",
+            "tight deadlines"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "What’s your golden rule when it comes to dealing with difficult clients?",
+          "zh": "面對難搞的客戶時，你的黃金法則是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-14",
+      "source": "catalogue",
+      "titleEn": "I love how you handled [事件]. What was going through your mind when you made that decision?",
+      "titleZh": "我太喜歡你處理〔事件〕的方式了。你做決定時心裡在想什麼？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "事件",
+          "examples": [
+            "the presentation",
+            "the budget cut",
+            "the negotiation"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "I love how you handled the presentation. What was going through your mind when you made that decision?",
+          "zh": "我太喜歡你處理那場簡報的方式了。你做決定時心裡在想什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-15",
+      "source": "catalogue",
+      "titleEn": "On a scale of 1 to 10, how optimistic are you about the future of [產業/趨勢]? Why?",
+      "titleZh": "1 到 10 分，你對〔產業/趨勢〕的未來有多樂觀？為什麼？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "產業/趨勢",
+          "examples": [
+            "physical bookstores",
+            "electric vehicles",
+            "streaming media"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "On a scale of 1 to 10, how optimistic are you about the future of physical bookstores? Why?",
+          "zh": "1到10分，你對電動車的未來有多樂觀？為什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-16",
+      "source": "catalogue",
+      "titleEn": "What is the one [名詞] that completely changed the way you look at [領域]?",
+      "titleZh": "哪一個〔名詞〕徹底改變了你看待〔領域〕的方式？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "名詞",
+          "examples": [
+            "book",
+            "advice",
+            "turning point"
+          ]
+        },
+        {
+          "name": "領域",
+          "examples": [
+            "management",
+            "fitness",
+            "life"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "What is the one book that completely changed the way you look at management?",
+          "zh": "哪一個建議徹底改變了你看待管理的方式？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-17",
+      "source": "catalogue",
+      "titleEn": "If you could give your [過去身份] one piece of advice regarding [主題], what would it be?",
+      "titleZh": "如果你能給〔過去身份〕一個關於〔主題〕的建議，會是什麼？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "過去身份",
+          "examples": [
+            "younger self",
+            "freshman self"
+          ]
+        },
+        {
+          "name": "主題",
+          "examples": [
+            "career growth",
+            "investing"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "If you could give your younger self one piece of advice regarding career growth, what would it be?",
+          "zh": "如果你能給年輕時的自己一個關於投資的建議，那會是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-b-18",
+      "source": "catalogue",
+      "titleEn": "What’s a harsh truth about [領域] that most people refuse to admit?",
+      "titleZh": "關於〔領域〕，大多數人拒絕承認的殘酷真相是什麼？",
+      "usage": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "B",
+      "blockName": "深度觀點挖掘",
+      "tags": [
+        "提問探詢",
+        "深度觀點挖掘",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "領域",
+          "examples": [
+            "starting a business",
+            "content creation",
+            "parenting"
+          ]
+        }
+      ],
+      "sceneHint": "當話題已經開啟，你想把談話從「表面寒暄」拉進「深度交流」，詢問對方核心看法。",
+      "examples": [
+        {
+          "en": "What’s a harsh truth about starting a business that most people refuse to admit?",
+          "zh": "關於創業，大多數人拒絕承認的殘酷真相是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-19",
+      "source": "catalogue",
+      "titleEn": "That’s a fascinating point. What led you to that conclusion?",
+      "titleZh": "這觀點太迷人了。是什麼讓你得出這個結論的？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "That’s a fascinating point. What led you to that conclusion?",
+          "zh": "這觀點太迷人了。是什麼讓你得出這個結論的？」（促使對方講故事）",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-20",
+      "source": "catalogue",
+      "titleEn": "You mentioned [關鍵字] earlier. Could you expand a bit more on that part?",
+      "titleZh": "你前面提到〔關鍵字〕。能再多展開那一段嗎？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "關鍵字",
+          "examples": [
+            "the cultural shock",
+            "the hidden costs",
+            "the workflow issues"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "You mentioned the cultural shock earlier. Could you expand a bit more on that part?",
+          "zh": "你前面提到了隱藏成本。能幫我再多深入聊聊那部分嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-21",
+      "source": "catalogue",
+      "titleEn": "I’ve never thought about it that way. How does that play out in [具體情境]?",
+      "titleZh": "我從沒這樣想過。那這在〔具體情境〕裡會怎麼呈現？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "具體情境",
+          "examples": [
+            "daily operations",
+            "real life",
+            "the long run"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "I’ve never thought about it that way. How does that play out in daily operations?",
+          "zh": "我從沒這樣想過。那這在日常營運中會怎麼呈現？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-22",
+      "source": "catalogue",
+      "titleEn": "It sounds like [對方的感受]. Was there a specific moment that triggered that?",
+      "titleZh": "聽起來像是〔對方的感受〕。有沒有一個特定瞬間觸發了它？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "對方的感受",
+          "examples": [
+            "it was a huge gamble",
+            "you were ready to quit"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "It sounds like it was a huge gamble. Was there a specific moment that triggered that?",
+          "zh": "聽起來那時是個巨大的賭注。有什麼特定的瞬間觸發了那件事嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-23",
+      "source": "catalogue",
+      "titleEn": "That makes a lot of sense. But how do you balance that with [相互衝突的事物]?",
+      "titleZh": "這很有道理。但你怎麼把它跟〔相互衝突的事物〕平衡？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "相互衝突的事物",
+          "examples": [
+            "maintaining quality",
+            "family time",
+            "limited budget"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "That makes a lot of sense. But how do you balance that with maintaining quality?",
+          "zh": "這很有道理。但你怎麼在做這件事的同時，去平衡有限的預算？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-24",
+      "source": "catalogue",
+      "titleEn": "If that’s the case, what do you think is the next logical step for [主體]?",
+      "titleZh": "如果是這樣，你覺得〔主體〕下一步合乎邏輯的行動是什麼？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主體",
+          "examples": [
+            "your team",
+            "the industry",
+            "your career"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "If that’s the case, what do you think is the next logical step for your team?",
+          "zh": "如果是這樣，你覺得你的團隊下一步合乎邏輯的行動是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-25",
+      "source": "catalogue",
+      "titleEn": "That’s a unique perspective. Have you ever faced any pushback when you [行動]?",
+      "titleZh": "這視角很獨特。當你〔行動〕時，曾遇過什麼反對嗎？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "行動",
+          "examples": [
+            "proposed this idea",
+            "implemented this rule"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "That’s a unique perspective. Have you ever faced any pushback when you proposed this idea?",
+          "zh": "這視角很獨特。當你提出這個想法時，曾遇過什麼反對意見嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-26",
+      "source": "catalogue",
+      "titleEn": "I love that analogy! How would you apply that same logic to [另一個主題]?",
+      "titleZh": "我好喜歡這個比喻！你會把同樣邏輯用在〔另一個主題〕上嗎？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "另一個主題",
+          "examples": [
+            "personal life",
+            "marketing strategies",
+            "managing stress"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "I love that analogy! How would you apply that same logic to personal life?",
+          "zh": "我好喜歡這個比喻！你會怎麼把同樣的邏輯應用在調適壓力上？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-c-27",
+      "source": "catalogue",
+      "titleEn": "You make it sound so effortless, but what was the hardest part about [任務]?",
+      "titleZh": "你把它說得好輕鬆，但〔任務〕最難的部分是什麼？",
+      "usage": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "C",
+      "blockName": "迴旋式追問",
+      "tags": [
+        "提問探詢",
+        "迴旋式追問",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "任務",
+          "examples": [
+            "setting it up",
+            "getting the first client",
+            "learning the tool"
+          ]
+        }
+      ],
+      "sceneHint": "對方說完一席話後，你用這些公式當作接球網，順著對方的話「再挖深一層」，絕不冷場。",
+      "examples": [
+        {
+          "en": "You make it sound so effortless, but what was the hardest part about setting it up?",
+          "zh": "你把它說得好輕鬆，但當初學這個工具最難的部分是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-28",
+      "source": "catalogue",
+      "titleEn": "What’s something you used to strongly believe about [主題], but have completely changed your mind on?",
+      "titleZh": "有什麼是你以前對〔主題〕深信不疑，現在卻完全改觀的？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主題",
+          "examples": [
+            "success",
+            "social media",
+            "productivity hacks"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "What’s something you used to strongly believe about success, but have completely changed your mind on?",
+          "zh": "有什麼事是你以前對『成功』深信不疑，現在卻完全改觀的？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-29",
+      "source": "catalogue",
+      "titleEn": "Everyone seems to love [熱門事物]. Am I the only one who thinks it’s a bit overrated? What do you think?",
+      "titleZh": "大家好像都很愛〔熱門事物〕。我是唯一覺得它有點過譽的人嗎？你覺得呢？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "熱門事物",
+          "examples": [
+            "this new restaurant",
+            "the movie",
+            "the networking event"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "Everyone seems to love this new restaurant. Am I the only one who thinks it’s a bit overrated? What do you think?",
+          "zh": "大家好像都很愛這部電影。我是唯一覺得它有點過譽的人嗎？你覺得呢？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-30",
+      "source": "catalogue",
+      "titleEn": "What is a mainstream advice in [領域] that you actually think is bad advice?",
+      "titleZh": "在〔領域〕裡，有哪個主流建議你其實覺得是爛建議？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "領域",
+          "examples": [
+            "fitness",
+            "career planning",
+            "public speaking"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "What is a mainstream advice in fitness that you actually think is bad advice?",
+          "zh": "在職涯規劃中，有哪個主流建議你其實覺得是爛建議？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-31",
+      "source": "catalogue",
+      "titleEn": "If you could completely eliminate one annoying aspect of [日常/工作], what would it be?",
+      "titleZh": "如果你能完全消除〔日常/工作〕裡一件煩人的事，會是什麼？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "引導共鳴",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "日常/工作",
+          "examples": [
+            "commuting",
+            "writing emails",
+            "holiday shopping"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "If you could completely eliminate one annoying aspect of commuting, what would it be?",
+          "zh": "如果你能完全消除寫Email這件煩人的事，那會有多好？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-32",
+      "source": "catalogue",
+      "titleEn": "What’s a quirky or unusual habit you have that actually helps you with [目標]?",
+      "titleZh": "你有沒有什麼古怪習慣，其實能幫你〔目標〕？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "目標",
+          "examples": [
+            "focus",
+            "stay creative",
+            "relax after work"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "What’s a quirky or unusual habit you have that actually helps you with focus?",
+          "zh": "你有沒有什麼古怪或不尋常的小習慣，但實際上能幫你保持專注？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-33",
+      "source": "catalogue",
+      "titleEn": "If we play devil’s advocate for a second, what’s the biggest risk of [計畫/決策]?",
+      "titleZh": "如果我們唱一下反調，〔計畫/決策〕最大的風險是什麼？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "計畫/決策",
+          "examples": [
+            "launching this early",
+            "expanding the team"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "If we play devil’s advocate for a second, what’s the biggest risk of launching this early?",
+          "zh": "如果我們唱一下反調，這麼早產品上線最大的風險會是什麼？",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "devil's advocate",
+      "layerRole": "提問或反駁公式：暫時站到對面。",
+      "togetherHint": "公式裡可當創意發問，也可當溫和唱反調。風格裡若要不同意，搭配 I’m not entirely sold yet 會比較不像在攻擊。",
+      "togetherExample": "I’m playing devil’s advocate here, but what happens if the vendor pulls out last minute? Actually, I’m not entirely sold on that idea yet, tell me more.",
+      "togetherZh": "我這裡唱個反調：如果廠商最後一刻抽腿會怎樣？其實我還沒完全被說服，多講一點。",
+      "related": [
+        {
+          "id": "cat-2-c-26",
+          "source": "catalogue",
+          "titleEn": "I’m playing devil’s advocate here, but what happens if [最壞情況]?",
+          "titleZh": "我這裡唱個反調：如果〔最壞情況〕會怎樣？",
+          "role": "提問或反駁公式：暫時站到對面。"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-34",
+      "source": "catalogue",
+      "titleEn": "What’s a question about [主題] you wish people would ask you more often, but they never do?",
+      "titleZh": "關於〔主題〕，你希望別人多問、但大家從不問的問題是什麼？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主題",
+          "examples": [
+            "your journey",
+            "your artwork",
+            "your research"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "What’s a question about your journey you wish people would ask you more often, but they never do?",
+          "zh": "關於你的創業歷程，你有什麼問題是希望別人多問，但大家從來不問的？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-35",
+      "source": "catalogue",
+      "titleEn": "If you had to write a book title about [某段經歷], what would the title be?",
+      "titleZh": "如果必須為〔某段經歷〕寫個書名，會叫什麼？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某段經歷",
+          "examples": [
+            "your 20s",
+            "this past year",
+            "your corporate life"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "If you had to write a book title about your 20s, what would the title be?",
+          "zh": "如果必須為你過去這一年的生活寫個書名，會叫什麼名字？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-1-d-36",
+      "source": "catalogue",
+      "titleEn": "What’s the most unconventional but effective solution you’ve seen for [問題]?",
+      "titleZh": "關於〔問題〕，你見過最不傳統但最有效的解法是什麼？",
+      "usage": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "note": "",
+      "category": "提問探詢",
+      "categoryId": "ask",
+      "categoryNo": 1,
+      "block": "D",
+      "blockName": "反向引力",
+      "tags": [
+        "提問探詢",
+        "反向引力",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "問題",
+          "examples": [
+            "time management",
+            "resolving conflicts",
+            "saving budget"
+          ]
+        }
+      ],
+      "sceneHint": "談話陷入老生常談時，拋出這些打破常規的問題，能瞬間讓對方眼睛一亮，留下深刻印象。",
+      "examples": [
+        {
+          "en": "What’s the most unconventional but effective solution you’ve seen for time management?",
+          "zh": "關於解決衝突，你見過最不傳統但卻最有效的方法是什麼？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-01",
+      "source": "catalogue",
+      "titleEn": "I’ve given this a lot of thought, and from where I stand, [想法]...",
+      "titleZh": "這件事我想了很久，從我的立場來看，〔想法〕……",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "想法",
+          "examples": [
+            "the pros definitely outweigh the cons",
+            "we should start small"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "I’ve given this a lot of thought, and from where I stand, the pros definitely outweigh the cons...",
+          "zh": "這件事我想了很久，從我的立場來看，利絕對大於弊。",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "from a different angle",
+      "layerRole": "表達觀點：用另一個鏡頭講反面。",
+      "togetherHint": "風格強調「角度不同」而不是「你錯了」。公式層的立體鋪陳、高 EQ 反駁也走同一條路。不同意時先換鏡頭，再講內容。",
+      "togetherExample": "I appreciate that perspective, but I am looking at it from a different angle. You’re absolutely right about the design, but looking at it from another angle, it’s not very user-friendly.",
+      "togetherZh": "我感謝這個視角，但我從另一個角度看。設計你完全正確，但換個鏡頭看，它其實不太好用。",
+      "related": [
+        {
+          "id": "cat-2-c-22",
+          "source": "catalogue",
+          "titleEn": "You’re absolutely right about [同意的部分], but looking at it from another angle, [反面觀點].",
+          "titleZh": "關於〔同意的部分〕你完全正確，但從另一個角度看，〔反面觀點〕。",
+          "role": "表達觀點：用另一個鏡頭講反面。"
+        },
+        {
+          "id": "phrase-035",
+          "source": "phrase",
+          "titleEn": "From my perspective...",
+          "titleZh": "從我的角度來看 / 依我之見",
+          "role": "句型：From my perspective… 直接亮出立場。"
+        },
+        {
+          "id": "style-s4-17",
+          "source": "style",
+          "titleEn": "I appreciate that perspective, but I am looking at it from a different angle.",
+          "titleZh": "我感謝這個視角，但我從另一個角度看",
+          "role": "觀察者語氣：換一個拍攝角度。"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-02",
+      "source": "catalogue",
+      "titleEn": "Correct me if I’m wrong, but it feels like the real issue here isn’t [A], but rather [B].",
+      "titleZh": "如果我錯了請糾正我，但真正的問題似乎不是〔A〕，而是〔B〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "A",
+          "examples": [
+            "the budget"
+          ]
+        },
+        {
+          "name": "B",
+          "examples": [
+            "the timeline",
+            "[A] -> the technology"
+          ]
+        },
+        {
+          "name": "B",
+          "examples": [
+            "communication"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "Correct me if I’m wrong, but it feels like the real issue here isn’t the budget, but rather the timeline.",
+          "zh": "如果我錯了請糾正我，但感覺真正的問題不在於技術，而在於溝通。",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "correct me if I'm wrong",
+      "layerRole": "傾聽公式：核對對方真正要的是什麼。",
+      "togetherHint": "句型層是委婉指出可能記錯。公式層則用來重述對方真正要的東西。前者核對事實，後者核對感受。",
+      "togetherExample": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some breathing room.",
+      "togetherZh": "如果我錯了請糾正我，但你真正想要的，似乎只是一點喘息空間。",
+      "related": [
+        {
+          "id": "cat-4-b-12",
+          "source": "catalogue",
+          "titleEn": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some [內心需求].",
+          "titleZh": "如果我錯了請糾正我，但你真正想要的似乎只是一點〔內心需求〕。",
+          "role": "傾聽公式：核對對方真正要的是什麼。"
+        },
+        {
+          "id": "phrase-049",
+          "source": "phrase",
+          "titleEn": "Correct me if I'm wrong, but...",
+          "titleZh": "如果我錯了請糾正我，但...",
+          "role": "委婉核對事實或共識。"
+        },
+        {
+          "id": "phrase-126",
+          "source": "phrase",
+          "titleEn": "Correct me if I'm wrong...",
+          "titleZh": "如果我說錯了請糾正我...",
+          "role": "委婉核對事實或共識。"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-03",
+      "source": "catalogue",
+      "titleEn": "I might be a bit biased because of my background in [領域], but I honestly think [想法].",
+      "titleZh": "因為我的〔領域〕背景，我可能有點偏見，但我真心認為〔想法〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "領域",
+          "examples": [
+            "design",
+            "finance",
+            "customer service"
+          ]
+        },
+        {
+          "name": "想法",
+          "examples": [
+            "user experience comes first"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "I might be a bit biased because of my background in design, but I honestly think user experience comes first.",
+          "zh": "因為我的設計背景，我可能有點偏見，但我真心認為使用者體驗應該放在第一位。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-04",
+      "source": "catalogue",
+      "titleEn": "Just to piggyback on what you just said, I’ve noticed that [觀點].",
+      "titleZh": "順著你剛才說的，我注意到〔觀點〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "觀點",
+          "examples": [
+            "this pattern repeats every summer",
+            "clients prefer video calls now"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "Just to piggyback on what you just said, I’ve noticed that this pattern repeats every summer.",
+          "zh": "順著你剛才說的話，我注意到現在客戶更傾向於使用視訊通話。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-05",
+      "source": "catalogue",
+      "titleEn": "If you look at it from a [角度] perspective, it’s actually a brilliant move because [原因].",
+      "titleZh": "如果從〔角度〕來看，這其實是高招，因為〔原因〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "角度",
+          "examples": [
+            "long-term",
+            "marketing",
+            "psychological"
+          ]
+        },
+        {
+          "name": "原因",
+          "examples": [
+            "it builds deep trust"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "If you look at it from a long-term perspective, it’s actually a brilliant move because it builds deep trust.",
+          "zh": "如果從長期的角度來看，這其實是個高招，因為它能建立深厚的信任。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-06",
+      "source": "catalogue",
+      "titleEn": "I used to feel the same way, but a recent experience made me realize that [新觀點].",
+      "titleZh": "我以前也這樣想，但最近的經歷讓我意識到〔新觀點〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "新觀點",
+          "examples": [
+            "self-care is not selfish",
+            "automation saves so much headache"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "I used to feel the same way, but a recent experience made me realize that self-care is not selfish.",
+          "zh": "我以前也是這麼想的，但最近的經歷讓我意識到，照顧好自己並不是自私。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-07",
+      "source": "catalogue",
+      "titleEn": "It’s funny you mention that, because in my experience, [個人經驗/觀點].",
+      "titleZh": "你提到這個很有趣，因為依我的經驗，〔個人經驗/觀點〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "個人經驗/觀點",
+          "examples": [
+            "the simplest solution is usually the best",
+            "older models work better"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "It’s funny you mention that, because in my experience, the simplest solution is usually the best.",
+          "zh": "你提到這個很有趣，因為依我的經驗，最簡單的解決方案通常是最好的。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-08",
+      "source": "catalogue",
+      "titleEn": "Without getting too technical, the main takeaway from my side is that [結論].",
+      "titleZh": "先不談太技術的部分，我這邊的核心結論是〔結論〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "結論",
+          "examples": [
+            "we need a backup plan",
+            "the current system is outdated"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "Without getting too technical, the main takeaway from my side is that we need a backup plan.",
+          "zh": "先不談太技術性的東西，我這邊的核心結論是我們需要一個備用計畫。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-a-09",
+      "source": "catalogue",
+      "titleEn": "I’m no expert on [主題], but it seems to me that [直覺觀點].",
+      "titleZh": "我不是〔主題〕專家，但對我來說，〔直覺觀點〕。",
+      "usage": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "A",
+      "blockName": "溫和墊句",
+      "tags": [
+        "表達觀點",
+        "溫和墊句",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主題",
+          "examples": [
+            "AI",
+            "real estate",
+            "coffee roasting"
+          ]
+        },
+        {
+          "name": "直覺觀點",
+          "examples": [
+            "human touch is still irreplaceable"
+          ]
+        }
+      ],
+      "sceneHint": "在拋出自己的觀點前，先加一層「緩衝墊」，讓說話顯得有情商、不突兀，同時給自己爭取思考時間。",
+      "examples": [
+        {
+          "en": "I’m no expert on AI, but it seems to me that human touch is still irreplaceable.",
+          "zh": "我不是 AI 專家，但對我來說，人性的溫度依然是無可取代的。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-10",
+      "source": "catalogue",
+      "titleEn": "There are two sides to every coin; on one hand, [優點], but on the other hand, [缺點].",
+      "titleZh": "事情都有兩面：一方面〔優點〕，另一方面〔缺點〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "優點",
+          "examples": [
+            "it saves money"
+          ]
+        },
+        {
+          "name": "缺點",
+          "examples": [
+            "it takes double the time"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "There are two sides to every coin; on one hand, it saves money, but on the other hand, it takes double the time.",
+          "zh": "事情都有兩面。一方面它省錢，但另一方面它要花兩倍的時間。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-11",
+      "source": "catalogue",
+      "titleEn": "To put it in perspective, it’s not just about [表面問題], it’s about the bigger picture of [核心議題].",
+      "titleZh": "客觀來看，這不只是〔表面問題〕，而是〔核心議題〕的大局。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "表面問題",
+          "examples": [
+            "changing the logo"
+          ]
+        },
+        {
+          "name": "核心議題",
+          "examples": [
+            "rebranding our entire identity"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "To put it in perspective, it’s not just about changing the logo, it’s about the bigger picture of rebranding our entire identity.",
+          "zh": "客觀來看，這不只是換個標誌的問題，這關乎我們整個品牌形象重塑的大局。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-12",
+      "source": "catalogue",
+      "titleEn": "If we break it down, there are three key factors at play here: [因素1], [因素2], and most importantly, [因素3].",
+      "titleZh": "拆開來看，有三個關鍵因素：〔因素1〕、〔因素2〕，最重要的是〔因素3〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "因素1/2/3",
+          "examples": [
+            "cost",
+            "timing",
+            "team morale"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "If we break it down, there are three key factors at play here: cost, [因素2], and most importantly, [因素3].",
+          "zh": "拆解來看，這裡有三個關鍵因素：成本、時機，以及最重中之重的團隊士氣。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-13",
+      "source": "catalogue",
+      "titleEn": "What we need to consider is the ripple effect. If we [行動], it could lead to [連帶後果].",
+      "titleZh": "我們得考慮漣漪效應。如果我們〔行動〕，可能帶來〔連帶後果〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "行動",
+          "examples": [
+            "lower the price"
+          ]
+        },
+        {
+          "name": "連帶後果",
+          "examples": [
+            "a price war with competitors"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "What we need to consider is the ripple effect. If we lower the price, it could lead to a price war with competitors.",
+          "zh": "我們需要考慮漣漪效應。如果我們降價，可能會引發與競爭對手的價格戰。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-14",
+      "source": "catalogue",
+      "titleEn": "My philosophy when it comes to [主題] is simple: [核心原則].",
+      "titleZh": "談到〔主題〕，我的哲學很簡單：〔核心原則〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主題",
+          "examples": [
+            "time management",
+            "friendship",
+            "investing"
+          ]
+        },
+        {
+          "name": "核心原則",
+          "examples": [
+            "quality over quantity"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "My philosophy when it comes to time management is simple: quality over quantity.",
+          "zh": "談到時間管理，我的哲學很簡單：質量重於數量。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-15",
+      "source": "catalogue",
+      "titleEn": "The way I see it, [主體] is a double-edged sword. It can [好處], but it can also [壞處].",
+      "titleZh": "依我看，〔主體〕是雙刃劍。它可以〔好處〕，也可以〔壞處〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主體",
+          "examples": [
+            "social media"
+          ]
+        },
+        {
+          "name": "好處",
+          "examples": [
+            "connect people"
+          ]
+        },
+        {
+          "name": "壞處",
+          "examples": [
+            "create anxiety"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "The way I see it, social media is a double-edged sword. It can connect people, but it can also create anxiety.",
+          "zh": "依我看，社群媒體是一把雙刃劍。它可以連結人們，但也會創造焦慮。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-16",
+      "source": "catalogue",
+      "titleEn": "It’s not a matter of ‘if,’ but ‘when.’ We are bound to see [某種趨勢] sooner or later.",
+      "titleZh": "這不是「如果」的問題，而是「何時」。我們遲早會看到〔某種趨勢〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某種趨勢",
+          "examples": [
+            "AI taking over routine tasks",
+            "a shift to hybrid work"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "It’s not a matter of ‘if,’ but ‘when.’ We are bound to see AI taking over routine tasks sooner or later.",
+          "zh": "這不是『如果』的問題，而是『何時』的問題。我們遲早會看到 AI 接管常規任務。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-17",
+      "source": "catalogue",
+      "titleEn": "To me, the benchmark for a good [事物] is whether it can [標準].",
+      "titleZh": "對我來說，好〔事物〕的基準是它能不能〔標準〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "事物",
+          "examples": [
+            "manager",
+            "movie",
+            "laptop"
+          ]
+        },
+        {
+          "name": "標準",
+          "examples": [
+            "solve problems under pressure",
+            "make you cry"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "To me, the benchmark for a good manager is whether it can solve problems under pressure.",
+          "zh": "對我來說，一個好主管的基準在於他能否在壓力下解決問題。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-b-18",
+      "source": "catalogue",
+      "titleEn": "We have to look at this through the lens of [某個群體], who usually care most about [需求].",
+      "titleZh": "我們必須透過〔某個群體〕的視角來看，他們通常最在乎〔需求〕。",
+      "usage": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "B",
+      "blockName": "立體鋪陳",
+      "tags": [
+        "表達觀點",
+        "立體鋪陳",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某個群體",
+          "examples": [
+            "the end-users",
+            "the parents"
+          ]
+        },
+        {
+          "name": "需求",
+          "examples": [
+            "simplicity and safety"
+          ]
+        }
+      ],
+      "sceneHint": "當你想有條理地分析一件事，讓別人覺得你的看法「很有深度、很全面」時使用。",
+      "examples": [
+        {
+          "en": "We have to look at this through the lens of the end-users, who usually care most about simplicity and safety.",
+          "zh": "我們必須透過終端使用者的視角來看待這件事，他們通常最在乎簡單與安全。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-19",
+      "source": "catalogue",
+      "titleEn": "I see where you’re coming from, but have we considered [另一個隱憂]?",
+      "titleZh": "我懂你的出發點，但我們有沒有考慮過〔另一個隱憂〕？",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "另一個隱憂",
+          "examples": [
+            "the hidden maintenance costs",
+            "the negative feedback from users"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "I see where you’re coming from, but have we considered the hidden maintenance costs?",
+          "zh": "我明白你的出發點，但我們有沒有考慮過隱藏的維護成本？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-20",
+      "source": "catalogue",
+      "titleEn": "That’s a valid point for [情境A], but I wonder if it still holds true for [情境B].",
+      "titleZh": "這對〔情境A〕來說成立，但我好奇對〔情境B〕是否仍然成立。",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "情境A",
+          "examples": [
+            "small startups"
+          ]
+        },
+        {
+          "name": "情境B",
+          "examples": [
+            "large corporations like ours"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "That’s a valid point for small startups, but I wonder if it still holds true for large corporations like ours.",
+          "zh": "這對小型新創公司來說是個成立的論點，但我好奇這對像我們這樣的大企業是否依然適用？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-21",
+      "source": "catalogue",
+      "titleEn": "I respect that view, but my only reservation is that [擔憂].",
+      "titleZh": "我尊重那個觀點，但我唯一的保留是〔擔憂〕。",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "擔憂",
+          "examples": [
+            "we might be rushing into this",
+            "the data seems a bit outdated"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "I respect that view, but my only reservation is that we might be rushing into this.",
+          "zh": "我尊重那個觀點，但我唯一的保留意見是，我們可能有點操之過急了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-22",
+      "source": "catalogue",
+      "titleEn": "You’re absolutely right about [同意的部分], but looking at it from another angle, [反面觀點].",
+      "titleZh": "關於〔同意的部分〕你完全正確，但從另一個角度看，〔反面觀點〕。",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "同意的部分",
+          "examples": [
+            "the design being beautiful"
+          ]
+        },
+        {
+          "name": "反面觀點",
+          "examples": [
+            "it’s not very user-friendly"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "You’re absolutely right about the design being beautiful, but looking at it from another angle, it’s not very user-friendly.",
+          "zh": "關於設計很漂亮這點你完全正確，但從另一個角度看，它不是很實用。",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "from a different angle",
+      "layerRole": "表達觀點：用另一個鏡頭講反面。",
+      "togetherHint": "風格強調「角度不同」而不是「你錯了」。公式層的立體鋪陳、高 EQ 反駁也走同一條路。不同意時先換鏡頭，再講內容。",
+      "togetherExample": "I appreciate that perspective, but I am looking at it from a different angle. You’re absolutely right about the design, but looking at it from another angle, it’s not very user-friendly.",
+      "togetherZh": "我感謝這個視角，但我從另一個角度看。設計你完全正確，但換個鏡頭看，它其實不太好用。",
+      "related": [
+        {
+          "id": "cat-2-a-01",
+          "source": "catalogue",
+          "titleEn": "I’ve given this a lot of thought, and from where I stand, [想法]...",
+          "titleZh": "這件事我想了很久，從我的立場來看，〔想法〕……",
+          "role": "表達觀點：用另一個鏡頭講反面。"
+        },
+        {
+          "id": "phrase-035",
+          "source": "phrase",
+          "titleEn": "From my perspective...",
+          "titleZh": "從我的角度來看 / 依我之見",
+          "role": "句型：From my perspective… 直接亮出立場。"
+        },
+        {
+          "id": "style-s4-17",
+          "source": "style",
+          "titleEn": "I appreciate that perspective, but I am looking at it from a different angle.",
+          "titleZh": "我感謝這個視角，但我從另一個角度看",
+          "role": "觀察者語氣：換一個拍攝角度。"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-23",
+      "source": "catalogue",
+      "titleEn": "That sounds great in theory, but in practice, we might run into [實際問題].",
+      "titleZh": "這在理論上很棒，但實務上我們可能會碰到〔實際問題〕。",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "實際問題",
+          "examples": [
+            "logistical issues",
+            "resistance from the older staff"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "That sounds great in theory, but in practice, we might run into logistical issues.",
+          "zh": "這在理論上聽起來很棒，但在實際操作中，我們可能會遇到物流問題。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-24",
+      "source": "catalogue",
+      "titleEn": "I’m on board with the general idea, I just have a slightly different take on [特定細節].",
+      "titleZh": "大方向我贊成，我只是對〔特定細節〕有一點不同看法。",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "特定細節",
+          "examples": [
+            "the pricing strategy",
+            "the timeline",
+            "the target audience"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "I’m on board with the general idea, I just have a slightly different take on the pricing strategy.",
+          "zh": "大體上的想法我很贊同，我只是對定價策略有稍微不同的看法。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-25",
+      "source": "catalogue",
+      "titleEn": "That’s definitely one way to look at it, but another possibility is that [另一種可能性].",
+      "titleZh": "這絕對是一種看法，但另一種可能是〔另一種可能性〕。",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "另一種可能性",
+          "examples": [
+            "the market is already saturated",
+            "customers are looking for cheaper options"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "That’s definitely one way to look at it, but another possibility is that the market is already saturated.",
+          "zh": "這絕對是一種看待這件事的方式，但另一種可能性是市場已經飽和了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-26",
+      "source": "catalogue",
+      "titleEn": "I’m playing devil’s advocate here, but what happens if [最壞情況]?",
+      "titleZh": "我這裡唱個反調：如果〔最壞情況〕會怎樣？",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "最壞情況",
+          "examples": [
+            "the vendor pulls out last minute",
+            "the launch gets delayed by a month"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "I’m playing devil’s advocate here, but what happens if the vendor pulls out last minute?",
+          "zh": "我人在這裡唱個反調，但如果廠商在最後一刻退出會怎麼樣？",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "devil's advocate",
+      "layerRole": "提問或反駁公式：暫時站到對面。",
+      "togetherHint": "公式裡可當創意發問，也可當溫和唱反調。風格裡若要不同意，搭配 I’m not entirely sold yet 會比較不像在攻擊。",
+      "togetherExample": "I’m playing devil’s advocate here, but what happens if the vendor pulls out last minute? Actually, I’m not entirely sold on that idea yet, tell me more.",
+      "togetherZh": "我這裡唱個反調：如果廠商最後一刻抽腿會怎樣？其實我還沒完全被說服，多講一點。",
+      "related": [
+        {
+          "id": "cat-1-d-33",
+          "source": "catalogue",
+          "titleEn": "If we play devil’s advocate for a second, what’s the biggest risk of [計畫/決策]?",
+          "titleZh": "如果我們唱一下反調，〔計畫/決策〕最大的風險是什麼？",
+          "role": "提問或反駁公式：暫時站到對面。"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-c-27",
+      "source": "catalogue",
+      "titleEn": "I’m not entirely convinced that [對方的結論], mainly because [原因].",
+      "titleZh": "我沒有完全被〔對方的結論〕說服，主要是因為〔原因〕。",
+      "usage": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "C",
+      "blockName": "高EQ太極",
+      "tags": [
+        "表達觀點",
+        "高EQ太極",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "對方的結論",
+          "examples": [
+            "this trend will last"
+          ]
+        },
+        {
+          "name": "原因",
+          "examples": [
+            "it feels more like a temporary hype"
+          ]
+        }
+      ],
+      "sceneHint": "當你不同意對方的觀點，但不想破壞氣氛時。這些公式能讓你「溫和而堅定」地反駁。",
+      "examples": [
+        {
+          "en": "I’m not entirely convinced that this trend will last, mainly because it feels more like a temporary hype.",
+          "zh": "我沒有完全被這個趨勢會持久的說法說服，主要是因為這感覺更像是一時的炒作。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-28",
+      "source": "catalogue",
+      "titleEn": "You hit the nail on the head. That is exactly the kind of [名詞] we need right now.",
+      "titleZh": "你一針見血。這正是我們現在需要的那種〔名詞〕。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "名詞",
+          "examples": [
+            "energy",
+            "out-of-the-box thinking",
+            "clarity"
+          ]
+        }
+      ],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "You hit the nail on the head. That is exactly the kind of energy we need right now.",
+          "zh": "你一針見血。這完全就是我們現在需要的那種跳脫框架的思考。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-29",
+      "source": "catalogue",
+      "titleEn": "I couldn’t agree more. It’s high time we [採取行動/改變].",
+      "titleZh": "我再同意不過了。我們早就該〔採取行動/改變〕。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "採取行動/改變",
+          "examples": [
+            "upgraded our software",
+            "took mental health seriously"
+          ]
+        }
+      ],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "I couldn’t agree more. It’s high time we upgraded our software.",
+          "zh": "我再同意不過了。我們早就該認真對待心理健康了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-30",
+      "source": "catalogue",
+      "titleEn": "That is a game-changer. It completely eliminates the need for [麻煩事].",
+      "titleZh": "這會改寫規則。它完全免除了〔麻煩事〕。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "麻煩事",
+          "examples": [
+            "manual data entry",
+            "endless follow-up emails"
+          ]
+        }
+      ],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "That is a game-changer. It completely eliminates the need for manual data entry.",
+          "zh": "這簡直是遊戲規則改變者。它完全免除了手動輸入資料的麻煩。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-31",
+      "source": "catalogue",
+      "titleEn": "There’s no shadow of a doubt in my mind that [確信的事].",
+      "titleZh": "我心裡毫無疑問，〔確信的事〕。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "確信的事",
+          "examples": [
+            "this brand will succeed",
+            "she is the best person for the job"
+          ]
+        }
+      ],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "There’s no shadow of a doubt in my mind that this brand will succeed.",
+          "zh": "我心裡毫無疑問，她就是這個職位的最佳人選。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-32",
+      "source": "catalogue",
+      "titleEn": "If there’s one thing I’m absolutely certain about, it’s that [觀點].",
+      "titleZh": "如果有一件事我絕對確定，那就是〔觀點〕。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "觀點",
+          "examples": [
+            "consistency beats intensity every time",
+            "good communication solves 90% of bugs"
+          ]
+        }
+      ],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "If there’s one thing I’m absolutely certain about, it’s that consistency beats intensity every time.",
+          "zh": "如果有一件事我是絕對確定的，那就是持續的努力每次都能戰勝短暫的爆發。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-33",
+      "source": "catalogue",
+      "titleEn": "That is hands down the best [事物] I’ve seen all year.",
+      "titleZh": "這絕對是我今年看過最棒的〔事物〕。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "事物",
+          "examples": [
+            "presentation",
+            "marketing campaign",
+            "piece of advice"
+          ]
+        }
+      ],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "That is hands down the best presentation I’ve seen all year.",
+          "zh": "這絕對是我一整年看過最棒的簡報。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-34",
+      "source": "catalogue",
+      "titleEn": "You’ve perfectly articulated something I’ve been struggling to put into words.",
+      "titleZh": "你把我一直講不清楚的想法，準確說出來了。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "高級讚美",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "You’ve perfectly articulated something I’ve been struggling to put into words.",
+          "zh": "你完美地表達出了我一直很難用言語形容的想法。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-35",
+      "source": "catalogue",
+      "titleEn": "This is a classic example of [現象], and it proves that [結論].",
+      "titleZh": "這是〔現象〕的經典例子，它證明了〔結論〕。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "現象",
+          "examples": [
+            "less is more"
+          ]
+        },
+        {
+          "name": "結論",
+          "examples": [
+            "we don’t need a huge budget to make an impact"
+          ]
+        }
+      ],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "This is a classic example of less is more, and it proves that we don’t need a huge budget to make an impact.",
+          "zh": "這是一個『少即是多』的經典例子，它證明了我們不需要龐大的預算也能產生影響。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-2-d-36",
+      "source": "catalogue",
+      "titleEn": "That argument is rock-solid. There’s really no counter-argument to that.",
+      "titleZh": "那個論點很扎實，幾乎沒有反駁餘地。",
+      "usage": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "note": "",
+      "category": "表達觀點",
+      "categoryId": "opinion",
+      "categoryNo": 2,
+      "block": "D",
+      "blockName": "定海神針",
+      "tags": [
+        "表達觀點",
+        "定海神針",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你非常認同某事，或者想展現強大的自信、給予毫無保留的支持時使用。",
+      "examples": [
+        {
+          "en": "That argument is rock-solid. There’s really no counter-argument to that.",
+          "zh": "那個論點堅如磐石。對此真的沒有任何反駁的餘地了。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-01",
+      "source": "catalogue",
+      "titleEn": "You’re not going to believe what happened to me the other day when I was [做某事]...",
+      "titleZh": "你絕對不會相信那天我正在〔做某事〕時，發生了什麼……",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "做某事",
+          "examples": [
+            "commuting to work",
+            "cleaning out my garage",
+            "ordering coffee"
+          ]
+        }
+      ],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "You’re not going to believe what happened to me the other day when I was commuting to work...",
+          "zh": "你絕對不會相信那天我正在搭車上班時，發生了什麼事……",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-02",
+      "source": "catalogue",
+      "titleEn": "That reminds me of this incredibly awkward, yet hilarious story from back when I was [時空背景]...",
+      "titleZh": "這讓我想起以前我還在〔時空背景〕時，一個又尷尬又好笑的故事……",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "時空背景",
+          "examples": [
+            "a freshman in college",
+            "backpacking in Europe",
+            "starting my first job"
+          ]
+        }
+      ],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "That reminds me of this incredibly awkward, yet hilarious story from back when I was a freshman in college...",
+          "zh": "這讓我想起以前我在歐洲背包客旅行時，一個極度尷尬卻又搞笑的故事……",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-03",
+      "source": "catalogue",
+      "titleEn": "Have I ever told you about the time I almost [差點發生的驚人大事]?",
+      "titleZh": "我有沒有跟你說過，我差點〔差點發生的驚人大事〕的那次？",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "差點發生的驚人大事",
+          "examples": [
+            "missed my own wedding",
+            "ruined the biggest presentation of the year"
+          ]
+        }
+      ],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "Have I ever told you about the time I almost missed my own wedding?",
+          "zh": "我有沒有跟你說過，我差點搞砸了當年最大一場簡報的那次經歷？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-04",
+      "source": "catalogue",
+      "titleEn": "So, I was recently in this situation where everything that could go wrong, did go wrong.",
+      "titleZh": "我最近陷入一種「能出錯的，全出錯了」的狀況。",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "So, I was recently in this situation where everything that could go wrong, did go wrong.",
+          "zh": "所以，我最近陷入了一種『只要可能出錯的事，通通都出錯了』的窘境。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-05",
+      "source": "catalogue",
+      "titleEn": "If you want a classic example of [某種特質], let me tell you about [某人/某事].",
+      "titleZh": "如果你想聽什麼叫〔某種特質〕，讓我跟你講〔某人/某事〕。",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某種特質",
+          "examples": [
+            "beginner’s luck",
+            "Murphy’s Law",
+            "cultural misunderstanding"
+          ]
+        }
+      ],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "If you want a classic example of beginner’s luck, let me tell you about [某人/某事].",
+          "zh": "如果你想聽聽什麼叫『墨菲定律』的經典範例，讓我來跟你講講這件事。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-06",
+      "source": "catalogue",
+      "titleEn": "I recently stumbled upon the strangest piece of news about [主題], and it got me thinking.",
+      "titleZh": "我最近看到一則關於〔主題〕的怪新聞，讓我開始想……",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "主題",
+          "examples": [
+            "a town run by a cat",
+            "a professional sleeping competition"
+          ]
+        }
+      ],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "I recently stumbled upon the strangest piece of news about a town run by a cat, and it got me thinking.",
+          "zh": "我最近偶然看到一則關於貓咪當鎮長的超怪新聞，這讓我開始思考……",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-07",
+      "source": "catalogue",
+      "titleEn": "Picture this: It’s [時間/天氣], you’re [動作], and suddenly...",
+      "titleZh": "想像這個畫面：〔時間/天氣〕，你正在〔動作〕，突然間……",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "極具畫面感的開場",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "時間/天氣",
+          "examples": [
+            "3 AM on a rainy Tuesday"
+          ]
+        },
+        {
+          "name": "動作",
+          "examples": [
+            "typing away at your laptop"
+          ]
+        }
+      ],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "Picture this: It’s 3 AM on a rainy Tuesday, you’re typing away at your laptop, and suddenly...",
+          "zh": "想像一下這個畫面：那是一個下雨週二的凌晨三點，你正瘋狂敲著筆電，突然間……",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-08",
+      "source": "catalogue",
+      "titleEn": "I cross my heart this is a true story, even though it sounds completely made up.",
+      "titleZh": "我發誓這是真的，雖然聽起來完全像編的。",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "I cross my heart this is a true story, even though it sounds completely made up.",
+          "zh": "我發誓這真的是真事，雖然它聽起來完全像是編造的。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-a-09",
+      "source": "catalogue",
+      "titleEn": "I learned the hard way that you should never [做某件蠢事]. Here’s what happened.",
+      "titleZh": "我用很慘的代價才學到：絕對不要〔做某件蠢事〕。事情是這樣的。",
+      "usage": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "A",
+      "blockName": "懸念式開頭",
+      "tags": [
+        "說故事",
+        "懸念式開頭",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "做某件蠢事",
+          "examples": [
+            "text your boss when you’re half-asleep",
+            "assemble IKEA furniture without instructions"
+          ]
+        }
+      ],
+      "sceneHint": "談話中你想切換到自己的故事時。這些公式像電影預告片一樣，能讓旁人瞬間安靜、專注聽你說。",
+      "examples": [
+        {
+          "en": "I learned the hard way that you should never text your boss when you’re half-asleep. Here’s what happened.",
+          "zh": "我用了很慘痛的代價才學到：絕對不要在半夢半醒時傳訊息給老闆。以下是當時發生的事。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-10",
+      "source": "catalogue",
+      "titleEn": "To give you some context, I was already [某種負面狀態], so the last thing I needed was [另一件衰事].",
+      "titleZh": "交代一下：我當時已經〔某種負面狀態〕，所以最不需要的就是〔另一件衰事〕。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某種負面狀態",
+          "examples": [
+            "running 20 minutes late",
+            "completely sleep-deprived"
+          ]
+        },
+        {
+          "name": "另一件衰事",
+          "examples": [
+            "a flat tire",
+            "my phone dying"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "To give you some context, I was already running 20 minutes late, so the last thing I needed was a flat tire.",
+          "zh": "交代一下背景，那時我已經遲到了20分鐘，所以我最不需要的就是手機突然沒電。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-11",
+      "source": "catalogue",
+      "titleEn": "Long story short, we found ourselves in the middle of [某個混亂地方] with absolutely no [必備物品].",
+      "titleZh": "長話短說，我們人在〔某個混亂地方〕正中央，而且完全沒有〔必備物品〕。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某個混亂地方",
+          "examples": [
+            "a foreign airport",
+            "a crowded night market"
+          ]
+        },
+        {
+          "name": "必備物品",
+          "examples": [
+            "cash",
+            "cell service"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "Long story short, we found ourselves in the middle of a foreign airport with absolutely no cash.",
+          "zh": "長話短說，我們發現自己置身於國外機場的中央，而且完全沒有手機訊號。",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "long story short",
+      "layerRole": "故事公式：交代混亂現場。",
+      "togetherHint": "風格裡用來高效收束。說故事公式裡則是鋪陳混亂現場時的潤滑劑。講故事時用公式把聽眾放進現場；收尾再用風格把話權拿回來。",
+      "togetherExample": "Long story short, we found ourselves in the middle of a foreign airport with absolutely no cell service. The bottom line is, we still made it.",
+      "togetherZh": "長話短說，我們人在國外機場正中央，完全沒有訊號。重點是，我們還是抵達了。",
+      "related": [
+        {
+          "id": "cat-3-d-28",
+          "source": "catalogue",
+          "titleEn": "So yeah, long story short, that’s how I ended up [荒謬的最終結局].",
+          "titleZh": "所以啦，長話短說，這就是我最後〔荒謬的最終結局〕的原因。",
+          "role": "故事公式：交代混亂現場。"
+        },
+        {
+          "id": "phrase-129",
+          "source": "phrase",
+          "titleEn": "Long story short...",
+          "titleZh": "長話短說 / 總而言之",
+          "role": "句型：同一條收束語，生活與工作都能用。"
+        },
+        {
+          "id": "style-s2-09",
+          "source": "style",
+          "titleEn": "Long story short",
+          "titleZh": "長話短說",
+          "role": "連接詞：跳過細節、給結果。"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-12",
+      "source": "catalogue",
+      "titleEn": "At that point, my mind was racing, and I kept thinking to myself, “[當時內心的OS]”.",
+      "titleZh": "那一刻我腦子轉很快，心裡一直想著：「〔當時內心的OS〕」。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "當時內心的OS",
+          "examples": [
+            "Please don’t let this be happening",
+            "I should have stayed in bed"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "At that point, my mind was racing, and I kept thinking to myself, “Please don’t let this be happening”.",
+          "zh": "在那當下，我思緒亂成一團，心裡一直想著：『拜託不要讓這種事發生！",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-13",
+      "source": "catalogue",
+      "titleEn": "Out of nowhere, this [人/物] pops up and starts [動作].",
+      "titleZh": "不知從哪冒出來，這個〔人/物〕突然開始〔動作〕。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "人/物",
+          "examples": [
+            "aggressive stray dog",
+            "guy in a tuxedo"
+          ]
+        },
+        {
+          "name": "動作",
+          "examples": [
+            "barking at my tires",
+            "singing opera"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "Out of nowhere, this aggressive stray dog pops up and starts barking at my tires.",
+          "zh": "不知從哪冒出來，這個穿著燕尾服的傢伙突然開始唱起歌劇。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-14",
+      "source": "catalogue",
+      "titleEn": "We were just coasting along, thinking the worst was over, but little did we know...",
+      "titleZh": "我們正放鬆下來，以為最糟的過了，但當時哪知道……",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "We were just coasting along, thinking the worst was over, but little did we know...",
+          "zh": "我們那時正放鬆下來，以為最糟的已經過去了，但我們當時哪知道……",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-15",
+      "source": "catalogue",
+      "titleEn": "The funniest part was the look on [某人]’s face. They looked as if they had just [驚嚇表情形容].",
+      "titleZh": "最搞笑的是〔某人〕臉上的表情，看起來就像剛〔驚嚇表情形容〕。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某人",
+          "examples": [
+            "the flight attendant",
+            "my grandmother"
+          ]
+        },
+        {
+          "name": "驚嚇表情形容",
+          "examples": [
+            "seen a ghost",
+            "won the lottery"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "The funniest part was the look on the flight attendant’s face. They looked as if they had just seen a ghost.",
+          "zh": "最搞笑的是空服員臉上的表情。她看起來就像剛看到鬼一樣。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-16",
+      "source": "catalogue",
+      "titleEn": "As if that wasn’t enough, [更扯的延伸事件] happened right after.",
+      "titleZh": "彷彿還不夠，緊接著〔更扯的延伸事件〕。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "更扯的延伸事件",
+          "examples": [
+            "the fire alarm started blaring",
+            "it started pouring rain"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "As if that wasn’t enough, the fire alarm started blaring happened right after.",
+          "zh": "彷彿這還不夠慘似的，緊接著火警警報器竟然響了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-17",
+      "source": "catalogue",
+      "titleEn": "You have to understand, I’m the kind of person who [個人特質], so this was a nightmare for me.",
+      "titleZh": "你得理解，我是那種〔個人特質〕的人，所以這對我簡直是噩夢。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "個人特質",
+          "examples": [
+            "hates being the center of attention",
+            "plans every minute of a trip"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "You have to understand, I’m the kind of person who hates being the center of attention, so this was a nightmare for me.",
+          "zh": "你必須理解，我是那種去旅行連每一分鐘都要規劃好的人，所以這對我來說簡直是場噩夢。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-b-18",
+      "source": "catalogue",
+      "titleEn": "We were basically trying to [困難的目標] while [同時發生的阻礙]. It was pure chaos.",
+      "titleZh": "我們一邊想〔困難的目標〕，一邊還〔同時發生的阻礙〕。當時一團亂。",
+      "usage": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "B",
+      "blockName": "情境帶入",
+      "tags": [
+        "說故事",
+        "情境帶入",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "困難的目標",
+          "examples": [
+            "catch our train"
+          ]
+        },
+        {
+          "name": "同時發生的阻礙",
+          "examples": [
+            "carrying three heavy suitcases in the snow"
+          ]
+        }
+      ],
+      "sceneHint": "故事進入背景交代。這些公式能幫你加入細節、形容當時的心境，牢牢抓住聽眾的注意力。",
+      "examples": [
+        {
+          "en": "We were basically trying to catch our train while carrying three heavy suitcases in the snow. It was pure chaos.",
+          "zh": "我們基本上就是一邊試著趕火車，一邊還要雪地裡提著三個大行李箱。當時簡直一團亂。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-19",
+      "source": "catalogue",
+      "titleEn": "And right at that exact moment, the plot thickens. [轉折事件].",
+      "titleZh": "就在那個精確瞬間，劇情轉厚了。〔轉折事件〕。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "轉折事件",
+          "examples": [
+            "The power went completely out",
+            "my boss walked into the room"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "And right at that exact moment, the plot thickens. The power went completely out.",
+          "zh": "而就在那個精確的瞬間，劇情峰迴路轉。我老闆竟然走進了房間。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-20",
+      "source": "catalogue",
+      "titleEn": "Just when I thought it couldn’t get any weirder, guess what happened?",
+      "titleZh": "正當我以為不可能再更怪，你猜又發生什麼？",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "邀請聽眾互動",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "Just when I thought it couldn’t get any weirder, guess what happened?",
+          "zh": "正當我以為事情不可能再更怪的時候，你猜發生了什麼事？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-21",
+      "source": "catalogue",
+      "titleEn": "But here’s the kicker: [出人意料的核心笑點/轉折].",
+      "titleZh": "但最絕的是：〔出人意料的核心笑點/轉折〕。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "出人意料的核心笑點/轉折",
+          "examples": [
+            "I was wearing my shirt inside out the entire time",
+            "the dog was actually theirs"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "But here’s the kicker: I was wearing my shirt inside out the entire time.",
+          "zh": "但最絕的是：我整天衣服其實都穿反了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-22",
+      "source": "catalogue",
+      "titleEn": "I looked down, and to my absolute horror, I realized that [驚人發現].",
+      "titleZh": "我低頭一看，驚恐地發現〔驚人發現〕。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "驚人發現",
+          "examples": [
+            "I had been unmuted for the last ten minutes",
+            "I brought the wrong passport"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "I looked down, and to my absolute horror, I realized that I had been unmuted for the last ten minutes.",
+          "zh": "我低頭一看，讓我無比驚恐的是，我發現過去十分鐘我竟然沒關麥克風！",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-23",
+      "source": "catalogue",
+      "titleEn": "Then came the turning point. Out of the blue, [關鍵人物/事件] changed everything.",
+      "titleZh": "接著轉折點來了。突然，〔關鍵人物/事件〕改變了一切。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "關鍵人物/事件",
+          "examples": [
+            "a stranger offered us a ride",
+            "the system rebooted itself"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "Then came the turning point. Out of the blue, a stranger offered us a ride changed everything.",
+          "zh": "接著轉折點來了。出乎意料地，一個陌生人主動載了我們一程，改變了一切。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-24",
+      "source": "catalogue",
+      "titleEn": "It was like a scene straight out of a comedy movie. I just stood there, [動作].",
+      "titleZh": "那簡直像從喜劇電影搬出來。我就站在那，〔動作〕。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "動作",
+          "examples": [
+            "frozen in disbelief",
+            "laughing hysterically"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "It was like a scene straight out of a comedy movie. I just stood there, frozen in disbelief.",
+          "zh": "那簡直就像是直接從喜劇電影裡搬出來的場景。我整個人就愣在原地，不敢置信。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-25",
+      "source": "catalogue",
+      "titleEn": "Against all odds, instead of [預期的壞結果], what actually happened was [相反的好結果].",
+      "titleZh": "出乎意料，不但沒〔預期的壞結果〕，實際發生的是〔相反的好結果〕。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "預期的壞結果",
+          "examples": [
+            "getting fined"
+          ]
+        },
+        {
+          "name": "相反的好結果",
+          "examples": [
+            "they gave us a free upgrade"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "Against all odds, instead of getting fined, what actually happened was they gave us a free upgrade.",
+          "zh": "出乎所有人的意料，我們不但沒被罰款，他們居然還幫我們免費升等了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-26",
+      "source": "catalogue",
+      "titleEn": "This was the point of no return. I had to choose between [選項A] or [選項B].",
+      "titleZh": "這已經無法回頭。我必須在〔選項A〕或〔選項B〕之間選。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "選項A",
+          "examples": [
+            "confessing right away"
+          ]
+        },
+        {
+          "name": "選項B",
+          "examples": [
+            "faking it till I make it"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "This was the point of no return. I had to choose between confessing right away or faking it till I make it.",
+          "zh": "這已經到了無法回頭的的地步。我必須在『立刻招認』或『裝傻到底』之間做選擇。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-c-27",
+      "source": "catalogue",
+      "titleEn": "And that was the straw that broke the camel’s back. I just couldn’t [動作] anymore.",
+      "titleZh": "而那就是最後一根稻草。我再也〔動作〕不了。",
+      "usage": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "C",
+      "blockName": "高潮轉折",
+      "tags": [
+        "說故事",
+        "高潮轉折",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "動作",
+          "examples": [
+            "keep a straight face",
+            "hold back my laughter"
+          ]
+        }
+      ],
+      "sceneHint": "故事的核心笑點、驚悚點或轉折點。用這些公式來加重語氣，製造戏剧性效果！",
+      "examples": [
+        {
+          "en": "And that was the straw that broke the camel’s back. I just couldn’t keep a straight face anymore.",
+          "zh": "而那就是壓垮駱駝的最後一根稻草。我真的再也沒辦法擺出一張嚴肅的臉了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-28",
+      "source": "catalogue",
+      "titleEn": "So yeah, long story short, that’s how I ended up [荒謬的最終結局].",
+      "titleZh": "所以啦，長話短說，這就是我最後〔荒謬的最終結局〕的原因。",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "荒謬的最終結局",
+          "examples": [
+            "sleeping on a bench in London",
+            "adopting a third cat"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "So yeah, long story short, that’s how I ended up sleeping on a bench in London.",
+          "zh": "所以啦，長話短說，這就是為什麼我最後落得在倫敦長椅上睡覺的下場。",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "long story short",
+      "layerRole": "故事公式：交代混亂現場。",
+      "togetherHint": "風格裡用來高效收束。說故事公式裡則是鋪陳混亂現場時的潤滑劑。講故事時用公式把聽眾放進現場；收尾再用風格把話權拿回來。",
+      "togetherExample": "Long story short, we found ourselves in the middle of a foreign airport with absolutely no cell service. The bottom line is, we still made it.",
+      "togetherZh": "長話短說，我們人在國外機場正中央，完全沒有訊號。重點是，我們還是抵達了。",
+      "related": [
+        {
+          "id": "cat-3-b-11",
+          "source": "catalogue",
+          "titleEn": "Long story short, we found ourselves in the middle of [某個混亂地方] with absolutely no [必備物品].",
+          "titleZh": "長話短說，我們人在〔某個混亂地方〕正中央，而且完全沒有〔必備物品〕。",
+          "role": "故事公式：交代混亂現場。"
+        },
+        {
+          "id": "phrase-129",
+          "source": "phrase",
+          "titleEn": "Long story short...",
+          "titleZh": "長話短說 / 總而言之",
+          "role": "句型：同一條收束語，生活與工作都能用。"
+        },
+        {
+          "id": "style-s2-09",
+          "source": "style",
+          "titleEn": "Long story short",
+          "titleZh": "長話短說",
+          "role": "連接詞：跳過細節、給結果。"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-29",
+      "source": "catalogue",
+      "titleEn": "Moral of the story: Never, under any circumstances, [學到的核心教訓].",
+      "titleZh": "故事寓意：永遠、在任何情況下，都不要〔學到的核心教訓〕。",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "學到的核心教訓",
+          "examples": [
+            "underestimate the power of a typo",
+            "buy cheap electronics online"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "Moral of the story: Never, under any circumstances, underestimate the power of a typo.",
+          "zh": "這個故事的寓意是：永遠、在任何情況下，都不要低估一個打字錯誤的威力。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-30",
+      "source": "catalogue",
+      "titleEn": "Looking back, it’s hilarious, but at the time, I honestly thought [當時的絕望想法].",
+      "titleZh": "現在回頭看很好笑，但當時我真的以為〔當時的絕望想法〕。",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "當時的絕望想法",
+          "examples": [
+            "my life was completely over",
+            "I would never get hired again"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "Looking back, it’s hilarious, but at the time, I honestly thought my life was completely over.",
+          "zh": "現在回頭看很好笑，但那時候，我真的覺得我的人生完蛋了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-31",
+      "source": "catalogue",
+      "titleEn": "We still laugh about it every time we [觸發回憶的動作]. It’s become a running joke.",
+      "titleZh": "每次我們〔觸發回憶的動作〕，都還會拿這件事笑。這已變成長期笑梗。",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "觸發回憶的動作",
+          "examples": [
+            "meet up for drinks",
+            "order Thai food"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "We still laugh about it every time we meet up for drinks. It’s become a running joke.",
+          "zh": "每次我們聚在一起喝酒，都還是會拿這件事大笑。這已經變成我們之間長期的笑梗了。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-32",
+      "source": "catalogue",
+      "titleEn": "It wasn’t funny then, but as they say, comedy equals tragedy plus time, right?",
+      "titleZh": "那時候一點都不好笑，但就像大家說的，喜劇就是悲劇加時間，對吧？",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "It wasn’t funny then, but as they say, comedy equals tragedy plus time, right?",
+          "zh": "那時候一點都不好笑，但就像大家說的，喜劇就是悲劇加上時間，對吧？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-33",
+      "source": "catalogue",
+      "titleEn": "I guess the silver lining of the whole disaster was that [不幸中的大幸].",
+      "titleZh": "整個災難裡唯一的銀邊，大概是〔不幸中的大幸〕。",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "不幸中的大幸",
+          "examples": [
+            "we made some great friends",
+            "I got a full refund"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "I guess the silver lining of the whole disaster was that we made some great friends.",
+          "zh": "我想整個災難中唯一不幸中的大幸，就是我們結交了幾位很棒的朋友。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-34",
+      "source": "catalogue",
+      "titleEn": "So, if you ever find yourself [相似的尷尬情境], now you know exactly what not to do!",
+      "titleZh": "所以如果你哪天也〔相似的尷尬情境〕，現在你知道什麼不該做了！",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "相似的尷尬情境",
+          "examples": [
+            "trapped in an elevator with a stranger",
+            "losing your luggage"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "So, if you ever find yourself trapped in an elevator with a stranger, now you know exactly what not to do!",
+          "zh": "所以，如果你哪天發現自己也弄丟了行李，現在你完全知道什麼事是不該做的了！",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-35",
+      "source": "catalogue",
+      "titleEn": "It taught me a valuable lesson about [抽象概念], and I wouldn’t change a thing.",
+      "titleZh": "這給了我關於〔抽象概念〕很寶貴的一課，而我一點都不想改。",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "抽象概念",
+          "examples": [
+            "human nature",
+            "patience",
+            "the importance of double-checking"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "It taught me a valuable lesson about human nature, and I wouldn’t change a thing.",
+          "zh": "這給了我關於『仔細檢查有多重要』上了寶貴的一課，而我一點都不後悔。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-3-d-36",
+      "source": "catalogue",
+      "titleEn": "It was a total train wreck, but hey, at least it makes for a great story, right? Anyone else have a [相似經歷] story?",
+      "titleZh": "那簡直是一場事故，但至少能變成好故事，對吧？有人也有〔相似經歷〕嗎？",
+      "usage": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "note": "神級收尾兼反問",
+      "category": "說故事",
+      "categoryId": "story",
+      "categoryNo": 3,
+      "block": "D",
+      "blockName": "畫龍點睛",
+      "tags": [
+        "說故事",
+        "畫龍點睛",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "相似經歷",
+          "examples": [
+            "travel disaster",
+            "job interview gone wrong"
+          ]
+        }
+      ],
+      "sceneHint": "故事結束，用一句幽默、自嘲或富有哲理的話收尾，然後順勢把話語權交還給聽眾。",
+      "examples": [
+        {
+          "en": "It was a total train wreck, but hey, at least it makes for a great story, right? Anyone else have a travel disaster story?",
+          "zh": "那簡直是一場慘劇，但嘿，至少它能變成一個精彩的故事，對吧？你們有人也有過慘不忍睹的面試經驗嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-01",
+      "source": "catalogue",
+      "titleEn": "I can’t even imagine how [情緒形容詞] you must have felt. Anyone would have [反應] in that situation.",
+      "titleZh": "我甚至無法想像你當時有多〔情緒形容詞〕。換作任何人，都會〔反應〕。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "情緒形容詞",
+          "examples": [
+            "frustrated",
+            "thrilled",
+            "blindsided"
+          ]
+        },
+        {
+          "name": "反應",
+          "examples": [
+            "lost their cool",
+            "celebrated"
+          ]
+        }
+      ],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "I can’t even imagine how frustrated you must have felt. Anyone would have lost their cool in that situation.",
+          "zh": "我甚至無法想像你當時有多挫折。換作任何人，在那個情況下都會發脾氣的。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-02",
+      "source": "catalogue",
+      "titleEn": "That sounds incredibly [負面形容詞]. It’s completely valid that you’re feeling this way.",
+      "titleZh": "這聽起來真的〔負面形容詞〕。你會有這種感覺完全合理。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "負面形容詞",
+          "examples": [
+            "exhausting",
+            "overwhelming",
+            "unfair"
+          ]
+        }
+      ],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "That sounds incredibly exhausting. It’s completely valid that you’re feeling this way.",
+          "zh": "這聽起來真的讓人筋疲力盡。你會有這種感覺是完全合情合理的。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-03",
+      "source": "catalogue",
+      "titleEn": "Wow, you must be over the moon! You’ve put so much blood, sweat, and tears into [事物].",
+      "titleZh": "哇，你現在一定高興瘋了！你為〔事物〕付出了那麼多心血。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "事物",
+          "examples": [
+            "this launch",
+            "your training",
+            "this project"
+          ]
+        }
+      ],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "Wow, you must be over the moon! You’ve put so much blood, sweat, and tears into this launch.",
+          "zh": "哇，你現在一定高興瘋了！你為了這次產品上線付出了那麼多心血、汗水和淚水。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-04",
+      "source": "catalogue",
+      "titleEn": "That is a massive win! I’m honestly so incredibly thrilled for you.",
+      "titleZh": "這是巨大的成功！我真心為你感到無比高興。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "毫無保留的啦啦隊",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "That is a massive win! I’m honestly so incredibly thrilled for you.",
+          "zh": "這是一個巨大的成功！我真心為你感到無比高興。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-05",
+      "source": "catalogue",
+      "titleEn": "If I were in your shoes, I would be [情緒反應] too. It’s a lot to process.",
+      "titleZh": "如果我是你，我也會〔情緒反應〕。這真的需要時間消化。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "情緒反應",
+          "examples": [
+            "second-guessing myself",
+            "absolutely fuming"
+          ]
+        }
+      ],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "If I were in your shoes, I would be second-guessing myself too. It’s a lot to process.",
+          "zh": "如果我是你，我肯定也會懷疑自己。這真的需要時間去消化。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-06",
+      "source": "catalogue",
+      "titleEn": "That’s rough. It takes a lot of courage to just [行動] after a day like that.",
+      "titleZh": "這太不容易了。那樣的一天之後還能〔行動〕，需要很大勇氣。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "行動",
+          "examples": [
+            "show up",
+            "stay positive",
+            "talk about it"
+          ]
+        }
+      ],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "That’s rough. It takes a lot of courage to just show up after a day like that.",
+          "zh": "這太不容易了。在經歷了那樣的一天之後，還能保持正向（或出席）真的需要很大的勇氣。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-07",
+      "source": "catalogue",
+      "titleEn": "I’m so sorry you had to go through that. Nobody should have to deal with [糟糕的情況].",
+      "titleZh": "我很遺憾你必須經歷這些。沒有人該去面對〔糟糕的情況〕。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "糟糕的情況",
+          "examples": [
+            "that kind of disrespect",
+            "a sudden layoff"
+          ]
+        }
+      ],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "I’m so sorry you had to go through that. Nobody should have to deal with that kind of disrespect.",
+          "zh": "我很遺憾你必須經歷這些。沒有人應該去面對那種不尊重。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-08",
+      "source": "catalogue",
+      "titleEn": "My goodness, that sounds like a total rollercoaster ride. Are you holding up okay?",
+      "titleZh": "天啊，這聽起來像坐雲霄飛車。你還撐得住嗎？",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "My goodness, that sounds like a total rollercoaster ride. Are you holding up okay?",
+          "zh": "天啊，這聽起來簡直就像坐雲霄飛車一樣。你還撐得住嗎？」（極具溫度的關懷）",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-a-09",
+      "source": "catalogue",
+      "titleEn": "I can feel your excitement from here! It’s contagious.",
+      "titleZh": "我在這裡都能感到你的興奮！這真的有感染力。",
+      "usage": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "A",
+      "blockName": "情緒同頻",
+      "tags": [
+        "同理傾聽",
+        "情緒同頻",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當對方剛分享完一件讓他憤怒、沮喪或極度興奮的事，你第一時間用這些句子「同步」他的感受，讓他覺得你完全懂他。",
+      "examples": [
+        {
+          "en": "I can feel your excitement from here! It’s contagious.",
+          "zh": "我在這裡都能感受到你的興奮！這真的很有感染力。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-10",
+      "source": "catalogue",
+      "titleEn": "So, if I’m hearing you correctly, the main source of stress isn’t [A], but rather [B]?",
+      "titleZh": "所以如果我沒聽錯，壓力來源不是〔A〕，而是〔B〕？",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "A",
+          "examples": [
+            "the workload"
+          ]
+        },
+        {
+          "name": "B",
+          "examples": [
+            "the lack of direction"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "So, if I’m hearing you correctly, the main source of stress isn’t the workload, but rather the lack of direction?",
+          "zh": "所以，如果我沒聽錯的話，你主要的壓力來源不是工作量，而是缺乏方向？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-11",
+      "source": "catalogue",
+      "titleEn": "It sounds like you’re caught between a rock and a hard place—on one hand [難處A], but on the other hand [難處B].",
+      "titleZh": "聽起來你左右為難：一方面〔難處A〕，另一方面〔難處B〕。",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "難處A",
+          "examples": [
+            "you want to speak up"
+          ]
+        },
+        {
+          "name": "難處B",
+          "examples": [
+            "you don’t want to cause drama"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "It sounds like you’re caught between a rock and a hard place—on one hand you want to speak up, but on the other hand you don’t want to cause drama.",
+          "zh": "聽起來你左右為難——一方面你想把話說清楚，另一方面你又不想引發衝突。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-12",
+      "source": "catalogue",
+      "titleEn": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some [內心需求].",
+      "titleZh": "如果我錯了請糾正我，但你真正想要的似乎只是一點〔內心需求〕。",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "內心需求",
+          "examples": [
+            "appreciation",
+            "clarity",
+            "breathing room"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some appreciation.",
+          "zh": "如果我錯了請糾正我，但似乎你真正想要的只是那麼一點點喘息的空間（或被賞識）。",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "correct me if I'm wrong",
+      "layerRole": "傾聽公式：核對對方真正要的是什麼。",
+      "togetherHint": "句型層是委婉指出可能記錯。公式層則用來重述對方真正要的東西。前者核對事實，後者核對感受。",
+      "togetherExample": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some breathing room.",
+      "togetherZh": "如果我錯了請糾正我，但你真正想要的，似乎只是一點喘息空間。",
+      "related": [
+        {
+          "id": "cat-2-a-02",
+          "source": "catalogue",
+          "titleEn": "Correct me if I’m wrong, but it feels like the real issue here isn’t [A], but rather [B].",
+          "titleZh": "如果我錯了請糾正我，但真正的問題似乎不是〔A〕，而是〔B〕。",
+          "role": "傾聽公式：核對對方真正要的是什麼。"
+        },
+        {
+          "id": "phrase-049",
+          "source": "phrase",
+          "titleEn": "Correct me if I'm wrong, but...",
+          "titleZh": "如果我錯了請糾正我，但...",
+          "role": "委婉核對事實或共識。"
+        },
+        {
+          "id": "phrase-126",
+          "source": "phrase",
+          "titleEn": "Correct me if I'm wrong...",
+          "titleZh": "如果我說錯了請糾正我...",
+          "role": "委婉核對事實或共識。"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-13",
+      "source": "catalogue",
+      "titleEn": "So what you’re basically saying is that the current system is [形容詞], and it’s pushing people to their limits?",
+      "titleZh": "所以你基本上是說，目前系統是〔形容詞〕，而且把人逼到極限？",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "形容詞",
+          "examples": [
+            "flawed",
+            "unsustainable"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "So what you’re basically saying is that the current system is flawed, and it’s pushing people to their limits?",
+          "zh": "所以你基本上是說，目前的系統是有瑕疵的，而且正在把大家逼到極限？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-14",
+      "source": "catalogue",
+      "titleEn": "It feels like you’ve been carrying the weight of [某種責任] all by yourself for a while now.",
+      "titleZh": "感覺這陣子你一直獨自扛著〔某種責任〕。",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某種責任",
+          "examples": [
+            "this entire project",
+            "keeping the peace",
+            "providing for everyone"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "It feels like you’ve been carrying the weight of this entire project all by yourself for a while now.",
+          "zh": "感覺這陣子以來，你一直獨自扛著維持和平（或整個專案）的重擔。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-15",
+      "source": "catalogue",
+      "titleEn": "If I summarize what you just shared, it’s basically a classic case of [現象/狀況]. Am I on the right track?",
+      "titleZh": "如果我總結你剛分享的，這基本上是〔現象/狀況〕的經典案例。我理解對嗎？",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "現象/狀況",
+          "examples": [
+            "burnout",
+            "misalignment",
+            "miscommunication"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "If I summarize what you just shared, it’s basically a classic case of burnout. Am I on the right track?",
+          "zh": "如果我總結你剛才分享的，這基本上是一個經典的過勞（或溝通不良）案例。我的理解對嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-16",
+      "source": "catalogue",
+      "titleEn": "You’ve mentioned [關鍵字] a few times. It seems like that part matters to you the most, doesn’t it?",
+      "titleZh": "你提到〔關鍵字〕好幾次。看來那部分對你最重要，對吧？",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "關鍵字",
+          "examples": [
+            "autonomy",
+            "creative freedom",
+            "transparency"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "You’ve mentioned autonomy a few times. It seems like that part matters to you the most, doesn’t it?",
+          "zh": "你提到了『透明度』好幾次。看來那一部分對你來說最重要，對吧？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-17",
+      "source": "catalogue",
+      "titleEn": "So the bottom line for you is that as long as [條件], you’re willing to [付出], right?",
+      "titleZh": "所以對你來說，底線是只要〔條件〕，你就願意〔付出〕，對嗎？",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "條件",
+          "examples": [
+            "the goal is clear"
+          ]
+        },
+        {
+          "name": "付出",
+          "examples": [
+            "put in the extra hours"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "So the bottom line for you is that as long as the goal is clear, you’re willing to put in the extra hours, right?",
+          "zh": "所以對你來說，底線是只要目標明確，你其實是願意加班付出的，對嗎？",
+          "scene": "填入後的例句"
+        }
+      ],
+      "layerFamily": "bottom line",
+      "layerRole": "傾聽公式：確認對方的底線，而不是搶著給結論。",
+      "togetherHint": "風格裡的 The bottom line is，是你觀察完後自己收斂結論。公式裡的 the bottom line for you，是複述對方的底線、證明你有在聽。先用公式接住，再用風格給出你的定見。",
+      "togetherExample": "So the bottom line for you is that as long as the goal is clear, you’re willing to put in the extra hours, right? Fair enough. The bottom line is, we need a solution that works for everyone involved.",
+      "togetherZh": "所以對你來說，底線是只要目標清楚，你就願意多付出，對嗎？有道理。重點是，我們需要一個對所有相關的人都行得通的方案。",
+      "related": [
+        {
+          "id": "style-s2-01",
+          "source": "style",
+          "titleEn": "The bottom line is",
+          "titleZh": "重點是；底線是",
+          "role": "你的語氣：把重點直接放到桌上。"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-b-18",
+      "source": "catalogue",
+      "titleEn": "It sounds to me like you’re not looking for [選項A], you just need [選項B].",
+      "titleZh": "聽起來你不是在找〔選項A〕，你只是需要〔選項B〕。",
+      "usage": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "B",
+      "blockName": "換句話說",
+      "tags": [
+        "同理傾聽",
+        "換句話說",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "選項A",
+          "examples": [
+            "advice"
+          ]
+        },
+        {
+          "name": "選項B",
+          "examples": [
+            "someone to vent to"
+          ]
+        }
+      ],
+      "sceneHint": "傾聽的中途或尾聲，用「你的話」重述對方的核心困境或想法。這能創造極強的信任感，證明你不是在敷衍。",
+      "examples": [
+        {
+          "en": "It sounds to me like you’re not looking for advice, you just need someone to vent to.",
+          "zh": "對我來說，聽起來你並不是在尋求建議，你只是需要有人可以讓你宣洩一下。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-19",
+      "source": "catalogue",
+      "titleEn": "Hey, don’t minimize your effort. Give yourself some credit for [做到的成果].",
+      "titleZh": "嘿，別把自己的努力縮小。為〔做到的成果〕給自己記上一功。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "做到的成果",
+          "examples": [
+            "handling it so professionally",
+            "pulling off the event"
+          ]
+        }
+      ],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "Hey, don’t minimize your effort. Give yourself some credit for handling it so professionally.",
+          "zh": "嘿，別忽視了你自己的努力。處理得這麼專業，你該給自己記上一功。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-20",
+      "source": "catalogue",
+      "titleEn": "From an outsider’s perspective, I’ve always admired how you [某種優點]. It’s a rare trait.",
+      "titleZh": "從旁觀者來看，我一直很欽佩你〔某種優點〕。這很罕見。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "某種優點",
+          "examples": [
+            "stay calm under pressure",
+            "always look out for the team"
+          ]
+        }
+      ],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "From an outsider’s perspective, I’ve always admired how you stay calm under pressure. It’s a rare trait.",
+          "zh": "從旁觀者的角度來看，我一直很欽佩你在壓力下還能保持冷靜。這是很罕見的特質。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-21",
+      "source": "catalogue",
+      "titleEn": "You’re being way too hard on yourself. Look at how far you’ve come since [過去的時間點].",
+      "titleZh": "你對自己太苛刻了。看看從〔過去的時間點〕以來，你已經走了多遠。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "過去的時間點",
+          "examples": [
+            "you started",
+            "last year",
+            "the crisis began"
+          ]
+        }
+      ],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "You’re being way too hard on yourself. Look at how far you’ve come since you started.",
+          "zh": "你對自己太苛刻了。看看自從你剛加入（或去年）以來，你已經走了多遠。",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-22",
+      "source": "catalogue",
+      "titleEn": "If anyone can find a creative way out of this mess, it’s definitely you. I’ve seen you do it before.",
+      "titleZh": "如果有人能從這團亂裡找到出路，那絕對是你。我看你辦到過。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "If anyone can find a creative way out of this mess, it’s definitely you. I’ve seen you do it before.",
+          "zh": "如果有人能從這團混亂中找到創意的出路，那絕對是你。我以前就看你辦到過。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-23",
+      "source": "catalogue",
+      "titleEn": "You made the absolute best decision you could with the information you had at the time. Don’t look back.",
+      "titleZh": "你已經用當時擁有的資訊做出最好的決定。別再回頭後悔。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "You made the absolute best decision you could with the information you had at the time. Don’t look back.",
+          "zh": "你已經用當時所擁有的資訊做出了絕對最好的決定。別再回頭後悔了。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-24",
+      "source": "catalogue",
+      "titleEn": "It’s okay to not have it all figured out right now. Nobody expects you to be a superhero.",
+      "titleZh": "現在還沒全部想透也沒關係。沒有人要你當超級英雄。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "It’s okay to not have it all figured out right now. Nobody expects you to be a superhero.",
+          "zh": "現在還沒把所有事情想透也沒關係。沒有人指望你要當個超級英雄。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-25",
+      "source": "catalogue",
+      "titleEn": "Your feelings are 100% valid. Don’t let anyone make you feel like you’re overreacting.",
+      "titleZh": "你的感受百分之百成立。別讓人覺得你是在過度反應。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "Your feelings are 100% valid. Don’t let anyone make you feel like you’re overreacting.",
+          "zh": "你的感受是百分之百成立的。別讓任何人覺得你是在過度反應。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-26",
+      "source": "catalogue",
+      "titleEn": "Whatever choice you make, I’m in your corner. You’ve got a solid gut feeling—trust it.",
+      "titleZh": "無論你怎麼選，我都在你這邊。你的直覺很準，相信它。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "Whatever choice you make, I’m in your corner. You’ve got a solid gut feeling—trust it.",
+          "zh": "無論你做什麼選擇，我都在你這邊。你的直覺很準——相信它。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-c-27",
+      "source": "catalogue",
+      "titleEn": "This is just a bump in the road, not the end of the road. You’re going to bounce back stronger.",
+      "titleZh": "這只是路上的顛簸，不是路的盡頭。你會反彈得更有力。",
+      "usage": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "C",
+      "blockName": "積極賦能",
+      "tags": [
+        "同理傾聽",
+        "積極賦能",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "對方自我懷疑、猶豫不決或陷入低潮時。你用這些公式幫他「打氣並重新肯定他的價值」。",
+      "examples": [
+        {
+          "en": "This is just a bump in the road, not the end of the road. You’re going to bounce back stronger.",
+          "zh": "這只是路上的小顛簸，而不是路的盡頭。你一定會反彈得更有力。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-28",
+      "source": "catalogue",
+      "titleEn": "You’ve been holding all this in for a while, haven’t you? Do you want to get the rest of it off your chest?",
+      "titleZh": "你把這些憋很久了吧？想把剩下的也說出來嗎？",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "You’ve been holding all this in for a while, haven’t you? Do you want to get the rest of it off your chest?",
+          "zh": "你把這些事憋在心裡好一陣子了吧？想把剩下的也一股腦說出來宣洩一下嗎？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-29",
+      "source": "catalogue",
+      "titleEn": "What is the most draining part of this whole situation for you right now?",
+      "titleZh": "對現在的你來說，整件事最讓你心力交瘁的是哪一段？",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "What is the most draining part of this whole situation for you right now?",
+          "zh": "對現在的你來說，整個狀況裡最讓你感到心力交瘁的是哪一部分？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-30",
+      "source": "catalogue",
+      "titleEn": "How can I best support you right now? Do you want me to help you brainstorm solutions, or just listen?",
+      "titleZh": "我現在怎麼幫你最好？要一起想辦法，還是只要聽你說？",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "頂級體貼",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "How can I best support you right now? Do you want me to help you brainstorm solutions, or just listen?",
+          "zh": "我現在怎麼做對你最有幫助？你是想讓我幫你一起想辦法，還是只要聽你說就好？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-31",
+      "source": "catalogue",
+      "titleEn": "What’s one small thing we could do today to take a bit of the pressure off your shoulders?",
+      "titleZh": "今天有什麼小事，能讓你肩膀輕一點？",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "What’s one small thing we could do today to take a bit of the pressure off your shoulders?",
+          "zh": "有什麼是我們今天可以做的、能幫你減輕一點肩膀上負擔的小事嗎？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-32",
+      "source": "catalogue",
+      "titleEn": "Is there anything about [事件] that you’re still losing sleep over?",
+      "titleZh": "關於〔事件〕，還有什麼讓你睡不著嗎？",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "事件",
+          "examples": [
+            "the upcoming meeting",
+            "the conversation with your boss"
+          ]
+        }
+      ],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "Is there anything about the upcoming meeting that you’re still losing sleep over?",
+          "zh": "關於即將到來的會議，還有什麼是讓你到現在還睡不著覺的嗎？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-33",
+      "source": "catalogue",
+      "titleEn": "I know you’re used to taking care of everyone else, but who is taking care of you right now?",
+      "titleZh": "我知道你習慣照顧每個人，但現在誰在照顧你？",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "直擊心靈的神級共情",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "I know you’re used to taking care of everyone else, but who is taking care of you right now?",
+          "zh": "我知道你習慣照顧身邊的每一個人，但現在誰在照顧你呢？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-34",
+      "source": "catalogue",
+      "titleEn": "Don’t worry about making sense right now. Just say whatever comes to your mind, I’m all ears.",
+      "titleZh": "現在不用管講得清不清楚。想到什麼就說，我聽著。",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "Don’t worry about making sense right now. Just say whatever comes to your mind, I’m all ears.",
+          "zh": "現在不用去管說話有沒有條理。想到什麼就說什麼，我洗耳恭聽。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-35",
+      "source": "catalogue",
+      "titleEn": "We don’t have to fix this whole thing tonight. What do you say we just focus on getting through [時間段]?",
+      "titleZh": "今晚不必把整件事修好。我們先專心撐過〔時間段〕，好嗎？",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [
+        {
+          "name": "時間段",
+          "examples": [
+            "this week",
+            "tomorrow’s presentation"
+          ]
+        }
+      ],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "We don’t have to fix this whole thing tonight. What do you say we just focus on getting through this week?",
+          "zh": "我們今晚不需要把所有問題都解決。不如我們就先專注在撐過這星期（或明天的簡報），你覺得呢？",
+          "scene": "填入後的例句"
+        }
+      ]
+    },
+    {
+      "id": "cat-4-d-36",
+      "source": "catalogue",
+      "titleEn": "Thank you for trusting me enough to share this with me. It really means a lot, and I’m always here.",
+      "titleZh": "謝謝你願意信任我、跟我說這些。這對我意義很大，我都在。",
+      "usage": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "note": "",
+      "category": "同理傾聽",
+      "categoryId": "empathy",
+      "categoryNo": 4,
+      "block": "D",
+      "blockName": "引導宣洩",
+      "tags": [
+        "同理傾聽",
+        "引導宣洩",
+        "對話公式"
+      ],
+      "slots": [],
+      "sceneHint": "當你想鼓勵對方繼續說出來，或是溫和地探問「我能怎麼幫你」，讓對話在最高情商的氛圍下收尾。",
+      "examples": [
+        {
+          "en": "Thank you for trusting me enough to share this with me. It really means a lot, and I’m always here.",
+          "zh": "謝謝你足夠信任我，願意跟我分享這些。這對我來說非常有意義，我隨時都在。",
+          "scene": "對譯"
+        }
+      ]
+    }
+  ]
+}

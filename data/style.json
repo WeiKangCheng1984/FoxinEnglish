@@ -1,0 +1,2281 @@
+{
+  "stages": [
+    {
+      "id": "markers",
+      "no": 1,
+      "title": "發語詞",
+      "titleEn": "Openers",
+      "intent": "Actually、Basically、I mean 等，用來掌握發言節奏"
+    },
+    {
+      "id": "connectors",
+      "no": 2,
+      "title": "邏輯連接",
+      "titleEn": "Connectors",
+      "intent": "The bottom line is、That being said，用來推進與轉折"
+    },
+    {
+      "id": "signature",
+      "no": 3,
+      "title": "招牌句",
+      "titleEn": "Signature lines",
+      "intent": "屬於你的觀察者／西岸語氣"
+    },
+    {
+      "id": "pressure",
+      "no": 4,
+      "title": "壓力緩衝",
+      "titleEn": "Pressure relievers",
+      "intent": "爭取思考時間、轉向、不同意、優雅收尾"
+    }
+  ],
+  "items": [
+    {
+      "id": "style-s1-01",
+      "source": "style",
+      "titleEn": "Actually",
+      "titleZh": "其實／更精確地說",
+      "usage": "當你發現對方理解有誤，或者你想提出一個更精確的觀察時，可以用 Actually 開場。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "邏輯驅動的發語詞",
+      "tags": [
+        "發語詞",
+        "邏輯驅動的發語詞",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Actually, the process is a bit more streamlined than it looks.",
+          "zh": "其實，這個流程比看起來更精簡。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Actually, if we look at the data from a different angle, it makes more sense.",
+          "zh": "其實，如果我們換個角度看這些資料，會合理得多。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Actually, I was thinking we could try a different approach this time.",
+          "zh": "其實，我在想這次我們可以試一條不同的路。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Actually, to be more precise, the focus should be on the final output.",
+          "zh": "其實，更精確地說，重點應該放在最終產出。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Actually, that’s a common misconception, but here’s how it really works.",
+          "zh": "其實，那是個常見誤解，真正運作的方式是這樣。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "actually",
+      "layerRole": "發語詞：提出更精確的觀察。",
+      "togetherHint": "風格裡用來修正誤解或講得更精確，不是反駁對方不誠實。公式破冰也有 I’m actually quite new to…，那是自我定位，不是轉折。",
+      "togetherExample": "I’m actually quite new to this industry. Actually, to be more precise, I just want to understand how you got into it.",
+      "togetherZh": "我其實很新進這一行。其實，更精確地說，我只是想搞懂你是怎麼進這行的。",
+      "related": [
+        {
+          "id": "cat-1-a-07",
+          "source": "catalogue",
+          "titleEn": "I’m actually quite new to [領域/群體]. What’s the one thing everyone should know about it?",
+          "titleZh": "我其實很新進〔領域/群體〕。有哪一件事是大家都該知道的？",
+          "role": "破冰：承認自己是新人，降低對立。"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-02",
+      "source": "style",
+      "titleEn": "Basically",
+      "titleZh": "基本上／簡單來說",
+      "usage": "當你要把複雜的邏輯（例如電力設施或技術規格）簡化給聽眾時，這是最好的高效工具。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "邏輯驅動的發語詞",
+      "tags": [
+        "發語詞",
+        "邏輯驅動的發語詞",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Basically, it all boils down to two main factors.",
+          "zh": "基本上，這一切可以收斂成兩個主要因素。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Basically, the goal here is to keep things as simple as possible.",
+          "zh": "基本上，這裡的目標就是盡量保持簡單。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Basically, what I’m trying to say is that we need to prioritize efficiency.",
+          "zh": "基本上，我想說的是我們得把效率放在前面。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Basically, if you follow this logic, the rest of the steps fall into place.",
+          "zh": "基本上，你只要跟著這條邏輯走，後面的步驟會自己到位。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Basically, we’re just looking for the most effective way to get this done.",
+          "zh": "基本上，我們只是在找把這件事做完最有效的方法。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-03",
+      "source": "style",
+      "titleEn": "I mean",
+      "titleZh": "我的意思是（補充或軟化）",
+      "usage": "這能幫你在講完一段話後進行修正或補充，顯得非常有親和力。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "社交連結與共鳴",
+      "tags": [
+        "發語詞",
+        "社交連結與共鳴",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I mean, I don't want to overcomplicate things for you.",
+          "zh": "我的意思是，我不想把事情弄得對你太複雜。",
+          "scene": "對譯"
+        },
+        {
+          "en": "I mean, it’s just a suggestion, but it might save us some time.",
+          "zh": "我的意思是，這只是建議，但可能幫我們省一點時間。",
+          "scene": "對譯"
+        },
+        {
+          "en": "I mean, the whole idea is to make the experience better for everyone.",
+          "zh": "我的意思是，整件事就是想讓每個人的體驗更好。",
+          "scene": "對譯"
+        },
+        {
+          "en": "I mean, let’s be real, we all want the best possible result.",
+          "zh": "我的意思是，說實話，我們都想要最好的結果。",
+          "scene": "對譯"
+        },
+        {
+          "en": "I mean, I’m just looking at it from a practical standpoint.",
+          "zh": "我的意思是，我只是從務實的角度看。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-04",
+      "source": "style",
+      "titleEn": "You know",
+      "titleZh": "你知道的（把對方拉進同一套邏輯）",
+      "usage": "這能邀請聽眾進入你的思考脈絡，創造一種「我們在同一艘船上」的氛圍。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "社交連結與共鳴",
+      "tags": [
+        "發語詞",
+        "社交連結與共鳴",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "You know, it’s one of those things where you just have to see it to get it.",
+          "zh": "你知道的，這種事得親眼看到才會懂。",
+          "scene": "對譯"
+        },
+        {
+          "en": "You know, like how we usually handle these kinds of situations.",
+          "zh": "你知道的，就像我們平常處理這類狀況的方式。",
+          "scene": "對譯"
+        },
+        {
+          "en": "You know, I want to make sure you’re comfortable with this timeline.",
+          "zh": "你知道的，我想確認你對這個時程是安心的。",
+          "scene": "對譯"
+        },
+        {
+          "en": "You know, it’s all about finding that sweet spot between quality and speed.",
+          "zh": "你知道的，重點就是在品質和速度之間找到那個剛好的點。",
+          "scene": "對譯"
+        },
+        {
+          "en": "You know, I’ve noticed that people really appreciate the details here.",
+          "zh": "你知道的，我有注意到大家其實很在意這裡的細節。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-05",
+      "source": "style",
+      "titleEn": "Fair enough",
+      "titleZh": "有道理；我懂你的邏輯",
+      "usage": "這是最能體現你「注重他人感受」且「講究邏輯」的詞彙。它代表「我聽懂了，且我認同你的邏輯，但我可能有不同看法」。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "觀察者的認同與轉折",
+      "tags": [
+        "發語詞",
+        "觀察者的認同與轉折",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Fair enough, I see where you’re coming from with that point.",
+          "zh": "有道理，我懂你這個點是從哪來的。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Fair enough, let’s take that into consideration as we move forward.",
+          "zh": "有道理，我們往下走時把這點納進去。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Fair enough, that’s a valid concern to bring up.",
+          "zh": "有道理，這確實是值得提出來的顧慮。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Fair enough, but let’s also look at the potential downsides.",
+          "zh": "有道理，但我們也看看可能的壞處。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Fair enough, I can definitely work with that.",
+          "zh": "有道理，這個我可以配合。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "fair enough",
+      "layerRole": "觀察者語氣：我聽懂了，且承認你的邏輯。",
+      "togetherHint": "風格裡的 Fair enough 是消化對方邏輯、再決定要不要轉折。公式裡出現時，常接「但我們看實際面」。它不是投降，是先點頭再帶入你的觀察。",
+      "togetherExample": "Fair enough, I see where you’re coming from. That being said, let’s look at the practical side of things.",
+      "togetherZh": "有道理，我懂你從哪來。話雖如此，我們還是看實際面。",
+      "related": [
+        {
+          "id": "style-s4-18",
+          "source": "style",
+          "titleEn": "Fair enough, but let us look at the practical side of things.",
+          "titleZh": "有道理，但我們看實際面",
+          "role": "觀察者語氣：我聽懂了，且承認你的邏輯。"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-06",
+      "source": "style",
+      "titleEn": "Right",
+      "titleZh": "對……（停頓、消化）",
+      "usage": "當你點頭說一個 Right 然後停頓時，這代表你正在進行深度思考。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "觀察者的認同與轉折",
+      "tags": [
+        "發語詞",
+        "觀察者的認同與轉折",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Right... (停頓) So, if we take that path, what’s our next move?",
+          "zh": "對……（停頓）那如果走這條路，下一步是什麼？",
+          "scene": "對譯"
+        },
+        {
+          "en": "Right... (停頓) I see the logic there, but let’s double-check the details.",
+          "zh": "對……（停頓）我看到裡面的邏輯，但細節我們再核一次。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Right... (停頓) That changes things a bit, doesn’t it?",
+          "zh": "對……（停頓）這樣事情就不太一樣了，對吧？",
+          "scene": "對譯"
+        },
+        {
+          "en": "Right... (停頓) Let’s see how we can integrate that into the plan.",
+          "zh": "對……（停頓）看看我們怎麼把它嵌進計畫裡。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Right... (停頓) I’m just thinking about how that affects the overall flow.",
+          "zh": "對……（停頓）我在想這會怎麼影響整體節奏。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-07",
+      "source": "style",
+      "titleEn": "Honestly",
+      "titleZh": "老實說；我要講重點了",
+      "usage": "這不是在質疑對方的誠實，而是在表達「我現在要講真心話/重點了」。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "西岸風格的直率引導",
+      "tags": [
+        "發語詞",
+        "西岸風格的直率引導",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Honestly, I think we’re overthinking this part.",
+          "zh": "老實說，我覺得這一段我們想太多了。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Honestly, the simplest solution is usually the best one.",
+          "zh": "老實說，最簡單的方案通常就是最好的。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Honestly, I’d rather be upfront about the challenges we’re facing.",
+          "zh": "老實說，我寧願把我們正面臨的挑戰直接講清楚。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Honestly, it’s not as complicated as it sounds.",
+          "zh": "老實說，這沒有聽起來那麼複雜。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Honestly, I’m just happy to be part of the conversation.",
+          "zh": "老實說，我很開心能參與這場對話。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "honestly",
+      "layerRole": "直率開場：進入真心話。",
+      "togetherHint": "風格的 Honestly 是「我要講重點了」。句型的 To tell you the truth / To be honest with you 是坦白。都不要用成質疑對方說謊。",
+      "togetherExample": "Honestly, I think we’re overthinking this part. To be honest with you, our team doesn’t have the bandwidth this week.",
+      "togetherZh": "老實說，我覺得這一段我們想太多了。坦白跟你說，我們團隊這週沒有餘裕。",
+      "related": [
+        {
+          "id": "phrase-034",
+          "source": "phrase",
+          "titleEn": "To tell you the truth...",
+          "titleZh": "老實跟你說... / 說真的...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "phrase-121",
+          "source": "phrase",
+          "titleEn": "To be honest with you...",
+          "titleZh": "老實跟你說... / 說真的...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "phrase-134",
+          "source": "phrase",
+          "titleEn": "To tell you the truth...",
+          "titleZh": "老實說... / 坦白講...",
+          "role": "句型：坦白講現況。"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-08",
+      "source": "style",
+      "titleEn": "Realistically",
+      "titleZh": "務實來看",
+      "usage": "這能展現你作為專業人士的理性底色。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "西岸風格的直率引導",
+      "tags": [
+        "發語詞",
+        "西岸風格的直率引導",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Realistically, we have to look at what’s possible within this timeframe.",
+          "zh": "務實來看，我們得看這個時程內真正做得到什麼。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Realistically, this is the most efficient way to handle the situation.",
+          "zh": "務實來看，這是處理這個狀況最有效率的方式。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Realistically, we should expect a few bumps along the road.",
+          "zh": "務實來看，路上本來就會有幾個顛簸。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Realistically, I don’t think we need to worry about that just yet.",
+          "zh": "務實來看，我覺得現在還不必擔心那個。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Realistically, it’s all about managing expectations from the start.",
+          "zh": "務實來看，一開始就把期待管理好才是重點。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s1-09",
+      "source": "style",
+      "titleEn": "Just 與 Like",
+      "titleZh": "只是／有點像（軟化直率）",
+      "usage": "適度使用這兩個詞，可以軟化 70% 直率語氣中可能帶來的侵略感。",
+      "category": "發語詞",
+      "categoryId": "markers",
+      "categoryNo": 1,
+      "block": "高效的緩衝語句",
+      "tags": [
+        "發語詞",
+        "高效的緩衝語句",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I’m just trying to get a better sense of the big picture.",
+          "zh": "我只是想把大局再看清楚一點。",
+          "scene": "對譯"
+        },
+        {
+          "en": "It’s just that I want to make sure we don’t miss any small details.",
+          "zh": "只是我想確認我們沒漏掉任何小細節。",
+          "scene": "對譯"
+        },
+        {
+          "en": "I was just wondering if you had any thoughts on this.",
+          "zh": "我只是好奇你對這件事有沒有想法。",
+          "scene": "對譯"
+        },
+        {
+          "en": "It’s like, we’re almost there, we just need one final push.",
+          "zh": "有點像是，我們就快到了，只差最後一推。",
+          "scene": "對譯"
+        },
+        {
+          "en": "It’s kind of like how a camera focus works, you know?",
+          "zh": "有點像相機對焦的方式，你懂嗎？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-01",
+      "source": "style",
+      "titleEn": "The bottom line is",
+      "titleZh": "重點是；底線是",
+      "usage": "這是最具重量感的連接詞，適合在你觀察完畢後，給出最終定見。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "核心結論與直率切入",
+      "tags": [
+        "邏輯連接",
+        "核心結論與直率切入",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "The bottom line is, we need a solution that works for everyone involved.",
+          "zh": "重點是，我們需要一個對所有相關的人都行得通的方案。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The bottom line is, if the timing isn't right, the quality will suffer.",
+          "zh": "重點是，時機不對，品質就會受傷。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The bottom line is, I'm looking for the most efficient way to capture this shot.",
+          "zh": "重點是，我在找捕捉這個鏡頭最有效率的方法。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The bottom line is, we're here to make sure the experience is seamless.",
+          "zh": "重點是，我們在這裡就是為了讓體驗是順的。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The bottom line is, simplicity usually beats complexity in these cases.",
+          "zh": "重點是，這種情況簡單通常贏過複雜。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "bottom line",
+      "layerRole": "你的語氣：把重點直接放到桌上。",
+      "togetherHint": "風格裡的 The bottom line is，是你觀察完後自己收斂結論。公式裡的 the bottom line for you，是複述對方的底線、證明你有在聽。先用公式接住，再用風格給出你的定見。",
+      "togetherExample": "So the bottom line for you is that as long as the goal is clear, you’re willing to put in the extra hours, right? Fair enough. The bottom line is, we need a solution that works for everyone involved.",
+      "togetherZh": "所以對你來說，底線是只要目標清楚，你就願意多付出，對嗎？有道理。重點是，我們需要一個對所有相關的人都行得通的方案。",
+      "related": [
+        {
+          "id": "cat-4-b-17",
+          "source": "catalogue",
+          "titleEn": "So the bottom line for you is that as long as [條件], you’re willing to [付出], right?",
+          "titleZh": "所以對你來說，底線是只要〔條件〕，你就願意〔付出〕，對嗎？",
+          "role": "傾聽公式：確認對方的底線，而不是搶著給結論。"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-02",
+      "source": "style",
+      "titleEn": "The thing is",
+      "titleZh": "問題在於；關鍵是",
+      "usage": "當你要指出一個關鍵問題或轉折點時，這個詞比 However 更平易近人。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "核心結論與直率切入",
+      "tags": [
+        "邏輯連接",
+        "核心結論與直率切入",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "The thing is, we have to consider the lighting before we start the tour.",
+          "zh": "問題是，開始導覽前我們得先考慮光線。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The thing is, I've seen this happen before, and here’s how we fixed it.",
+          "zh": "問題是，這事我見過，而我們當時是這樣修的。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The thing is, I want to make sure we're all on the same page first.",
+          "zh": "問題是，我先想確認大家認知一致。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The thing is, realistically, we only have about twenty minutes left.",
+          "zh": "問題是，務實來說我們大概只剩二十分鐘。",
+          "scene": "對譯"
+        },
+        {
+          "en": "The thing is, it’s not just about the technical side, it’s about the feeling.",
+          "zh": "問題是，這不只是技術面，還有感覺。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-03",
+      "source": "style",
+      "titleEn": "That being said",
+      "titleZh": "話雖如此（轉折）",
+      "usage": "這比 But 更專業，代表你已經消化了前一段資訊，現在要帶入另一個維度。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "邏輯轉折與觀察者視角",
+      "tags": [
+        "邏輯連接",
+        "邏輯轉折與觀察者視角",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That being said, I still think there’s a lot of potential in your idea.",
+          "zh": "話雖如此，我還是覺得你的想法很有潛力。",
+          "scene": "對譯"
+        },
+        {
+          "en": "That being said, we should probably keep an eye on the budget.",
+          "zh": "話雖如此，預算我們大概還是得盯著。",
+          "scene": "對譯"
+        },
+        {
+          "en": "That being said, from a logical standpoint, this is our best bet.",
+          "zh": "話雖如此，從邏輯上看，這是我們最好的選擇。",
+          "scene": "對譯"
+        },
+        {
+          "en": "That being said, I’m open to suggestions if you have a better way.",
+          "zh": "話雖如此，如果你有更好的作法，我很開放。",
+          "scene": "對譯"
+        },
+        {
+          "en": "That being said, let’s not lose sight of the original goal.",
+          "zh": "話雖如此，別把原本的目標看丟了。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "that being said",
+      "layerRole": "邏輯轉折：承認前一句，再加另一個維度。",
+      "togetherHint": "這是風格層的轉折器，比 but 更專業。公式層若要不同意，用 I see where you’re coming from 先接住，再用 That being said 轉入你的角度。",
+      "togetherExample": "I see where you’re coming from. That being said, from a logical standpoint, this is our best bet.",
+      "togetherZh": "我懂你的出發點。話雖如此，從邏輯上看，這是我們最好的選擇。",
+      "related": [
+        {
+          "id": "phrase-138",
+          "source": "phrase",
+          "titleEn": "That being said...",
+          "titleZh": "話雖如此 / 儘管如此",
+          "role": ""
+        },
+        {
+          "id": "style-s2-04",
+          "source": "style",
+          "titleEn": "Having said that",
+          "titleZh": "不過話說回來（較柔的轉折）",
+          "role": "邏輯轉折：承認前一句，再加另一個維度。"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-04",
+      "source": "style",
+      "titleEn": "Having said that",
+      "titleZh": "不過話說回來（較柔的轉折）",
+      "usage": "這與 That being said 類似，但語氣稍微緩和一點，更注重聽眾的感受。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "邏輯轉折與觀察者視角",
+      "tags": [
+        "邏輯連接",
+        "邏輯轉折與觀察者視角",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Having said that, I totally understand why you’d feel that way.",
+          "zh": "不過話說回來，我完全理解你為什麼會這樣覺得。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Having said that, maybe we can find a middle ground that works.",
+          "zh": "不過話說回來，也許我們能找到一個都行的中間點。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Having said that, it’s worth taking a second look at the details.",
+          "zh": "不過話說回來，細節值得再看一眼。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Having said that, I’m confident we can handle any issues that come up.",
+          "zh": "不過話說回來，我有信心能處理冒出來的問題。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Having said that, let’s see what happens if we change the focus a bit.",
+          "zh": "不過話說回來，看看我們把焦點稍微挪一下會怎樣。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "that being said",
+      "layerRole": "邏輯轉折：承認前一句，再加另一個維度。",
+      "togetherHint": "這是風格層的轉折器，比 but 更專業。公式層若要不同意，用 I see where you’re coming from 先接住，再用 That being said 轉入你的角度。",
+      "togetherExample": "I see where you’re coming from. That being said, from a logical standpoint, this is our best bet.",
+      "togetherZh": "我懂你的出發點。話雖如此，從邏輯上看，這是我們最好的選擇。",
+      "related": [
+        {
+          "id": "phrase-138",
+          "source": "phrase",
+          "titleEn": "That being said...",
+          "titleZh": "話雖如此 / 儘管如此",
+          "role": ""
+        },
+        {
+          "id": "style-s2-03",
+          "source": "style",
+          "titleEn": "That being said",
+          "titleZh": "話雖如此（轉折）",
+          "role": "邏輯轉折：承認前一句，再加另一個維度。"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-05",
+      "source": "style",
+      "titleEn": "Moving on to",
+      "titleZh": "接著談到；我們往下",
+      "usage": "非常適合在導覽或是專業解說時使用，乾淨利落地切換主題。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "高效的資訊平移與推進",
+      "tags": [
+        "邏輯連接",
+        "高效的資訊平移與推進",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Moving on to the next part, let's talk about the history of this place.",
+          "zh": "接著下一段，我們來談這個地方的歷史。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Moving on to the logistics, here’s how the rest of the day looks.",
+          "zh": "接著談後勤，今天剩下的行程是這樣。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Moving on to the technical specs, I’ll keep it as simple as possible.",
+          "zh": "接著技術規格，我會盡量講簡單。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Moving on to your questions, I’d love to hear what’s on your mind.",
+          "zh": "接著你們的問題，我很想聽你們在想什麼。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Moving on, let’s take a look at the results from the last session.",
+          "zh": "接著，我們看一下上次的結果。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "moving on / on that note",
+      "layerRole": "節奏控制：切主題或順勢往下。",
+      "togetherHint": "Moving on 是硬切主題，適合導覽下一站。On that note 是順著剛提到的點往下。會議超時用前者；想保持連貫用後者。",
+      "togetherExample": "On that note, does anyone need a quick break? Moving on to the next hall, let’s talk about how the system works.",
+      "togetherZh": "既然提到這點，有人需要喘一口氣嗎？接著下一個展廳，我們來看這套系統怎麼運作。",
+      "related": [
+        {
+          "id": "style-s2-06",
+          "source": "style",
+          "titleEn": "On that note",
+          "titleZh": "既然提到這點，順便說",
+          "role": "節奏控制：切主題或順勢往下。"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-06",
+      "source": "style",
+      "titleEn": "On that note",
+      "titleZh": "既然提到這點，順便說",
+      "usage": "這是一個非常有靈氣的轉折，代表「既然剛才提到了那個，那我們順著講下去」。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "高效的資訊平移與推進",
+      "tags": [
+        "邏輯連接",
+        "高效的資訊平移與推進",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "On that note, I should probably mention the upcoming exhibition.",
+          "zh": "既然提到這點，我應該提一下即將到來的展覽。",
+          "scene": "對譯"
+        },
+        {
+          "en": "On that note, does anyone need a quick break before we continue?",
+          "zh": "既然提到這點，繼續前有人需要喘一口氣嗎？",
+          "scene": "對譯"
+        },
+        {
+          "en": "On that note, it reminds me of a similar project I worked on last year.",
+          "zh": "既然提到這點，這讓我想起去年做過的類似專案。",
+          "scene": "對譯"
+        },
+        {
+          "en": "On that note, let’s make sure we have all the equipment ready.",
+          "zh": "既然提到這點，我們確認一下器材都準備好了。",
+          "scene": "對譯"
+        },
+        {
+          "en": "On that note, I’ll let you be the judge of which direction we take.",
+          "zh": "既然提到這點，方向交給你來判斷。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "moving on / on that note",
+      "layerRole": "節奏控制：切主題或順勢往下。",
+      "togetherHint": "Moving on 是硬切主題，適合導覽下一站。On that note 是順著剛提到的點往下。會議超時用前者；想保持連貫用後者。",
+      "togetherExample": "On that note, does anyone need a quick break? Moving on to the next hall, let’s talk about how the system works.",
+      "togetherZh": "既然提到這點，有人需要喘一口氣嗎？接著下一個展廳，我們來看這套系統怎麼運作。",
+      "related": [
+        {
+          "id": "style-s2-05",
+          "source": "style",
+          "titleEn": "Moving on to",
+          "titleZh": "接著談到；我們往下",
+          "role": "節奏控制：切主題或順勢往下。"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-07",
+      "source": "style",
+      "titleEn": "To be fair",
+      "titleZh": "平心而論；說句公道話",
+      "usage": "這是一個非常強大的社交工具，代表你正在進行公平的觀察。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "體現同理心與邏輯平衡",
+      "tags": [
+        "邏輯連接",
+        "體現同理心與邏輯平衡",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "To be fair, it’s a pretty complex system to learn in one day.",
+          "zh": "平心而論，這套系統要一天學會確實挺複雜。",
+          "scene": "對譯"
+        },
+        {
+          "en": "To be fair, we’ve all been working really hard on this lately.",
+          "zh": "平心而論，最近大家在這件事上都非常拚。",
+          "scene": "對譯"
+        },
+        {
+          "en": "To be fair, the original plan was a bit too ambitious for the timeframe.",
+          "zh": "平心而論，原本的計畫以這個時程來說有點太雄心。",
+          "scene": "對譯"
+        },
+        {
+          "en": "To be fair, I think everyone did their best given the circumstances.",
+          "zh": "平心而論，以當時條件來看，我覺得每個人都盡力了。",
+          "scene": "對譯"
+        },
+        {
+          "en": "To be fair, it’s hard to get the perfect shot without the right gear.",
+          "zh": "平心而論，沒有對的器材，很難拍到完美的那一張。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-08",
+      "source": "style",
+      "titleEn": "For what it's worth",
+      "titleZh": "僅供參考；不管有沒有用",
+      "usage": "當你想提供一個觀察或建議，但不想顯得太強勢（30% 禮貌）時使用。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "體現同理心與邏輯平衡",
+      "tags": [
+        "邏輯連接",
+        "體現同理心與邏輯平衡",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "For what it's worth, I think you handled that situation perfectly.",
+          "zh": "僅供參考，我覺得那件事你處理得很好。",
+          "scene": "對譯"
+        },
+        {
+          "en": "For what it's worth, my experience has shown that this approach works.",
+          "zh": "僅供參考，依我的經驗，這套作法是行得通的。",
+          "scene": "對譯"
+        },
+        {
+          "en": "For what it's worth, I’m really impressed with how this turned out.",
+          "zh": "僅供參考，成品變成這樣我真的印象很深。",
+          "scene": "對譯"
+        },
+        {
+          "en": "For what it's worth, I’d be happy to help you with the editing later.",
+          "zh": "僅供參考，待會剪輯我很樂意幫忙。",
+          "scene": "對譯"
+        },
+        {
+          "en": "For what it's worth, I don't think you need to worry too much about it.",
+          "zh": "僅供參考，我覺得這件事你不必太擔心。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "for what it's worth",
+      "layerRole": "謙虛提供觀察。",
+      "togetherHint": "風格與句型都有這條。語氣較謙，適合你不想顯得強勢時丟出觀察。不要跟 The bottom line is 混用：一個是輕放，一個是拍板。",
+      "togetherExample": "For what it’s worth, my experience has shown that this approach works. I’m on board with the general idea, I just have a slightly different take on the timeline.",
+      "togetherZh": "僅供參考，依我的經驗這套作法行得通。大方向我贊成，時程上我有一點不同看法。",
+      "related": [
+        {
+          "id": "phrase-124",
+          "source": "phrase",
+          "titleEn": "For what it’s worth...",
+          "titleZh": "不論價值如何 / 不管有沒有用...",
+          "role": "句型積木：同樣的潤滑劑，可直接套進生活／工作例句。"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-09",
+      "source": "style",
+      "titleEn": "Long story short",
+      "titleZh": "長話短說",
+      "usage": "這能立刻把發言權收回到你手中，總結複雜的過程。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "敘事感與節奏轉換",
+      "tags": [
+        "邏輯連接",
+        "敘事感與節奏轉換",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Long story short, we decided to go with the second option.",
+          "zh": "長話短說，我們決定走第二個方案。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Long story short, it was a great learning experience for the whole team.",
+          "zh": "長話短說，對整個團隊來說是一次很好的學習。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Long story short, the project is back on track and looking good.",
+          "zh": "長話短說，專案回到軌道上了，看起來不錯。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Long story short, I ended up getting the certification after all.",
+          "zh": "長話短說，我最後還是拿到證照了。",
+          "scene": "對譯"
+        },
+        {
+          "en": "Long story short, everything worked out in the end.",
+          "zh": "長話短說，最後一切都過得去。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "long story short",
+      "layerRole": "連接詞：跳過細節、給結果。",
+      "togetherHint": "風格裡用來高效收束。說故事公式裡則是鋪陳混亂現場時的潤滑劑。講故事時用公式把聽眾放進現場；收尾再用風格把話權拿回來。",
+      "togetherExample": "Long story short, we found ourselves in the middle of a foreign airport with absolutely no cell service. The bottom line is, we still made it.",
+      "togetherZh": "長話短說，我們人在國外機場正中央，完全沒有訊號。重點是，我們還是抵達了。",
+      "related": [
+        {
+          "id": "cat-3-b-11",
+          "source": "catalogue",
+          "titleEn": "Long story short, we found ourselves in the middle of [某個混亂地方] with absolutely no [必備物品].",
+          "titleZh": "長話短說，我們人在〔某個混亂地方〕正中央，而且完全沒有〔必備物品〕。",
+          "role": "故事公式：交代混亂現場。"
+        },
+        {
+          "id": "cat-3-d-28",
+          "source": "catalogue",
+          "titleEn": "So yeah, long story short, that’s how I ended up [荒謬的最終結局].",
+          "titleZh": "所以啦，長話短說，這就是我最後〔荒謬的最終結局〕的原因。",
+          "role": "故事公式：交代混亂現場。"
+        },
+        {
+          "id": "phrase-129",
+          "source": "phrase",
+          "titleEn": "Long story short...",
+          "titleZh": "長話短說 / 總而言之",
+          "role": "句型：同一條收束語，生活與工作都能用。"
+        }
+      ]
+    },
+    {
+      "id": "style-s2-10",
+      "source": "style",
+      "titleEn": "In any case",
+      "titleZh": "總之；不管怎樣",
+      "usage": "無論剛才討論得多混亂，這句話能幫你重新聚焦。",
+      "category": "邏輯連接",
+      "categoryId": "connectors",
+      "categoryNo": 2,
+      "block": "敘事感與節奏轉換",
+      "tags": [
+        "邏輯連接",
+        "敘事感與節奏轉換",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "In any case, we should probably head back to the main hall now.",
+          "zh": "總之，我們大概該回主展廳了。",
+          "scene": "對譯"
+        },
+        {
+          "en": "In any case, I’ll make sure to send you the updated files tonight.",
+          "zh": "總之，今晚我會把更新檔寄給你。",
+          "scene": "對譯"
+        },
+        {
+          "en": "In any case, the most important thing is that we stay focused.",
+          "zh": "總之，最重要的是我們保持專注。",
+          "scene": "對譯"
+        },
+        {
+          "en": "In any case, I’m just glad we could clear that up together.",
+          "zh": "總之，我很高興我們能一起把這件事講清楚。",
+          "scene": "對譯"
+        },
+        {
+          "en": "In any case, let’s keep moving forward and see what happens next.",
+          "zh": "總之，我們繼續往前，看下一步會怎樣。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "in any case / at the end of the day",
+      "layerRole": "In any case：不管剛才多亂，先聚焦。",
+      "togetherHint": "兩者都是收束。In any case 把混亂對話拉回行動；At the end of the day 給最終價值判斷。可接在 The bottom line is 之後，但不要三句連發。",
+      "togetherExample": "In any case, let’s keep moving forward. At the end of the day, the exhibition has to be easy for the public.",
+      "togetherZh": "總之，我們繼續往前。歸根究底，展覽必須讓大眾好走、好懂。",
+      "related": [
+        {
+          "id": "phrase-150",
+          "source": "phrase",
+          "titleEn": "At the end of the day...",
+          "titleZh": "不管怎麼說 / 到頭來 / 歸根究底",
+          "role": "At the end of the day：歸根究底最在乎什麼。"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-01",
+      "source": "style",
+      "titleEn": "Let’s look at this from a bird’s eye view.",
+      "titleZh": "用鳥瞰角度看整體",
+      "usage": "當你想跳脫細節，帶領聽眾看大方向時使用。這展現了你掌控全局的引導者能力。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "視野與角度",
+      "tags": [
+        "招牌句",
+        "視野與角度",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Before we dive into the technicalities, let’s look at this from a bird’s eye view to see the main objective.",
+          "zh": "在鑽進技術細節前，我們先用鳥瞰角度看主要目標。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-02",
+      "source": "style",
+      "titleEn": "It’s all about the frame of mind.",
+      "titleZh": "心態／觀看的框架",
+      "usage": "這句話帶有一種電影感，用來解釋某種心態或觀點。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "視野與角度",
+      "tags": [
+        "招牌句",
+        "視野與角度",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "When you’re exploring this exhibition, it’s all about the frame of mind you bring to each piece.",
+          "zh": "你逛這個展覽時，重點是你帶去每一件作品的心態框架。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-03",
+      "source": "style",
+      "titleEn": "I’m looking for that sweet spot between X and Y.",
+      "titleZh": "在兩者之間找那個剛好的點",
+      "usage": "這體現了你追求精準的理科性格，表達你在兩者之間尋求平衡。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "視野與角度",
+      "tags": [
+        "招牌句",
+        "視野與角度",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I’m looking for that sweet spot between keeping it professional and staying casual.",
+          "zh": "我在找專業和隨性之間那個剛好的點。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-04",
+      "source": "style",
+      "titleEn": "Let’s zoom out for a second to see the big picture.",
+      "titleZh": "先拉遠，看大局",
+      "usage": "當對話陷入膠著，你用這句話來重整邏輯。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "視野與角度",
+      "tags": [
+        "招牌句",
+        "視野與角度",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Let’s zoom out for a second. The goal here isn’t just speed, it’s also about the long-term impact.",
+          "zh": "我們先拉遠一秒。這裡的目標不只是速度，還有長期影響。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-05",
+      "source": "style",
+      "titleEn": "It depends on the angle you’re taking.",
+      "titleZh": "取決於你從哪個角度看",
+      "usage": "這是一句非常有力的觀察者台詞，代表你認為事情不是只有一種答案。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "視野與角度",
+      "tags": [
+        "招牌句",
+        "視野與角度",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Whether this is a good investment or not, well, it depends on the angle you’re taking.",
+          "zh": "這算不算好投資，得看你從哪個角度看。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-06",
+      "source": "style",
+      "titleEn": "The logic checks out on my end.",
+      "titleZh": "這套邏輯我這邊是通的",
+      "usage": "當你認同某個方案或觀察後，這是一句非常直率且具專業感的肯定。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "邏輯與系統",
+      "tags": [
+        "招牌句",
+        "邏輯與系統",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I’ve reviewed the plan, and the logic checks out on my end. Let’s move forward.",
+          "zh": "計畫我看過了，邏輯我這邊是通的。我們往下走。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-07",
+      "source": "style",
+      "titleEn": "Let’s break this down into smaller pieces.",
+      "titleZh": "先拆成小塊",
+      "usage": "當面對複雜問題時，你展現出解決問題的系統化思維。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "邏輯與系統",
+      "tags": [
+        "招牌句",
+        "邏輯與系統",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "This project seems massive, but let’s break this down into smaller, manageable pieces first.",
+          "zh": "這專案看起來很大，但我們先拆成比較好處理的小塊。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-08",
+      "source": "style",
+      "titleEn": "I like things to be streamlined and efficient.",
+      "titleZh": "我喜歡流程乾淨、有效率",
+      "usage": "直接宣告你的社交與工作風格，讓對方了解你的步調。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "邏輯與系統",
+      "tags": [
+        "招牌句",
+        "邏輯與系統",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "To be honest, I like things to be streamlined and efficient, so let’s get straight to the point.",
+          "zh": "老實說，我喜歡事情精簡有效率，所以我們直接講重點。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-09",
+      "source": "style",
+      "titleEn": "There’s a clear sequence to how this works.",
+      "titleZh": "這件事有清楚的先後順序",
+      "usage": "這體現了你導覽時的引導力，讓聽眾感受到你背後的專業邏輯。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "邏輯與系統",
+      "tags": [
+        "招牌句",
+        "邏輯與系統",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Don’t worry about the complexity; there’s a clear sequence to how this system operates.",
+          "zh": "別被複雜嚇到；這套系統怎麼運作，其實有清楚的順序。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-10",
+      "source": "style",
+      "titleEn": "It’s a matter of calibrating our expectations.",
+      "titleZh": "我們要先校準彼此的期待",
+      "usage": "使用「校準」這個詞能展現你的精確度，適合在非正式社交中討論計劃。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "邏輯與系統",
+      "tags": [
+        "招牌句",
+        "邏輯與系統",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I think we just need to calibrate our expectations for the trip so everyone stays happy.",
+          "zh": "我覺得行程的期待我們只要先校準，大家才都會開心。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-11",
+      "source": "style",
+      "titleEn": "Let’s see how this develops over time.",
+      "titleZh": "先看它怎麼長出來",
+      "usage": "這是一句非常有耐心、充滿觀察者氣息的話，適合社交場合。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "成長與過程",
+      "tags": [
+        "招牌句",
+        "成長與過程",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "It’s a new project, so let’s just see how this develops over time without rushing it.",
+          "zh": "這是新專案，我們先看它怎麼長，不必催。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-12",
+      "source": "style",
+      "titleEn": "It needs a bit of nurturing to get it right.",
+      "titleZh": "這需要一點培育",
+      "usage": "將「培育」的概念引入工作或社交，展現你體貼他人感受的一面。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "成長與過程",
+      "tags": [
+        "招牌句",
+        "成長與過程",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "The team dynamic is good, but it needs a bit of nurturing to really get it right.",
+          "zh": "團隊氛圍是好的，但還需要一點培育，才會真正到位。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-13",
+      "source": "style",
+      "titleEn": "We’re in the pilot phase of this idea.",
+      "titleZh": "我們還在試點階段",
+      "usage": "借用飛行或開發術語，代表事情還在試驗階段，給自己留有餘地。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "成長與過程",
+      "tags": [
+        "招牌句",
+        "成長與過程",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Regarding our weekend plans, let’s say we’re in the pilot phase. I’m still checking the weather.",
+          "zh": "週末計畫就說我們還在試點階段。我還在看天氣。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-14",
+      "source": "style",
+      "titleEn": "Everything happens in stages.",
+      "titleZh": "事情是分階段發生的",
+      "usage": "這句話能安撫聽眾，同時展現你對流程的掌控。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "成長與過程",
+      "tags": [
+        "招牌句",
+        "成長與過程",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Don’t feel overwhelmed. Everything happens in stages, and we’re currently in the best one.",
+          "zh": "別被壓垮。事情是分階段發生的，而我們正處在最好的那一段。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-15",
+      "source": "style",
+      "titleEn": "It’s about finding the root cause, not just the symptoms.",
+      "titleZh": "找根因，不要只治表面",
+      "usage": "展現你深入觀察、不看表面的思考深度。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "成長與過程",
+      "tags": [
+        "招牌句",
+        "成長與過程",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "To fix this issue for good, we need to find the root cause, not just address the symptoms.",
+          "zh": "要把這問題徹底修好，得找根因，不能只處理表面症狀。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-16",
+      "source": "style",
+      "titleEn": "What’s the move for the rest of the day?",
+      "titleZh": "接下來怎麼走？",
+      "usage": "這是洛杉磯非常道地的問法，用來詢問接下來的計畫。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "社交與氛圍",
+      "tags": [
+        "招牌句",
+        "社交與氛圍",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That was a great lunch. What’s the move for the rest of the day?",
+          "zh": "午餐很棒。接下來今天還要幹嘛？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-17",
+      "source": "style",
+      "titleEn": "I’m just vibing with the atmosphere here.",
+      "titleZh": "我先感受這裡的氣氛",
+      "usage": "當你不想多說話（處於觀察者模式）時，這句話是完美的擋箭牌，且顯得很酷。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "社交與氛圍",
+      "tags": [
+        "招牌句",
+        "社交與氛圍",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Don’t mind me, I’m just vibing with the atmosphere here. It’s a great spot.",
+          "zh": "別管我，我先感受這裡的氣氛。這地方很好。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-18",
+      "source": "style",
+      "titleEn": "Let’s keep the momentum going.",
+      "titleZh": "把這股動能延續下去",
+      "usage": "作為引導者，這句話能有效推動大家行動，且語氣積極。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "社交與氛圍",
+      "tags": [
+        "招牌句",
+        "社交與氛圍",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "We’ve seen two great houses already. Let’s keep the momentum going and see the last one.",
+          "zh": "我們已經看了兩間很棒的房子。把這股動能延續下去，看最後一間。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-19",
+      "source": "style",
+      "titleEn": "I’ll leave that to your discretion.",
+      "titleZh": "這部分交給你決定",
+      "usage": "展現你對他人的尊重與禮貌，把決定權交給對方。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "社交與氛圍",
+      "tags": [
+        "招牌句",
+        "社交與氛圍",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "You know the area better than I do, so I’ll leave the restaurant choice to your discretion.",
+          "zh": "這區你比我熟，餐廳就交給你決定。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-20",
+      "source": "style",
+      "titleEn": "Catch you on the flip side.",
+      "titleZh": "待會見（隨性道別）",
+      "usage": "一種非常美式的道別方式，代表「回頭見」，充滿輕鬆自然的氛圍。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "社交與氛圍",
+      "tags": [
+        "招牌句",
+        "社交與氛圍",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I have to run to a meeting now. Catch you on the flip side!",
+          "zh": "我得趕去開會了。待會見！",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-21",
+      "source": "style",
+      "titleEn": "Just to clear the air, here’s how it works.",
+      "titleZh": "先把空氣澄清一下",
+      "usage": "當氣氛有點尷尬或資訊混亂時，你主動站出來釐清事實。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "引導與澄清",
+      "tags": [
+        "招牌句",
+        "引導與澄清",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Just to clear the air, the maintenance won’t affect your visit today.",
+          "zh": "先澄清一下：維修不會影響你今天的參觀。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-22",
+      "source": "style",
+      "titleEn": "Feel free to jump in if you have any thoughts.",
+      "titleZh": "有想法隨時插話",
+      "usage": "這句話展現你「重視他人感受」，邀請聽眾參與對話。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "引導與澄清",
+      "tags": [
+        "招牌句",
+        "引導與澄清",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I’ve been talking for a while. Feel free to jump in if you have any thoughts or questions.",
+          "zh": "我講了一段時間了。有想法或問題隨時插進來。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "feel free",
+      "layerRole": "引導者語氣：邀請插話。",
+      "togetherHint": "句型層是允許對方行動。風格招牌句 Feel free to jump in 則是導覽／簡報時把發言權打開。同一禮貌，場景不同。",
+      "togetherExample": "Feel free to jump in if you have any thoughts. I’d appreciate it if you could share what’s not landing.",
+      "togetherZh": "有想法隨時插進來。如果可以的話，也跟我說哪裡還沒打到點。",
+      "related": [
+        {
+          "id": "phrase-051",
+          "source": "phrase",
+          "titleEn": "Feel free to...",
+          "titleZh": "請隨時/儘管...",
+          "role": "句型：請對方隨時做某事。"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-23",
+      "source": "style",
+      "titleEn": "I want to make sure I’m hitting the mark for you.",
+      "titleZh": "我想確認有打到你要的點",
+      "usage": "「擊中目標」展現了你的精準要求，同時確認對方的滿意度。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "引導與澄清",
+      "tags": [
+        "招牌句",
+        "引導與澄清",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "In terms of this tour, I want to make sure I’m hitting the mark for you. Is this what you expected?",
+          "zh": "就這次導覽來說，我想確認有打到你要的點。這是你預期的嗎？",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-24",
+      "source": "style",
+      "titleEn": "Let’s put a pin in that for now.",
+      "titleZh": "這題先釘住，稍後再談",
+      "usage": "當討論偏離主題，你展現引導者的權威，暫時擱置爭議。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "引導與澄清",
+      "tags": [
+        "招牌句",
+        "引導與澄清",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That’s a complex topic. Let’s put a pin in that for now and come back to it after the tour.",
+          "zh": "那題很複雜。我們先釘住，導覽結束再回來。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "put a pin in it",
+      "layerRole": "引導與壓力緩衝：先釘住，節奏不中斷。",
+      "togetherHint": "風格招牌句與壓力緩衝都有這條：暫時擱置、不讓對話脫軌。導覽或會議超時時用它，比直接說「不要講這個」客氣。",
+      "togetherExample": "That’s a complex topic. Let’s put a pin in that for now and keep moving forward with the plan.",
+      "togetherZh": "那題很複雜。我們先釘住，計畫繼續往前。",
+      "related": [
+        {
+          "id": "style-s4-14",
+          "source": "style",
+          "titleEn": "Let us put a pin in that and keep moving forward.",
+          "titleZh": "先釘住這點，繼續往前",
+          "role": "引導與壓力緩衝：先釘住，節奏不中斷。"
+        }
+      ]
+    },
+    {
+      "id": "style-s3-25",
+      "source": "style",
+      "titleEn": "I’m here to walk you through the whole story.",
+      "titleZh": "我帶你把整個故事走一遍",
+      "usage": "這是一句非常有溫度的開場，適合導覽也適合與親友分享近況。",
+      "category": "招牌句",
+      "categoryId": "signature",
+      "categoryNo": 3,
+      "block": "引導與澄清",
+      "tags": [
+        "招牌句",
+        "引導與澄清",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Welcome to the facility. I’m here to walk you through the whole story of how we generate power.",
+          "zh": "歡迎來到園區。我會帶你把我們怎麼發電的整個故事走一遍。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-01",
+      "source": "style",
+      "titleEn": "Let me just process the details on that for a second.",
+      "titleZh": "讓我先把細節消化一下",
+      "usage": "這句話直接告訴對方你正在思考，且聽起來非常理性。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "爭取邏輯思考時間",
+      "tags": [
+        "壓力緩衝",
+        "爭取邏輯思考時間",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That is a complex question. Let me just process the details on that for a second before I give you an answer.",
+          "zh": "這題不簡單。讓我先把細節消化一下，再給你答案。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-02",
+      "source": "style",
+      "titleEn": "I am just running the logic through my head to make sure I missed nothing.",
+      "titleZh": "我正在腦中跑過一遍邏輯",
+      "usage": "這體現了你講究邏輯的性格，讓等待變得有意義。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "爭取邏輯思考時間",
+      "tags": [
+        "壓力緩衝",
+        "爭取邏輯思考時間",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Right... I am just running the logic through my head to make sure I missed nothing in the sequence.",
+          "zh": "對……我正在腦中把邏輯跑一遍，確認順序裡沒漏。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-03",
+      "source": "style",
+      "titleEn": "Give me a moment to find the most precise way to phrase this.",
+      "titleZh": "給我一點時間，我想講得更精準",
+      "usage": "當你想追求表達的精準度時，這句話能顯出你的專業堅持。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "爭取邏輯思考時間",
+      "tags": [
+        "壓力緩衝",
+        "爭取邏輯思考時間",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That is a great point. Give me a moment to find the most precise way to phrase this for you.",
+          "zh": "這點很好。給我一下，我想用最精準的方式跟你講。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-04",
+      "source": "style",
+      "titleEn": "I am just mental-mapping the next steps here.",
+      "titleZh": "我在腦中畫下一步的地圖",
+      "usage": "借用開發或導航的術語，展現你引導者的特質。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "爭取邏輯思考時間",
+      "tags": [
+        "壓力緩衝",
+        "爭取邏輯思考時間",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I hear you. I am just mental-mapping the next steps here to see how they align with our goal.",
+          "zh": "我聽到了。我在腦中畫下一步，看它們跟目標怎麼對齊。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-05",
+      "source": "style",
+      "titleEn": "Let me double-check my internal compass on this one.",
+      "titleZh": "讓我對一下自己的方向",
+      "usage": "帶點美式幽默，代表你需要確認一下自己的想法或立場。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "爭取邏輯思考時間",
+      "tags": [
+        "壓力緩衝",
+        "爭取邏輯思考時間",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That is a new perspective. Let me double-check my internal compass on this one for a moment.",
+          "zh": "這是個新角度。讓我對一下自己的方向再回你。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-06",
+      "source": "style",
+      "titleEn": "That is a specific detail I would like to verify before giving you a definitive answer.",
+      "titleZh": "這個細節我想先核實再給確定答案",
+      "usage": "展現理科男的嚴謹，不隨便給出不正確的資訊。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "優雅應對未知或刁鑽問題",
+      "tags": [
+        "壓力緩衝",
+        "優雅應對未知或刁鑽問題",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Regarding the technical specs of the drone, that is a specific detail I would like to verify before giving you a definitive answer.",
+          "zh": "關於無人機的技術規格，這個細節我想先核實，再給你確定的答案。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-07",
+      "source": "style",
+      "titleEn": "I do not have the exact data on me right now, but I can certainly find out.",
+      "titleZh": "我手上沒有精確數據，但我可以去查",
+      "usage": "承認當下的侷限，但展現解決問題的效率。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "優雅應對未知或刁鑽問題",
+      "tags": [
+        "壓力緩衝",
+        "優雅應對未知或刁鑽問題",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Honestly, I do not have the exact data on me right now, but I can certainly find out and get back to you.",
+          "zh": "老實說，我手上現在沒有精確數據，但我可以去查再回你。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-08",
+      "source": "style",
+      "titleEn": "That is outside my current focus, but here is what I do know.",
+      "titleZh": "這超出我目前的焦點，但我知道的是……",
+      "usage": "巧妙地將話題轉回到你擅長的領域，維持主導權。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "優雅應對未知或刁鑽問題",
+      "tags": [
+        "壓力緩衝",
+        "優雅應對未知或刁鑽問題",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "To be fair, the real estate laws are tricky. That is outside my current focus, but here is what I do know about the local market.",
+          "zh": "平心而論，房地產法規很刁。那超出我目前的焦點，但我對在地市場知道的是這些。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-09",
+      "source": "style",
+      "titleEn": "I am still in the observation phase regarding that particular topic.",
+      "titleZh": "這題我還在觀察階段",
+      "usage": "這句話非常符合你 60% 觀察者的角色，代表你還在收集資訊。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "優雅應對未知或刁鑽問題",
+      "tags": [
+        "壓力緩衝",
+        "優雅應對未知或刁鑽問題",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "People are talking about the new tech, but I am still in the observation phase regarding that particular topic.",
+          "zh": "大家都在聊那個新科技，但那題我還在觀察階段。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-10",
+      "source": "style",
+      "titleEn": "Let me get back to you on that so I can give you the full picture.",
+      "titleZh": "我稍後回你，把全貌補齊",
+      "usage": "使用 full picture 展現你對資訊完整性的要求。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "優雅應對未知或刁鑽問題",
+      "tags": [
+        "壓力緩衝",
+        "優雅應對未知或刁鑽問題",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I want to be accurate, so let me get back to you on that so I can give you the full picture later tonight.",
+          "zh": "我想講準，所以這題我稍後回你，今晚把全貌補齊。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-11",
+      "source": "style",
+      "titleEn": "In the interest of time, let us focus on the core issue first.",
+      "titleZh": "為了時間，我們先抓核心",
+      "usage": "展現 70% 的高效，禮貌地切斷無意義的爭論。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "轉向與節奏控管",
+      "tags": [
+        "壓力緩衝",
+        "轉向與節奏控管",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I see where this is going, but in the interest of time, let us focus on the core issue first.",
+          "zh": "我知道這會往哪走，但為了時間，我們先抓核心問題。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-12",
+      "source": "style",
+      "titleEn": "I think we are getting a bit into the weeds here.",
+      "titleZh": "我們有點陷入細節了，先拉回來",
+      "usage": "Let us pull back. 美式口語中 get into the weeds 代表陷入太過瑣碎的細節，pull back 則是撤回大方向。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "轉向與節奏控管",
+      "tags": [
+        "壓力緩衝",
+        "轉向與節奏控管",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "The technical discussion is great, but I think we are getting a bit into the weeds here. Let us pull back to the main goal.",
+          "zh": "技術討論很好，但我覺得我們有點陷入細節了。先拉回主目標。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-13",
+      "source": "style",
+      "titleEn": "That is a conversation for another time, but I appreciate the input.",
+      "titleZh": "這是另一場對話，但謝謝你的意見",
+      "usage": "優雅地結束當下的支線話題，保留對方的面子。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "轉向與節奏控管",
+      "tags": [
+        "壓力緩衝",
+        "轉向與節奏控管",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That is a conversation for another time, but I appreciate the input. For now, let’s stick to the tour.",
+          "zh": "那是另一場對話，但謝謝你的意見。現在我們先把導覽走完。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-14",
+      "source": "style",
+      "titleEn": "Let us put a pin in that and keep moving forward.",
+      "titleZh": "先釘住這點，繼續往前",
+      "usage": "經典的美式職場用語，代表「先記下來，稍後討論」，展現強大的引導力。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "轉向與節奏控管",
+      "tags": [
+        "壓力緩衝",
+        "轉向與節奏控管",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That is an interesting side note. Let us put a pin in that and keep moving forward with the plan.",
+          "zh": "這是個有意思的支線。我們先釘住，計畫繼續往前。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "put a pin in it",
+      "layerRole": "引導與壓力緩衝：先釘住，節奏不中斷。",
+      "togetherHint": "風格招牌句與壓力緩衝都有這條：暫時擱置、不讓對話脫軌。導覽或會議超時時用它，比直接說「不要講這個」客氣。",
+      "togetherExample": "That’s a complex topic. Let’s put a pin in that for now and keep moving forward with the plan.",
+      "togetherZh": "那題很複雜。我們先釘住，計畫繼續往前。",
+      "related": [
+        {
+          "id": "style-s3-24",
+          "source": "style",
+          "titleEn": "Let’s put a pin in that for now.",
+          "titleZh": "這題先釘住，稍後再談",
+          "role": "引導與壓力緩衝：先釘住，節奏不中斷。"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-15",
+      "source": "style",
+      "titleEn": "I want to make sure we are staying on track with our schedule.",
+      "titleZh": "我想確認我們還在進度上",
+      "usage": "以進度為由進行轉向，通常不會引起反感，且顯得專業。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "轉向與節奏控管",
+      "tags": [
+        "壓力緩衝",
+        "轉向與節奏控管",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Basically, I want to make sure we are staying on track with our schedule, so let us move to the next hall.",
+          "zh": "基本上，我想確認我們還在進度上，所以我們去下一個展廳。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-16",
+      "source": "style",
+      "titleEn": "I see your point, though my observation suggests something slightly different.",
+      "titleZh": "我懂你的點，但我的觀察不太一樣",
+      "usage": "先認同（禮貌），再帶入自己的觀察（邏輯）。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "化解分歧與表達不同見解",
+      "tags": [
+        "壓力緩衝",
+        "化解分歧與表達不同見解",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I see your point, though my observation suggests something slightly different regarding the engine maintenance.",
+          "zh": "我懂你的點，不過就引擎維護來說，我的觀察有一點不一樣。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-17",
+      "source": "style",
+      "titleEn": "I appreciate that perspective, but I am looking at it from a different angle.",
+      "titleZh": "我感謝這個視角，但我從另一個角度看",
+      "usage": "這句話帶有攝影師的語感，代表觀點不同只是因為「角度」不同。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "化解分歧與表達不同見解",
+      "tags": [
+        "壓力緩衝",
+        "化解分歧與表達不同見解",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I appreciate that perspective, but I am looking at it from a different angle, especially considering the long-term costs.",
+          "zh": "我感謝這個視角，但我從另一個角度看，尤其是長期成本。",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "from a different angle",
+      "layerRole": "觀察者語氣：換一個拍攝角度。",
+      "togetherHint": "風格強調「角度不同」而不是「你錯了」。公式層的立體鋪陳、高 EQ 反駁也走同一條路。不同意時先換鏡頭，再講內容。",
+      "togetherExample": "I appreciate that perspective, but I am looking at it from a different angle. You’re absolutely right about the design, but looking at it from another angle, it’s not very user-friendly.",
+      "togetherZh": "我感謝這個視角，但我從另一個角度看。設計你完全正確，但換個鏡頭看，它其實不太好用。",
+      "related": [
+        {
+          "id": "cat-2-a-01",
+          "source": "catalogue",
+          "titleEn": "I’ve given this a lot of thought, and from where I stand, [想法]...",
+          "titleZh": "這件事我想了很久，從我的立場來看，〔想法〕……",
+          "role": "表達觀點：用另一個鏡頭講反面。"
+        },
+        {
+          "id": "cat-2-c-22",
+          "source": "catalogue",
+          "titleEn": "You’re absolutely right about [同意的部分], but looking at it from another angle, [反面觀點].",
+          "titleZh": "關於〔同意的部分〕你完全正確，但從另一個角度看，〔反面觀點〕。",
+          "role": "表達觀點：用另一個鏡頭講反面。"
+        },
+        {
+          "id": "phrase-035",
+          "source": "phrase",
+          "titleEn": "From my perspective...",
+          "titleZh": "從我的角度來看 / 依我之見",
+          "role": "句型：From my perspective… 直接亮出立場。"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-18",
+      "source": "style",
+      "titleEn": "Fair enough, but let us look at the practical side of things.",
+      "titleZh": "有道理，但我們看實際面",
+      "usage": "用 Fair enough 給予尊重，再用 practical 拉回你的理性核心。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "化解分歧與表達不同見解",
+      "tags": [
+        "壓力緩衝",
+        "化解分歧與表達不同見解",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Fair enough, but let us look at the practical side of things. Can we actually pull this off by Friday?",
+          "zh": "有道理，但我們看實際面。週五前我們真的做得到嗎？",
+          "scene": "對譯"
+        }
+      ],
+      "layerFamily": "fair enough",
+      "layerRole": "觀察者語氣：我聽懂了，且承認你的邏輯。",
+      "togetherHint": "風格裡的 Fair enough 是消化對方邏輯、再決定要不要轉折。公式裡出現時，常接「但我們看實際面」。它不是投降，是先點頭再帶入你的觀察。",
+      "togetherExample": "Fair enough, I see where you’re coming from. That being said, let’s look at the practical side of things.",
+      "togetherZh": "有道理，我懂你從哪來。話雖如此，我們還是看實際面。",
+      "related": [
+        {
+          "id": "style-s1-05",
+          "source": "style",
+          "titleEn": "Fair enough",
+          "titleZh": "有道理；我懂你的邏輯",
+          "role": "觀察者語氣：我聽懂了，且承認你的邏輯。"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-19",
+      "source": "style",
+      "titleEn": "I am not entirely sold on that idea yet, tell me more.",
+      "titleZh": "我還沒完全被說服，多講一點",
+      "usage": "這是一句很棒的緩衝，既表達了懷疑（直率），又給了對方解釋的機會（禮貌）。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "化解分歧與表達不同見解",
+      "tags": [
+        "壓力緩衝",
+        "化解分歧與表達不同見解",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Actually, I am not entirely sold on that idea yet, tell me more about how you plan to execute it.",
+          "zh": "其實，我還沒完全被這個想法說服，多講一點你打算怎麼執行。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-20",
+      "source": "style",
+      "titleEn": "That is one way to look at it, but here is another possibility.",
+      "titleZh": "那是一種看法，這裡還有另一種可能",
+      "usage": "不否定對方，而是提供一個並列的選項。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "化解分歧與表達不同見解",
+      "tags": [
+        "壓力緩衝",
+        "化解分歧與表達不同見解",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "That is one way to look at it, but here is another possibility that might be more efficient for us.",
+          "zh": "那是一種看法，但這裡還有另一種可能，對我們也許更有效率。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-21",
+      "source": "style",
+      "titleEn": "I will let you get back to what you were doing.",
+      "titleZh": "那我不打擾你了（優雅離開）",
+      "usage": "這是一句極具美式禮貌的話，暗示「我不想佔用你的時間」，其實是你想離開了。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "社交收尾與優雅撤退",
+      "tags": [
+        "壓力緩衝",
+        "社交收尾與優雅撤退",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "It was great catching up, but I will let you get back to what you were doing. See you around!",
+          "zh": "敘舊很開心，那我不打擾你了。再見！",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-22",
+      "source": "style",
+      "titleEn": "I have a few more things to check off my list today.",
+      "titleZh": "我今天還有幾件事要劃掉",
+      "usage": "展現你的高效形象，讓離開顯得很合理。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "社交收尾與優雅撤退",
+      "tags": [
+        "壓力緩衝",
+        "社交收尾與優雅撤退",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I would love to chat more, but I have a few more things to check off my list today. Let’s talk soon.",
+          "zh": "我很想再聊，但我今天還有幾件事要劃掉。我們很快再談。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-23",
+      "source": "style",
+      "titleEn": "Let us pick this up again when we both have more time.",
+      "titleZh": "等雙方都有時間再續",
+      "usage": "留下未來的連結，但優雅地結束當下的對話。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "社交收尾與優雅撤退",
+      "tags": [
+        "壓力緩衝",
+        "社交收尾與優雅撤退",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "This was a solid discussion. Let us pick this up again when we both have more time next week.",
+          "zh": "這場討論很扎實。下週雙方都比較有時間時再續。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-24",
+      "source": "style",
+      "titleEn": "I am going to make a quick move, but it was a pleasure talking to you.",
+      "titleZh": "我先離開一下，聊得很愉快",
+      "usage": "make a quick move 是一種隨性且自然的撤退說法。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "社交收尾與優雅撤退",
+      "tags": [
+        "壓力緩衝",
+        "社交收尾與優雅撤退",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "I am going to make a quick move, but it was a pleasure talking to you about the real estate exam.",
+          "zh": "我先離開一下，跟你聊房仲考試很愉快。",
+          "scene": "對譯"
+        }
+      ]
+    },
+    {
+      "id": "style-s4-25",
+      "source": "style",
+      "titleEn": "Keep me posted on how that develops.",
+      "titleZh": "有進展隨時讓我知道",
+      "usage": "這是一句非常好的結束語，展現你持續關心的態度（觀察者特質）。",
+      "category": "壓力緩衝",
+      "categoryId": "pressure",
+      "categoryNo": 4,
+      "block": "社交收尾與優雅撤退",
+      "tags": [
+        "壓力緩衝",
+        "社交收尾與優雅撤退",
+        "個人風格"
+      ],
+      "examples": [
+        {
+          "en": "Good luck with the project. Keep me posted on how that develops!",
+          "zh": "專案加油。有進展隨時讓我知道！",
+          "scene": "對譯"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5285 @@
+{
+  "categories": [
+    {
+      "id": "phrase-cat-1",
+      "no": 1,
+      "titleZh": "日常表達、意願與個人計畫",
+      "titleEn": "Personal Plans & Expressing Desires"
+    },
+    {
+      "id": "phrase-cat-2",
+      "no": 2,
+      "titleZh": "觀點論述、轉折與因果推論",
+      "titleEn": "Opinion, Transition & Logic"
+    },
+    {
+      "id": "phrase-cat-3",
+      "no": 3,
+      "titleZh": "委婉請求、詢問與商務社交",
+      "titleEn": "Polite Requests & Networking"
+    },
+    {
+      "id": "phrase-cat-4",
+      "no": 4,
+      "titleZh": "時間、頻率與效率管理",
+      "titleEn": "Time, Efficiency & Deadline"
+    },
+    {
+      "id": "phrase-cat-5",
+      "no": 5,
+      "titleZh": "假設、條件與可能性",
+      "titleEn": "Hypothesis, Conditions & Possibility"
+    },
+    {
+      "id": "phrase-cat-6",
+      "no": 6,
+      "titleZh": "困境、衝突、評估與解決",
+      "titleEn": "Challenges, Assessment & Solutions"
+    },
+    {
+      "id": "phrase-cat-7",
+      "no": 7,
+      "titleZh": "美式道地轉折、加強語氣與慣用語",
+      "titleEn": "Native Transitions & Idiomatic Express"
+    }
+  ],
+  "items": [
+    {
+      "id": "phrase-001",
+      "source": "phrase",
+      "number": 1,
+      "titleEn": "I'm planning to...",
+      "titleZh": "我計劃要...",
+      "usage": "用來表達「我計劃要...」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I'm planning to take a short road trip with my family this weekend to get some fresh air.",
+          "zh": "我計劃這週末和家人來趟短途公路旅行，去呼吸點新鮮空氣。",
+          "scene": "生活"
+        },
+        {
+          "en": "I'm planning to finish drafting the event proposal by Friday before the weekly meeting.",
+          "zh": "我計劃在週五週會前完成活動企劃書的草案。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm planning to sign up for an online course to upgrade my video editing skills.",
+          "zh": "我計劃報名線上課程來提升我的剪輯技巧。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-002",
+      "source": "phrase",
+      "number": 2,
+      "titleEn": "I'm looking forward to...",
+      "titleZh": "我非常期待...",
+      "usage": "注意：to 後面接動名詞 V-ing 或名詞",
+      "note": "注意：to 後面接動名詞 V-ing 或名詞",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I'm looking forward to traveling abroad with my wife during the next long holiday.",
+          "zh": "我非常期待下次長假和老婆一起出國旅遊。",
+          "scene": "生活"
+        },
+        {
+          "en": "I'm looking forward to working with your team on this upcoming exhibition project.",
+          "zh": "我非常期待在即將到來的展覽專案中與您的團隊合作。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm looking forward to the music festival next month; I already bought the tickets.",
+          "zh": "我非常期待下個月的音樂祭，我連門票都買好了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-003",
+      "source": "phrase",
+      "number": 3,
+      "titleEn": "I feel like...",
+      "titleZh": "我想/我渴望...",
+      "usage": "注意：後面接 V-ing 或名詞",
+      "note": "注意：後面接 V-ing 或名詞",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I feel like ordering takeout and watching a good movie tonight instead of cooking.",
+          "zh": "今天晚上我不想煮飯，想點個外送然後看部好電影。",
+          "scene": "生活"
+        },
+        {
+          "en": "I feel like we should double-check the venue setup before the guests arrive.",
+          "zh": "我覺得在賓客到達之前，我們應該再次確認場地佈置。",
+          "scene": "工作"
+        },
+        {
+          "en": "I don't feel like going out today because the weather is too hot.",
+          "zh": "我今天完全不想出門，因為天氣太熱了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-004",
+      "source": "phrase",
+      "number": 4,
+      "titleEn": "I’d rather... than...",
+      "titleZh": "我寧願...也不願...",
+      "usage": "注意：後面接原形動詞",
+      "note": "注意：後面接原形動詞",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I’d rather spend my weekend relaxing at home than crowd into a noisy shopping mall.",
+          "zh": "我寧願週末在家放鬆，也不想去擠喧鬧的購物中心。",
+          "scene": "生活"
+        },
+        {
+          "en": "I’d rather solve this issue over a quick phone call than send dozens of back-and-forth emails.",
+          "zh": "我寧願通個短電話把問題解決，也不想發幾十封郵件寄來寄去。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'd rather push back the deadline than compromise on the quality of our work.",
+          "zh": "我寧願延後截止日期，也不願意對我們的成品品質妥協。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-005",
+      "source": "phrase",
+      "number": 5,
+      "titleEn": "I was thinking of...",
+      "titleZh": "我那時在想著要...",
+      "usage": "用於委婉提出提議或打算",
+      "note": "用於委婉提出提議或打算",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I was thinking of trying out that new Italian restaurant downtown. Would you like to join me?",
+          "zh": "我那時在想去試試市中心新開的那家義式餐廳。你要一起來嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "I was thinking of rearranging the seating format for the conference to make it more interactive.",
+          "zh": "我那時在想著調整會議的座位安排，好讓互動感更好一點。",
+          "scene": "工作"
+        },
+        {
+          "en": "I was thinking of buying a new drone, but I haven't decided on the model yet.",
+          "zh": "我那時在考慮買一台新無人機，但我還沒決定好型號。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-006",
+      "source": "phrase",
+      "number": 6,
+      "titleEn": "I’m on the verge of...",
+      "titleZh": "我正處於...的邊緣/快要...了",
+      "usage": "後面接 V-ing 或名詞",
+      "note": "後面接 V-ing 或名詞",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I’m on the verge of closing a major deal with our new client after months of negotiation.",
+          "zh": "經過幾個月的談判，我正處於與新客戶簽下一筆大合約的關鍵邊緣。",
+          "scene": "工作"
+        },
+        {
+          "en": "I was on the verge of falling asleep during the long lecture, but the coffee saved me.",
+          "zh": "在那場冗長的講座中我差點就要睡著了，好在咖啡救了我。",
+          "scene": "生活"
+        },
+        {
+          "en": "The technical team is on the verge of solving the server system glitch.",
+          "zh": "技術團隊快要解決伺服器系統的故障了。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-007",
+      "source": "phrase",
+      "number": 7,
+      "titleEn": "I’m about to...",
+      "titleZh": "我正準備要/正要...",
+      "usage": "後面接原形動詞",
+      "note": "後面接原形動詞",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I’m about to head out for dinner, so I'll call you back in an hour.",
+          "zh": "我正準備要出門吃晚餐，一小時後回撥給你。",
+          "scene": "生活"
+        },
+        {
+          "en": "I’m about to present the annual marketing strategy to the board of directors.",
+          "zh": "我正要向董事會簡報年度行銷策略。",
+          "scene": "工作"
+        },
+        {
+          "en": "Hold on, the movie is about to start; let’s turn off our phones.",
+          "zh": "等一下，電影要開始了，我們把手機關靜音吧。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-008",
+      "source": "phrase",
+      "number": 8,
+      "titleEn": "I used to...",
+      "titleZh": "我以前常常.../過去習慣...",
+      "usage": "指過去的習慣，現在已不這樣了",
+      "note": "指過去的習慣，現在已不這樣了",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I used to play basketball every weekend, but now I prefer going to the gym.",
+          "zh": "我以前每個週末都打籃球，但現在我比較喜歡去健身房。",
+          "scene": "生活"
+        },
+        {
+          "en": "Our department used to manage all data manually before we upgraded to the cloud system.",
+          "zh": "在升級到雲端系統之前，我們部門以前都是用人工處理所有數據。",
+          "scene": "工作"
+        },
+        {
+          "en": "I used to drink three cups of coffee a day, but I've cut back recently.",
+          "zh": "我以前一天要喝三杯咖啡，但最近我減少用量了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-009",
+      "source": "phrase",
+      "number": 9,
+      "titleEn": "I'm getting used to...",
+      "titleZh": "我漸漸習慣於...",
+      "usage": "注意：後面接 V-ing 或名詞",
+      "note": "注意：後面接 V-ing 或名詞",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It was tough at first, but I'm getting used to waking up early to jog.",
+          "zh": "剛開始很痛苦，但我漸漸習慣早起去慢跑了。",
+          "scene": "生活"
+        },
+        {
+          "en": "I'm getting used to leading remote team meetings since the company adopted a hybrid work model.",
+          "zh": "自從公司採用混合工作模式後，我漸漸習慣主持遠端團隊會議了。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm still getting used to the new management style of our current director.",
+          "zh": "我還在試著習慣我們現任主管的新管理風格。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-010",
+      "source": "phrase",
+      "number": 10,
+      "titleEn": "I can’t help but...",
+      "titleZh": "我忍不住/不禁...",
+      "usage": "後面接原形動詞",
+      "note": "後面接原形動詞",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I can’t help but smile whenever I see my dog running toward me at the door.",
+          "zh": "每次看到我的狗在門口朝我跑來，我都忍不住微笑。",
+          "scene": "生活"
+        },
+        {
+          "en": "I can’t help but feel worried about the project timeline given the current delays.",
+          "zh": "考慮到目前的延誤情況，我禁不住對專案的進度時程感到擔憂。",
+          "scene": "工作"
+        },
+        {
+          "en": "I can't help but notice that you look a bit tired today; did you sleep well?",
+          "zh": "我忍不住注意到你今天看起來有點累，昨晚睡得好嗎？",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-011",
+      "source": "phrase",
+      "number": 11,
+      "titleEn": "I'm tempted to...",
+      "titleZh": "我很想/忍不住誘惑想去...",
+      "usage": "用來表達「我很想/忍不住誘惑想去...」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I'm tempted to buy that jacket on sale, even though I already have a similar one.",
+          "zh": "我很想買那件特價的外套，儘管我已經有一件差不多的了。",
+          "scene": "生活"
+        },
+        {
+          "en": "I'm tempted to re-write the entire report, but we just don't have enough time.",
+          "zh": "我很想把整份報告重寫，但我們時間真的不夠。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm tempted to skip the party tonight and just stay in to rest.",
+          "zh": "我很想不去今晚的派對，只想留在家裡休息。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-012",
+      "source": "phrase",
+      "number": 12,
+      "titleEn": "I happen to...",
+      "titleZh": "我碰巧/剛好...",
+      "usage": "用來表達「我碰巧/剛好...」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I happen to have two extra tickets to the exhibition this Sunday. Do you want to go?",
+          "zh": "這週日我剛好有兩張多出來的展覽門票。你想去嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "I happen to know the project manager at that firm; I can help introduce you.",
+          "zh": "我剛好認識那家公司的專案經理，我可以幫你引薦。",
+          "scene": "工作"
+        },
+        {
+          "en": "I happened to run into an old high school friend at the coffee shop yesterday.",
+          "zh": "我昨天在咖啡廳碰巧撞見一位高中老朋友。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-013",
+      "source": "phrase",
+      "number": 13,
+      "titleEn": "I have no choice but to...",
+      "titleZh": "我別無選擇只能...",
+      "usage": "用來表達「我別無選擇只能...」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Since the car broke down, I have no choice but to take the subway to the event venue.",
+          "zh": "因為車子壞了，我別無選擇只能搭地鐵去活動會場。",
+          "scene": "生活"
+        },
+        {
+          "en": "The client rejected our primary proposal, so we have no choice but to revise it overnight.",
+          "zh": "客戶拒絕了我們的主提案，所以我們別無選擇，只能連夜修改。",
+          "scene": "工作"
+        },
+        {
+          "en": "It started pouring, so we had no choice but to cancel our outdoor photo shoot.",
+          "zh": "突然下起大雨，我們別無選擇只能取消戶外拍攝。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-014",
+      "source": "phrase",
+      "number": 14,
+      "titleEn": "I’m dying to...",
+      "titleZh": "我渴望/極度想...",
+      "usage": "口語中表達強烈渴望",
+      "note": "口語中表達強烈渴望",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I’m dying to check out the new National Park; the photos online look stunning.",
+          "zh": "我極度想去參觀那個新的國家公園，網路上的照片看起來美呆了。",
+          "scene": "生活"
+        },
+        {
+          "en": "I’m dying to know the final results of the marketing campaign evaluation.",
+          "zh": "我非常想知道這次行銷活動評估的最終結果。",
+          "scene": "工作"
+        },
+        {
+          "en": "After a long week of work, I’m dying to get a full body massage this evening.",
+          "zh": "辛勞工作一整週後，我今晚極度需要來個全身按摩。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-015",
+      "source": "phrase",
+      "number": 15,
+      "titleEn": "I have a feeling that...",
+      "titleZh": "我有種感覺...",
+      "usage": "用來表達「我有種感覺...」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I have a feeling that this trip is going to be an unforgettable adventure for us.",
+          "zh": "我有種感覺，這次旅行對我們來說將會是一場難忘的冒險。",
+          "scene": "生活"
+        },
+        {
+          "en": "I have a feeling that the client will ask for a discount during tomorrow’s presentation.",
+          "zh": "我有種預感，客戶在明天的簡報中一定會要求折扣。",
+          "scene": "工作"
+        },
+        {
+          "en": "I have a feeling that things will start looking up once the new policy takes effect.",
+          "zh": "我有預感，一旦新政策生效，事情就會開始好轉。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-016",
+      "source": "phrase",
+      "number": 16,
+      "titleEn": "I'm torn between...",
+      "titleZh": "我在...之間糾結/難以抉擇",
+      "usage": "用來表達「我在...之間糾結/難以抉擇」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I'm torn between buying a high-end camera or upgrading my laptop first.",
+          "zh": "我正在糾結是要先買一台高階相機，還是先升級我的筆電。",
+          "scene": "生活"
+        },
+        {
+          "en": "I'm torn between choosing the cost-effective supplier or the one with better quality.",
+          "zh": "我正在為要選擇具成本效益的供應商，還是品質更好的那家而猶豫不決。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm torn between going to Los Angeles or Tokyo for our upcoming vacation.",
+          "zh": "我們即將到來的假期，我還在糾結要去洛杉磯還是東京。",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "torn between",
+      "layerRole": "表達自己卡在兩個選項。",
+      "togetherHint": "句型層說出你自己的兩難。公式層則把兩難拋給對方，向他取經。一個是自我揭露，一個是深度提問。",
+      "togetherExample": "I’m torn between hiring an agency and doing it in-house. From your experience, which one yields better results?",
+      "togetherZh": "我在找外包公司和自己做之間猶豫。依你的經驗，哪個效果比較好？",
+      "related": [
+        {
+          "id": "cat-1-b-12",
+          "source": "catalogue",
+          "titleEn": "I’m torn between [選項A] and [選項B]. From your experience, which one yields better results?",
+          "titleZh": "我在〔選項A〕和〔選項B〕之間猶豫。依你的經驗，哪個效果比較好？",
+          "role": "深度提問：請對方依經驗幫你選。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-017",
+      "source": "phrase",
+      "number": 17,
+      "titleEn": "I’m struggling with...",
+      "titleZh": "我正卡在.../在...之中掙扎",
+      "usage": "用來表達「我正卡在.../在...之中掙扎」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I’m struggling with the layout configuration for the new interactive web application.",
+          "zh": "我目前正卡在新的互動網頁應用的版面配置上，有些棘手。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm struggling with Jet lag after flying across the Pacific Ocean back to Taipei.",
+          "zh": "飛越太平洋回到台北後，我目前正飽受時差之苦。",
+          "scene": "生活"
+        },
+        {
+          "en": "The design team is struggling with finding the right theme for the anniversary event.",
+          "zh": "設計團隊目前正在苦思，難以找到適合週年慶活動的主題。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-018",
+      "source": "phrase",
+      "number": 18,
+      "titleEn": "I'm passionate about...",
+      "titleZh": "我對...非常有熱情",
+      "usage": "用來表達「我對...非常有熱情」。",
+      "note": "",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I'm passionate about capturing landscape photography and documenting unique travel experiences.",
+          "zh": "我對捕捉風景攝影和記錄獨特的旅遊體驗充滿了熱情。",
+          "scene": "生活"
+        },
+        {
+          "en": "I'm passionate about creating user-friendly interfaces that improve the visitor experience.",
+          "zh": "我非常有熱情去創造實用友善的介面，來提升參觀者的體驗。",
+          "scene": "工作"
+        },
+        {
+          "en": "She is passionate about visual storytelling through cinematic videography.",
+          "zh": "她對透過電影感的影像製作來進行視覺敘事非常有熱情。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-019",
+      "source": "phrase",
+      "number": 19,
+      "titleEn": "I intend to...",
+      "titleZh": "我打算/意圖要...",
+      "usage": "口語比 plan 稍正式一點",
+      "note": "口語比 plan 稍正式一點",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I intend to submit the final draft of the public relations press release by noon.",
+          "zh": "我打算在中午前提交公關新聞稿的最終稿。",
+          "scene": "工作"
+        },
+        {
+          "en": "I intend to clear out my garage this weekend to make space for my new equipment.",
+          "zh": "我打算這週末清理車庫，好幫我的新設備騰出空間。",
+          "scene": "生活"
+        },
+        {
+          "en": "We intend to expand our brand presence in the local market within the next two quarters.",
+          "zh": "我們打算在接下來的兩個季度內，擴大我們品牌在本地市場的能見度。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-020",
+      "source": "phrase",
+      "number": 20,
+      "titleEn": "I've been meaning to...",
+      "titleZh": "我一直想著要...",
+      "usage": "指一件想做很久但被耽擱的事",
+      "note": "指一件想做很久但被耽擱的事",
+      "category": "日常表達、意願與個人計畫",
+      "categoryId": "phrase-cat-1",
+      "categoryNo": 1,
+      "tags": [
+        "日常表達、意願與個人計畫",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I've been meaning to call my aunt who lives in the US, but I've been so busy lately.",
+          "zh": "我一直想打電話給住美國的阿姨，但最近實在太忙了。",
+          "scene": "生活"
+        },
+        {
+          "en": "I've been meaning to clean up my email inbox and archive old project folders.",
+          "zh": "我一直很想清理電子郵件收件匣，並把舊的專案資料夾封存。",
+          "scene": "工作"
+        },
+        {
+          "en": "I've been meaning to visit that new exhibition hall since it opened last month.",
+          "zh": "自從上個月那個新展覽館開幕以來，我一直想著要去參觀。",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "I've been meaning to",
+      "layerRole": "表達個人一直想做的事。",
+      "togetherHint": "句型層表達「想做很久但被耽擱」。公式層把同一結構變成破冰：我一直想問懂這行的人。一個講自己的待辦，一個打開別人的故事。",
+      "togetherExample": "I’ve been meaning to ask someone who knows about this industry… How did you get into UI design?",
+      "togetherZh": "我一直想問懂這行的人……你是怎麼開始接觸 UI 設計的？",
+      "related": [
+        {
+          "id": "cat-1-a-01",
+          "source": "catalogue",
+          "titleEn": "I’ve been meaning to ask someone who knows about [領域]... How did you get into [主題]?",
+          "titleZh": "我一直想問懂〔領域〕的人……你是怎麼開始接觸〔主題〕的？",
+          "role": "破冰公式：用「一直想問」降低搭話壓力。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-021",
+      "source": "phrase",
+      "number": 21,
+      "titleEn": "It turns out that...",
+      "titleZh": "結果竟然是... / 原來...",
+      "usage": "用來表達「結果竟然是... / 原來...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I thought I lost my key, but it turns out that I left it inside my gym bag the whole time.",
+          "zh": "我以為我弄丟了鑰匙，結果竟然是一直留在我的健身包裡。",
+          "scene": "生活"
+        },
+        {
+          "en": "It turns out that the system glitch was caused by a minor syntax error in the configuration file.",
+          "zh": "結果發現，系統故障竟然是由設定檔中一個微小的語法錯誤引起的。",
+          "scene": "工作"
+        },
+        {
+          "en": "We were worried about the rain, but it turned out that the weather was perfectly clear during the outdoor shoot.",
+          "zh": "我們本來很擔心下雨，結果那天戶外拍攝時天氣竟然出奇地晴朗。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-022",
+      "source": "phrase",
+      "number": 22,
+      "titleEn": "As long as...",
+      "titleZh": "只要...",
+      "usage": "用來表達「只要...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "As long as we leave early in the morning, we should be able to avoid the heavy weekend traffic.",
+          "zh": "只要我們早上早點出發，應該就能避開週末的嚴重塞車。",
+          "scene": "生活"
+        },
+        {
+          "en": "As long as everyone stays on the same page, we can definitely meet the launch deadline next month.",
+          "zh": "只要大家保持步調一致（認知相同），我們下個月絕對能趕上發布截止日期。",
+          "scene": "工作"
+        },
+        {
+          "en": "I don’t mind which restaurant we choose, as long as they offer good vegetarian options.",
+          "zh": "我不介意選哪家餐廳，只要他們有提供不錯的素食選項就好。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-023",
+      "source": "phrase",
+      "number": 23,
+      "titleEn": "In terms of...",
+      "titleZh": "就...而言 / 在...方面",
+      "usage": "用來表達「就...而言 / 在...方面」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "In terms of camera performance, this new smartphone is definitely a huge upgrade from the last version.",
+          "zh": "就相機效能而言，這款新智慧型手機絕對比上一代有了巨大的提升。",
+          "scene": "生活"
+        },
+        {
+          "en": "In terms of our marketing budget, we need to focus more on digital ads rather than print media.",
+          "zh": "就我們的行銷預算而言，我們需要更多地專注於數位廣告，而不是紙本媒體。",
+          "scene": "工作"
+        },
+        {
+          "en": "The venue is great in terms of location, but it lacks sufficient parking spaces for our guests.",
+          "zh": "就地點而言這個場地很棒，但它缺乏足夠的停車位供我們的賓客使用。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-024",
+      "source": "phrase",
+      "number": 24,
+      "titleEn": "When it comes to...",
+      "titleZh": "每當提到... / 談到...時",
+      "usage": "注意：to 後面接名詞或動名詞 V-ing",
+      "note": "注意：to 後面接名詞或動名詞 V-ing",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "When it comes to choosing a travel destination, my wife always prefers scenic nature over crowded cities.",
+          "zh": "每當談到選擇旅遊目的地時，我老婆總是喜歡風景優美的自然風光，勝過擁擠的城市。",
+          "scene": "生活"
+        },
+        {
+          "en": "When it comes to managing large-scale exhibitions, thorough preparation is the key to success.",
+          "zh": "談到管理大型展覽時，周全的準備工作就是成功的關鍵。",
+          "scene": "工作"
+        },
+        {
+          "en": "When it comes to coding with Tailwind CSS, he can build a responsive page incredibly fast.",
+          "zh": "每當提到用 Tailwind CSS 寫程式時，他建置響應式網頁的速度驚人地快。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-025",
+      "source": "phrase",
+      "number": 25,
+      "titleEn": "The point is that...",
+      "titleZh": "重點在於...",
+      "usage": "用來表達「重點在於...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I know the gadget is fancy, but the point is that we rarely have time to use it.",
+          "zh": "我知道那個小玩意兒很精緻，但重點在於我們根本很少有時間去用它。",
+          "scene": "生活"
+        },
+        {
+          "en": "The point is that if we don't fix the core server stability issue now, adding new features won't help.",
+          "zh": "重點在於，如果我們現在不解決核心伺服器的穩定性問題，增加再多新功能也無濟於事。",
+          "scene": "工作"
+        },
+        {
+          "en": "The point is that we need feedback from actual users before making the final decision.",
+          "zh": "重點在於，在做出最終決定之前，我們需要來自真實使用者的回饋。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-026",
+      "source": "phrase",
+      "number": 26,
+      "titleEn": "It makes sense to...",
+      "titleZh": "做...是合理的 / 說得通 / 聰明的做法",
+      "usage": "用來表達「做...是合理的 / 說得通 / 聰明的做法」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It makes sense to buy a high-quality tripod if you are planning to take long-exposure landscape photos.",
+          "zh": "如果你計畫要拍長曝光的風景照，買一個高品質的三腳架是完全合理的。",
+          "scene": "生活"
+        },
+        {
+          "en": "It makes sense to run a pilot test with a small focus group before launching the application to the public.",
+          "zh": "在向公眾推出應用程式之前，先找一小組焦點訪談團體進行試點測試是明智的做法。",
+          "scene": "工作"
+        },
+        {
+          "en": "Since the weather forecast predicts heavy rain, it makes sense to postpone our hiking trip.",
+          "zh": "既然天氣預報預測有大雨，延後我們的登山行程是合理的。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-027",
+      "source": "phrase",
+      "number": 27,
+      "titleEn": "There is no point in...",
+      "titleZh": "做...是毫無意義的 / 沒用的",
+      "usage": "注意：後面接動名詞 V-ing",
+      "note": "注意：後面接動名詞 V-ing",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "There is no point in buying an expensive drone if you don't have time to practice flying it.",
+          "zh": "如果你沒時間練習飛行，買一台昂貴的無人機是毫無意義的。",
+          "scene": "生活"
+        },
+        {
+          "en": "There is no point in holding a two-hour meeting when the issue can be resolved in a five-minute email.",
+          "zh": "當問題可以透過一封五分鐘的郵件解決時，開一個兩小時的會議是毫無意義的。",
+          "scene": "工作"
+        },
+        {
+          "en": "There is no point in arguing over minor mistakes; let's just focus on how to fix them.",
+          "zh": "為了一些小錯誤爭吵是沒意義的，我們還是專注於如何修正吧。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-028",
+      "source": "phrase",
+      "number": 28,
+      "titleEn": "Speaking of...",
+      "titleZh": "說到... / 話說回來 / 順便一提",
+      "usage": "用來表達「說到... / 話說回來 / 順便一提」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Speaking of Japan, are you still planning a trip to Tokyo with your family this autumn?",
+          "zh": "說到日本，你今年秋天還是計劃和家人去東京旅遊嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "Speaking of the upcoming exhibition, have we finalized the list of keynote speakers yet?",
+          "zh": "話說回來，關於即將到來的展覽，我們定案主講人名單了嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "I love this coffee blend. Speaking of which, did you check out that new cafe down the street?",
+          "zh": "我很喜歡這款綜合咖啡豆。順便一提，你有去過街角新開的那家咖啡廳了嗎？",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-029",
+      "source": "phrase",
+      "number": 29,
+      "titleEn": "On behalf of...",
+      "titleZh": "代表...",
+      "usage": "用來表達「代表...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "On behalf of Taiwan Power Company, I would like to welcome all the honorable guests to today's event.",
+          "zh": "我謹代表台灣電力公司，歡迎所有貴賓蒞臨今天的活動。",
+          "scene": "工作"
+        },
+        {
+          "en": "I am writing this email on behalf of our project manager, who is currently out of the office.",
+          "zh": "我代表我們目前不在辦公室的專案經理，撰寫這封電子郵件。",
+          "scene": "工作"
+        },
+        {
+          "en": "On behalf of my whole family, I want to thank you for inviting us to this wonderful dinner party.",
+          "zh": "我代表全家，感謝您邀請我們參加這場精彩的晚宴。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-030",
+      "source": "phrase",
+      "number": 30,
+      "titleEn": "No wonder...",
+      "titleZh": "難怪...",
+      "usage": "用來表達「難怪...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "You stayed up until 3 AM editing that travel video? No wonder you look so exhausted today.",
+          "zh": "你昨晚剪輯旅遊影片到凌晨三點？難怪你今天看起來這麼精疲力竭。",
+          "scene": "生活"
+        },
+        {
+          "en": "They invested heavily in user research; no wonder their interactive web app is so user-friendly.",
+          "zh": "他們在使用者研究上投入了巨資，難怪他們的互動網頁應用這麼好上手。",
+          "scene": "工作"
+        },
+        {
+          "en": "No wonder the park is so crowded today; the cherry blossoms are in full bloom.",
+          "zh": "難怪今天公園裡人這麼多，原來櫻花正全面盛開。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-031",
+      "source": "phrase",
+      "number": 31,
+      "titleEn": "Chances are that...",
+      "titleZh": "很有可能...",
+      "usage": "用來表達「很有可能...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Chances are that it will rain this afternoon, so don't forget to grab an umbrella before heading out.",
+          "zh": "下午很有可能會下雨，出門前別忘了帶把傘。",
+          "scene": "生活"
+        },
+        {
+          "en": "If we don't submit the proposal by today, chances are that the client will choose our competitor.",
+          "zh": "如果我們今天不提交企劃書，客戶很有可能會選擇我們的競爭對手。",
+          "scene": "工作"
+        },
+        {
+          "en": "Chances are that the package will arrive tomorrow since it’s already at the local distribution center.",
+          "zh": "既然包裹已經到了當地的配送中心，明天很有可能就會送達。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-032",
+      "source": "phrase",
+      "number": 32,
+      "titleEn": "It implies that...",
+      "titleZh": "這意味著 / 暗示著...",
+      "usage": "用來表達「這意味著 / 暗示著...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The sudden drop in website traffic implies that there might be an issue with our latest deployment.",
+          "zh": "網站流量驟降，意味著我們最新一次的系統部署可能存在問題。",
+          "scene": "工作"
+        },
+        {
+          "en": "His silence when asked about the plan implies that he might not fully agree with our suggestion.",
+          "zh": "當被問及計畫時他的沉默，暗示著他可能不完全贊同我們的建議。",
+          "scene": "生活"
+        },
+        {
+          "en": "Achieving a 95% satisfaction rate implies that the updates we made to the exhibition venue were effective.",
+          "zh": "獲得 95% 的滿意度，意味著我們對展覽場地所做的更新是非常有效的。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-033",
+      "source": "phrase",
+      "number": 33,
+      "titleEn": "Apart from...",
+      "titleZh": "除了...之外",
+      "usage": "可表示「除了...還有（包含）」或「除了...之外不包含」",
+      "note": "可表示「除了...還有（包含）」或「除了...之外不包含」",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Apart from professional data analysis, I also enjoy using my DJI equipment for creative videography.",
+          "zh": "除了專業的數據分析之外，我也喜歡將我的 DJI 設備用於創意錄影。",
+          "scene": "生活"
+        },
+        {
+          "en": "Apart from a minor layout bug, the user interface of the Next.js application is fully functional.",
+          "zh": "除了大廳版面一個微小的錯誤外，這款 Next.js 應用程式的使用者介面功能完全正常。",
+          "scene": "工作"
+        },
+        {
+          "en": "Apart from the high price, this camera lens is absolutely perfect in terms of sharpness.",
+          "zh": "除了價格高昂之外，這款相機鏡頭在清晰度方面絕對是完美的。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-034",
+      "source": "phrase",
+      "number": 34,
+      "titleEn": "To tell you the truth...",
+      "titleZh": "老實跟你說... / 說真的...",
+      "usage": "用來表達「老實跟你說... / 說真的...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "To tell you the truth, I'm not really into horror movies; I prefer comedies or action films.",
+          "zh": "老實跟你說，我對恐怖片真的沒興趣，我比較喜歡喜劇或動作片。",
+          "scene": "生活"
+        },
+        {
+          "en": "To tell you the truth, our current team doesn’t have enough bandwidth to take on another major project this month.",
+          "zh": "說真的，我們團隊目前的產能（頻寬）不足以在這個月接下另一個大專案。",
+          "scene": "工作"
+        },
+        {
+          "en": "To tell you the truth, I haven't even started packing for our transpacific flight tomorrow.",
+          "zh": "老實說，我甚至還沒開始為明天飛越太平洋的航班打包行李。",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "honestly",
+      "layerRole": "句型：坦白講現況。",
+      "togetherHint": "風格的 Honestly 是「我要講重點了」。句型的 To tell you the truth / To be honest with you 是坦白。都不要用成質疑對方說謊。",
+      "togetherExample": "Honestly, I think we’re overthinking this part. To be honest with you, our team doesn’t have the bandwidth this week.",
+      "togetherZh": "老實說，我覺得這一段我們想太多了。坦白跟你說，我們團隊這週沒有餘裕。",
+      "related": [
+        {
+          "id": "phrase-121",
+          "source": "phrase",
+          "titleEn": "To be honest with you...",
+          "titleZh": "老實跟你說... / 說真的...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "phrase-134",
+          "source": "phrase",
+          "titleEn": "To tell you the truth...",
+          "titleZh": "老實說... / 坦白講...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "style-s1-07",
+          "source": "style",
+          "titleEn": "Honestly",
+          "titleZh": "老實說；我要講重點了",
+          "role": "直率開場：進入真心話。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-035",
+      "source": "phrase",
+      "number": 35,
+      "titleEn": "From my perspective...",
+      "titleZh": "從我的角度來看 / 依我之見",
+      "usage": "用來表達「從我的角度來看 / 依我之見」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "From my perspective, upgrading the exhibition hall's interactive screens will greatly boost visitor engagement.",
+          "zh": "從我的角度來看，升級展覽館的互動式螢幕將會大幅提升參觀者的參與度。",
+          "scene": "工作"
+        },
+        {
+          "en": "From my perspective, investing in a good ergonomic chair is totally worth it if you spend hours coding.",
+          "zh": "依我之見，如果你花好幾個小時寫程式，投資一張好的符合人體工學的椅子是完全值得的。",
+          "scene": "生活"
+        },
+        {
+          "en": "From my perspective, the project’s main risk lies in the lack of clear communication between departments.",
+          "zh": "在我看來，該專案的主要風險在於部門之間缺乏清晰的溝通。",
+          "scene": "工作"
+        }
+      ],
+      "layerFamily": "from a different angle",
+      "layerRole": "句型：From my perspective… 直接亮出立場。",
+      "togetherHint": "風格強調「角度不同」而不是「你錯了」。公式層的立體鋪陳、高 EQ 反駁也走同一條路。不同意時先換鏡頭，再講內容。",
+      "togetherExample": "I appreciate that perspective, but I am looking at it from a different angle. You’re absolutely right about the design, but looking at it from another angle, it’s not very user-friendly.",
+      "togetherZh": "我感謝這個視角，但我從另一個角度看。設計你完全正確，但換個鏡頭看，它其實不太好用。",
+      "related": [
+        {
+          "id": "cat-2-a-01",
+          "source": "catalogue",
+          "titleEn": "I’ve given this a lot of thought, and from where I stand, [想法]...",
+          "titleZh": "這件事我想了很久，從我的立場來看，〔想法〕……",
+          "role": "表達觀點：用另一個鏡頭講反面。"
+        },
+        {
+          "id": "cat-2-c-22",
+          "source": "catalogue",
+          "titleEn": "You’re absolutely right about [同意的部分], but looking at it from another angle, [反面觀點].",
+          "titleZh": "關於〔同意的部分〕你完全正確，但從另一個角度看，〔反面觀點〕。",
+          "role": "表達觀點：用另一個鏡頭講反面。"
+        },
+        {
+          "id": "style-s4-17",
+          "source": "style",
+          "titleEn": "I appreciate that perspective, but I am looking at it from a different angle.",
+          "titleZh": "我感謝這個視角，但我從另一個角度看",
+          "role": "觀察者語氣：換一個拍攝角度。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-036",
+      "source": "phrase",
+      "number": 36,
+      "titleEn": "It is highly likely that...",
+      "titleZh": "極有可能...",
+      "usage": "用來表達「極有可能...」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Given his track record, it is highly likely that he will be promoted to manager next quarter.",
+          "zh": "鑑於他的過往績效，他極有可能在下個季度被晉升為經理。",
+          "scene": "工作"
+        },
+        {
+          "en": "It is highly likely that the flight will be delayed due to the severe typhoon approaching Taipei.",
+          "zh": "由於強烈颱風正接近台北，航班極有可能會延誤。",
+          "scene": "生活"
+        },
+        {
+          "en": "It is highly likely that we will need to order more event booklets because the pre-registration numbers are huge.",
+          "zh": "極有可能我們需要訂購更多活動手冊，因為預約報名的人數非常多。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-037",
+      "source": "phrase",
+      "number": 37,
+      "titleEn": "On second thought...",
+      "titleZh": "轉念一想 / 再想想看",
+      "usage": "用來表達「轉念一想 / 再想想看」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Let’s head out to the night market. Wait, on second thought, it might be too crowded; let’s just eat nearby.",
+          "zh": "我們去逛夜市吧。等等，轉念一想，那裡可能人太多了，我們在附近吃就好了。",
+          "scene": "生活"
+        },
+        {
+          "en": "I was going to send the draft report now, but on second thought, I’d better review the data charts one more time.",
+          "zh": "我本來打算現在發出報告草稿，但再想想看，我最好還是把數據圖表重新檢查一遍。",
+          "scene": "工作"
+        },
+        {
+          "en": "I thought about driving to the venue, but on second thought, taking the MRT will save me from the parking hassle.",
+          "zh": "我原本考慮開車去會場，但轉念一想，搭捷運能讓我免去停車的麻煩。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-038",
+      "source": "phrase",
+      "number": 38,
+      "titleEn": "In contrast to...",
+      "titleZh": "與...相比 / 與...相反",
+      "usage": "用來表達「與...相比 / 與...相反」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "In contrast to his extroverted brother, he prefers spending his quiet weekends learning new tech frameworks at home.",
+          "zh": "與他外向的哥哥相反，他更喜歡在週末安靜地待在家學習新的技術框架。",
+          "scene": "生活"
+        },
+        {
+          "en": "In contrast to last year’s conventional theme, this year’s exhibition focuses heavily on green energy and Net Zero.",
+          "zh": "與去年傳統的主題相比，今年的展覽重度聚焦於綠色能源與淨零排放。",
+          "scene": "工作"
+        },
+        {
+          "en": "In contrast to the complicated setup of old models, this new DJI drone is ready to fly straight out of the box.",
+          "zh": "與舊型號複雜的設定相比，這台新款 DJI 無人機開箱後立刻就能起飛。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-039",
+      "source": "phrase",
+      "number": 39,
+      "titleEn": "Judging by...",
+      "titleZh": "從...來判斷 / 依...來看",
+      "usage": "用來表達「從...來判斷 / 依...來看」。",
+      "note": "",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Judging by the dark clouds gathered overhead, we have about ten minutes before a heavy downpour hits.",
+          "zh": "從頭頂聚集的烏雲來判斷，在大雨傾盆而下之前我們大概還有十分鐘。",
+          "scene": "生活"
+        },
+        {
+          "en": "Judging by the enthusiastic responses from the first-day visitors, the exhibition renovation is a huge success.",
+          "zh": "從首日參觀者的熱烈反應來看，這次展覽館的改造非常成功。",
+          "scene": "工作"
+        },
+        {
+          "en": "Judging by the glowing online reviews, that new photo editing software is worth downloading.",
+          "zh": "從網路上好評連連來看，那款新的相機相片編輯軟體非常值得下載。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-040",
+      "source": "phrase",
+      "number": 40,
+      "titleEn": "Consequently...",
+      "titleZh": "結果 / 因此 / 隨之而來的是...",
+      "usage": "常用於句首或分句開頭",
+      "note": "常用於句首或分句開頭",
+      "category": "觀點論述、轉折與因果推論",
+      "categoryId": "phrase-cat-2",
+      "categoryNo": 2,
+      "tags": [
+        "觀點論述、轉折與因果推論",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The graphic designer missed the layout deadline; consequently, the printing of the event banners had to be delayed.",
+          "zh": "平面設計師錯過了版面截止日期，因此，活動布條的印刷工作不得不延後。",
+          "scene": "工作"
+        },
+        {
+          "en": "He forgot to charge his spare camera batteries last night; consequently, he couldn’t capture the sunset during the hike.",
+          "zh": "他昨晚忘了給備用相機電池充電，結果，在登山健行時他無法捕捉到日落美景。",
+          "scene": "生活"
+        },
+        {
+          "en": "The company automated its workflow using AI tools; consequently, team productivity increased by 30%.",
+          "zh": "公司利用 AI 工具將工作流程自動化，隨之而來的是團隊生產力提升了 30%。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-041",
+      "source": "phrase",
+      "number": 41,
+      "titleEn": "Would you mind...?",
+      "titleZh": "你介意...嗎？",
+      "usage": "注意：後面接動名詞 V-ing 或 if 子句",
+      "note": "注意：後面接動名詞 V-ing 或 if 子句",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Would you mind checking over this press release before I send it out to the media?",
+          "zh": "在我把這份新聞稿發給媒體之前，你介意幫我過目一下嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Would you mind if I turned down the air conditioner? It's getting a bit chilly in here.",
+          "zh": "你介意我把冷氣調小一點嗎？這裡變得有點冷了。",
+          "scene": "生活"
+        },
+        {
+          "en": "Would you mind moving our weekly sync-up meeting to Thursday afternoon this week?",
+          "zh": "你介意把我們這週的週會改到週四下午嗎？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-042",
+      "source": "phrase",
+      "number": 42,
+      "titleEn": "I was wondering if...",
+      "titleZh": "我那時在想是否能...",
+      "usage": "極為委婉客氣的請求",
+      "note": "極為委婉客氣的請求",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I was wondering if you could provide some feedback on the draft of the new interactive interface.",
+          "zh": "我那時在想，您是否能針對新互動介面的草案提供一些回饋。",
+          "scene": "工作"
+        },
+        {
+          "en": "I was wondering if you'd like to join us for dinner tonight; we're trying out a new local spot.",
+          "zh": "我那時在想你今晚要不要跟我們一起吃晚餐，我們想去試一家新的在地餐廳。",
+          "scene": "生活"
+        },
+        {
+          "en": "I was wondering if it's possible to extend the budget for the upcoming exhibition setup.",
+          "zh": "我那時在想，是否有機會增加即將到來的展覽佈置預算。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-043",
+      "source": "phrase",
+      "number": 43,
+      "titleEn": "Could you please clarify...?",
+      "titleZh": "可以請你澄清/說明一下...嗎？",
+      "usage": "用來表達「可以請你澄清/說明一下...嗎？」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Could you please clarify the specific requirements for the data analysis report?",
+          "zh": "可以請你說明一下這份數據分析報告的具體需求嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Could you please clarify the meeting time? The email invitation states two different time slots.",
+          "zh": "可以請你確認一下會議時間嗎？郵件邀請函上寫了兩個不同的時段。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "Could you please clarify what you meant by \"improving the user flow\" in your last email?",
+          "zh": "可以請你澄清一下你在上一封郵件中所說的「優化使用者流程」是什麼意思嗎？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-044",
+      "source": "phrase",
+      "number": 44,
+      "titleEn": "Is it possible to...?",
+      "titleZh": "有可能...嗎？",
+      "usage": "用來表達「有可能...嗎？」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Is it possible to arrange a quick call tomorrow to align on the project deliverables?",
+          "zh": "有可能安排明天通個短電話，來對齊一下專案的交付成果嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Is it possible to book a window seat for our flight to Los Angeles next week?",
+          "zh": "我們下週飛洛杉磯的航班，有可能預訂靠窗的座位嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "Is it possible to fast-track the hardware procurement process for the new server?",
+          "zh": "有可能加快新伺服器的硬體採購流程嗎？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-045",
+      "source": "phrase",
+      "number": 45,
+      "titleEn": "I’d appreciate it if you could...",
+      "titleZh": "如果你能...我將不勝感激",
+      "usage": "用來表達「如果你能...我將不勝感激」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I’d appreciate it if you could update the team on the event venue coordinates by the end of the day.",
+          "zh": "如果您能在今天下班前向團隊更新活動場地的座標資訊，我將不勝感激。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’d appreciate it if you could review the code on GitHub and approve the pull request.",
+          "zh": "如果你能幫忙審查 GitHub 上的程式碼並批准這個 PR，我將不勝感激。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’d appreciate it if you could keep an eye on my plants while I'm away on a business trip.",
+          "zh": "如果在我出差期間你能幫忙留意一下我的植物，我將不勝感激。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-046",
+      "source": "phrase",
+      "number": 46,
+      "titleEn": "Do you happen to know...?",
+      "titleZh": "你剛好知道...嗎？",
+      "usage": "用來表達「你剛好知道...嗎？」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Do you happen to know if there’s a reliable tech repair shop nearby that fixes drones?",
+          "zh": "你剛好知道附近有沒有哪家可靠的科技維修店有在修無人機嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "Do you happen to know who is currently managing the vendor relations for the exhibition?",
+          "zh": "你剛好知道目前是誰在負責管理展覽的廠商關係嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Do you happen to know what time the convenience store down the street closes?",
+          "zh": "你剛好知道街那頭的便利商店幾點打烊嗎？",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-047",
+      "source": "phrase",
+      "number": 47,
+      "titleEn": "I'm calling/writing to...",
+      "titleZh": "我打電話/寫信是為了...",
+      "usage": "開門見山表達目的",
+      "note": "開門見山表達目的",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I'm writing to update you on the recent updates we made to the Net Zero exhibition hall.",
+          "zh": "我寫這封信是為了向您說明我們最近對淨零排放展覽館所做的更新進度。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm calling to confirm your availability for the panel discussion this coming Friday.",
+          "zh": "我打電話是為了確認您這週五是否有空出席座談會。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm writing to follow up on the quote we requested from your design agency last week.",
+          "zh": "我寫信是為了追蹤我們上週向貴設計公司索取的報價單進度。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-048",
+      "source": "phrase",
+      "number": 48,
+      "titleEn": "Would it be okay if I...?",
+      "titleZh": "如果我...可以嗎？",
+      "usage": "用來表達「如果我...可以嗎？」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Would it be okay if I borrowed your wide-angle lens for my weekend trip to the national park?",
+          "zh": "如果我借用你的廣角鏡頭去週末的國家公園旅行，可以嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "Would it be okay if I left the meeting ten minutes early to catch a train?",
+          "zh": "如果我提早十分鐘離開會議去趕火車，可以嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Would it be okay if we scheduled a follow-up session once the data charts are ready?",
+          "zh": "等數據圖表準備好之後，我們再安排一次跟進會議，這樣可以嗎？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-049",
+      "source": "phrase",
+      "number": 49,
+      "titleEn": "Correct me if I'm wrong, but...",
+      "titleZh": "如果我錯了請糾正我，但...",
+      "usage": "委婉指出不同看法",
+      "note": "委婉指出不同看法",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Correct me if I'm wrong, but didn't we decide to use Tailwind CSS for the web interface layout?",
+          "zh": "如果我錯了請糾正我，但我們之前不是決定網頁介面排版要用 Tailwind CSS 嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Correct me if I'm wrong, but I thought the contract draft was already approved by the legal department.",
+          "zh": "如果我弄錯了請糾正我，但我以為法務部門已經批准了合約草案。",
+          "scene": "工作"
+        },
+        {
+          "en": "Correct me if I'm wrong, but isn't the deadline for the course exam application tomorrow?",
+          "zh": "如果我記錯了請糾正我，但課程考試報名的截止日期不是明天嗎？",
+          "scene": "生活/工作"
+        }
+      ],
+      "layerFamily": "correct me if I'm wrong",
+      "layerRole": "委婉核對事實或共識。",
+      "togetherHint": "句型層是委婉指出可能記錯。公式層則用來重述對方真正要的東西。前者核對事實，後者核對感受。",
+      "togetherExample": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some breathing room.",
+      "togetherZh": "如果我錯了請糾正我，但你真正想要的，似乎只是一點喘息空間。",
+      "related": [
+        {
+          "id": "cat-2-a-02",
+          "source": "catalogue",
+          "titleEn": "Correct me if I’m wrong, but it feels like the real issue here isn’t [A], but rather [B].",
+          "titleZh": "如果我錯了請糾正我，但真正的問題似乎不是〔A〕，而是〔B〕。",
+          "role": "傾聽公式：核對對方真正要的是什麼。"
+        },
+        {
+          "id": "cat-4-b-12",
+          "source": "catalogue",
+          "titleEn": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some [內心需求].",
+          "titleZh": "如果我錯了請糾正我，但你真正想要的似乎只是一點〔內心需求〕。",
+          "role": "傾聽公式：核對對方真正要的是什麼。"
+        },
+        {
+          "id": "phrase-126",
+          "source": "phrase",
+          "titleEn": "Correct me if I'm wrong...",
+          "titleZh": "如果我說錯了請糾正我...",
+          "role": "委婉核對事實或共識。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-050",
+      "source": "phrase",
+      "number": 50,
+      "titleEn": "Just to be on the safe side...",
+      "titleZh": "為了保險起見...",
+      "usage": "用來表達「為了保險起見...」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Just to be on the safe side, let’s pack an extra set of charged drone batteries for the outdoor shoot.",
+          "zh": "為了保險起見，我們替戶外拍攝多帶一組充好電的無人機備用電池吧。",
+          "scene": "生活"
+        },
+        {
+          "en": "Just to be on the safe side, I’ve backed up all the exhibition media files onto an external hard drive.",
+          "zh": "為了保險起見，我已經把所有展覽的媒體檔案都備份到外接硬碟裡了。",
+          "scene": "工作"
+        },
+        {
+          "en": "It looks sunny, but just to be on the safe side, I'll bring an umbrella in case it rains.",
+          "zh": "雖然看起來天氣晴朗，但為了保險起見，我還是會帶把傘防雨。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-051",
+      "source": "phrase",
+      "number": 51,
+      "titleEn": "Feel free to...",
+      "titleZh": "請隨時/儘管...",
+      "usage": "用來表達「請隨時/儘管...」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Feel free to reach out if you have any questions regarding the Next.js setup configuration.",
+          "zh": "如果您對 Next.js 的設定配置有任何疑問，請隨時與我聯絡。",
+          "scene": "工作"
+        },
+        {
+          "en": "Feel free to grab a cup of coffee from the breakroom while you wait for the meeting to start.",
+          "zh": "在等待會議開始的這段時間，請儘管去休息室倒杯咖啡喝。",
+          "scene": "工作/生活"
+        },
+        {
+          "en": "Feel free to share your thoughts on the new exhibition theme layout.",
+          "zh": "關於新展覽的主題動線規劃，請大家隨時分享想法。",
+          "scene": "工作"
+        }
+      ],
+      "layerFamily": "feel free",
+      "layerRole": "句型：請對方隨時做某事。",
+      "togetherHint": "句型層是允許對方行動。風格招牌句 Feel free to jump in 則是導覽／簡報時把發言權打開。同一禮貌，場景不同。",
+      "togetherExample": "Feel free to jump in if you have any thoughts. I’d appreciate it if you could share what’s not landing.",
+      "togetherZh": "有想法隨時插進來。如果可以的話，也跟我說哪裡還沒打到點。",
+      "related": [
+        {
+          "id": "style-s3-22",
+          "source": "style",
+          "titleEn": "Feel free to jump in if you have any thoughts.",
+          "titleZh": "有想法隨時插話",
+          "role": "引導者語氣：邀請插話。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-052",
+      "source": "phrase",
+      "number": 52,
+      "titleEn": "I was hoping you could...",
+      "titleZh": "我原本希望你能...",
+      "usage": "比 I hope 語氣更柔軟委婉",
+      "note": "比 I hope 語氣更柔軟委婉",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I was hoping you could help me troubleshoot this responsive layout issue on the front-end.",
+          "zh": "我原本希望你能幫我排查一下前端這個響應式排版的問題。",
+          "scene": "工作"
+        },
+        {
+          "en": "I was hoping you could give me some recommendations for nice photo spots around Los Angeles.",
+          "zh": "我原本希望你能給我推薦一些洛杉磯附近不錯的拍照打卡景點。",
+          "scene": "生活"
+        },
+        {
+          "en": "I was hoping you could take over the opening remarks for tomorrow's exhibition event.",
+          "zh": "我原本希望你明天能幫忙負責展覽活動的開場致詞。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-053",
+      "source": "phrase",
+      "number": 53,
+      "titleEn": "May I take a moment to...?",
+      "titleZh": "我可以耽誤一點時間來...嗎？",
+      "usage": "用來表達「我可以耽誤一點時間來...嗎？」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "May I take a moment to introduce the key features of our new energy management system?",
+          "zh": "我可以耽誤一點時間，來介紹我們新節能管理系統的核心功能嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "May I take a moment to thank everyone for their hard work on this marketing campaign?",
+          "zh": "我可以借用一點時間，感謝大家在這次行銷活動中的辛勤付出嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Before we end the session, may I take a moment to clarify the next steps?",
+          "zh": "在我們結束這次會議之前，我可以耽誤一點時間來明確一下接下來的步驟嗎？",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-054",
+      "source": "phrase",
+      "number": 54,
+      "titleEn": "If I’m not mistaken...",
+      "titleZh": "如果我沒弄錯的話...",
+      "usage": "用來表達「如果我沒弄錯的話...」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "If I’m not mistaken, the flight leaves from Terminal 2, not Terminal 1.",
+          "zh": "如果我沒弄錯的話，班機是從第二航廈起飛，而不是第一航廈。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "If I’m not mistaken, we already reached a consensus on the color scheme during the last meeting.",
+          "zh": "如果我沒弄錯的話，我們在上次會議中就已經對配色方案達成了共識。",
+          "scene": "工作"
+        },
+        {
+          "en": "If I'm not mistaken, that famous photography exhibition ends this coming Sunday.",
+          "zh": "如果我沒記錯的話，那個著名的攝影展這週日就要結束了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-055",
+      "source": "phrase",
+      "number": 55,
+      "titleEn": "I'm reaching out to you because...",
+      "titleZh": "我聯絡你是因為...",
+      "usage": "商務開場萬用句",
+      "note": "商務開場萬用句",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I'm reaching out to you because we need an experienced graphic designer for our exhibition branding.",
+          "zh": "我聯絡你是因為我們的展覽品牌設計需要一位經驗豐富的平面設計師。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm reaching out to you because I noticed your firm offers comprehensive data analysis tools.",
+          "zh": "我聯絡您是因為我注意到貴公司提供了非常完善的數據分析工具。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'm reaching out to you because your team expressed interest in collaborating on our upcoming project.",
+          "zh": "我聯絡你是因為你們團隊先前對我們即將開展的專案表達了合作意願。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-056",
+      "source": "phrase",
+      "number": 56,
+      "titleEn": "Could you guide me through...?",
+      "titleZh": "你能帶我了解/說明一下...嗎？",
+      "usage": "用來表達「你能帶我了解/說明一下...嗎？」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Could you guide me through the step-by-step workflow for deploying the Next.js app to production?",
+          "zh": "你能帶我一步步了解將 Next.js 應用程式部署到正式環境的工作流程嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Could you guide me through the main highlights of the new permanent exhibition layout?",
+          "zh": "你能幫我導覽並說明一下新常設展廳版面的主要亮點嗎？",
+          "scene": "工作/生活"
+        },
+        {
+          "en": "Could you guide me through the basic setup settings of this new remote controller?",
+          "zh": "你能帶我了解一下這款新遙控器的基本設定步驟嗎？",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-057",
+      "source": "phrase",
+      "number": 57,
+      "titleEn": "Would you be open to...?",
+      "titleZh": "你願意考慮/對...持開放態度嗎？",
+      "usage": "用來表達「你願意考慮/對...持開放態度嗎？」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Would you be open to shifting our target audience to focus more on younger creators?",
+          "zh": "你願意考慮將我們的目標受眾調整為更聚焦在年輕創作者身上嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Would you be open to testing a new software framework for our next utility web application?",
+          "zh": "你願意考慮在我們下一個工具型網頁應用程式中，測試新的軟體框架嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Would you be open to co-hosting the anniversary event with our public relations department?",
+          "zh": "你願意考慮和我們公關部門共同主辦這次的週年慶活動嗎？",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-058",
+      "source": "phrase",
+      "number": 58,
+      "titleEn": "Thanks for bringing this to my attention.",
+      "titleZh": "謝謝你讓我注意到這件事",
+      "usage": "用來表達「謝謝你讓我注意到這件事」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I didn't catch that broken link on the page; thanks for bringing this to my attention.",
+          "zh": "我沒注意到頁面上那個失效的連結，謝謝你讓我注意到這件事。",
+          "scene": "工作"
+        },
+        {
+          "en": "There was a discrepancy in the venue cost breakdown; thanks for bringing this to my attention.",
+          "zh": "活動場地費用明細裡有些出入，謝謝你及時提醒我注意。",
+          "scene": "工作"
+        },
+        {
+          "en": "I didn't realize the scheduled flight conflicted with the meeting; thanks for bringing this to my attention.",
+          "zh": "我先前沒意識到排定的航班時間和會議有衝突，謝謝你提醒我。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-059",
+      "source": "phrase",
+      "number": 59,
+      "titleEn": "Let’s sync up on...",
+      "titleZh": "我們來對齊一下關於...的進度",
+      "usage": "用來表達「我們來對齊一下關於...的進度」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Let’s sync up on the progress of the interactive exhibition installations tomorrow morning.",
+          "zh": "我們明天早上來對齊一下互動展品裝置的最新進度。",
+          "scene": "工作"
+        },
+        {
+          "en": "Let’s sync up on the social media promotional plan before we pitch it to the client.",
+          "zh": "在向客戶提案之前，我們來對齊一下社群媒體的宣傳計畫。",
+          "scene": "工作"
+        },
+        {
+          "en": "Let's sync up on the latest feedback from the technical evaluation team.",
+          "zh": "我們來針對技術評估團隊的最新回饋對齊一下認知。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-060",
+      "source": "phrase",
+      "number": 60,
+      "titleEn": "Please keep me in the loop regarding...",
+      "titleZh": "關於...請隨時讓我知悉最新進展",
+      "usage": "用來表達「關於...請隨時讓我知悉最新進展」。",
+      "note": "",
+      "category": "委婉請求、詢問與商務社交",
+      "categoryId": "phrase-cat-3",
+      "categoryNo": 3,
+      "tags": [
+        "委婉請求、詢問與商務社交",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Please keep me in the loop regarding any further changes made to the exhibition timeline.",
+          "zh": "關於展覽時程表未來的任何變動，請隨時讓我知道最新進展。",
+          "scene": "工作"
+        },
+        {
+          "en": "Please keep me in the loop regarding the negotiations with the secondary hardware vendor.",
+          "zh": "關於與第二家硬體廠商的談判情況，請隨時把我放在知情群組內（保持同步）。",
+          "scene": "工作"
+        },
+        {
+          "en": "I'll be away next Tuesday, so please keep me in the loop regarding the client's decision.",
+          "zh": "我下週二不在，所以關於客戶的最終決定，請務必隨時讓我知道進度。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-061",
+      "source": "phrase",
+      "number": 61,
+      "titleEn": "It’s about time...",
+      "titleZh": "是時候/該是...的時候了",
+      "usage": "注意：後面子句動詞通常用「過去式」來表達「早就該做了」",
+      "note": "注意：後面子句動詞通常用「過去式」來表達「早就該做了」",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It’s about time we upgraded our main home television; it’s been lagging for months.",
+          "zh": "我們早就該把家裡的主電視升級了，它都已經卡頓好幾個月了。",
+          "scene": "生活"
+        },
+        {
+          "en": "It’s about time the company updated its project management system to improve team collaboration.",
+          "zh": "公司早就該更新其專案管理系統，來提升團隊協作效率了。",
+          "scene": "工作"
+        },
+        {
+          "en": "You’ve been working non-stop; it's about time you took a proper vacation to recharge.",
+          "zh": "你一直工作都沒停過，早就該安排個真正的假期好好充電了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-062",
+      "source": "phrase",
+      "number": 62,
+      "titleEn": "Every now and then...",
+      "titleZh": "每隔一段時間/偶爾",
+      "usage": "用來表達「每隔一段時間/偶爾」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Every now and then, I like to take my drone out to the countryside to practice cinematic flying techniques.",
+          "zh": "偶爾，我喜歡把我的無人機帶到郊外，練習一些電影感的飛行技巧。",
+          "scene": "生活"
+        },
+        {
+          "en": "Every now and then, we need to review and clear out old database logs to keep the web app running smoothly.",
+          "zh": "每隔一段時間，我們都需要審查並清理舊的資料庫日誌，以保持網頁應用程式順暢運作。",
+          "scene": "工作"
+        },
+        {
+          "en": "We still cook at home mostly, but every now and then we treat ourselves to a nice restaurant downtown.",
+          "zh": "我們大部分時間還是留在家裡煮飯，但偶爾也會去市中心的好餐廳犒賞自己一下。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-063",
+      "source": "phrase",
+      "number": 63,
+      "titleEn": "As soon as possible...",
+      "titleZh": "儘快...",
+      "usage": "縮寫即為常見的 ASAP",
+      "note": "縮寫即為常見的 ASAP",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Please review the final draft of the public relations release and send me your feedback as soon as possible.",
+          "zh": "請儘快審閱這份公關稿的最終草案，並將您的回饋發給我。",
+          "scene": "工作"
+        },
+        {
+          "en": "I need to get this camera lens repaired as soon as possible before our upcoming vacation.",
+          "zh": "在我們即將到來的假期之前，我需要儘快把這款相機鏡頭修好。",
+          "scene": "生活"
+        },
+        {
+          "en": "We must resolve this high-priority server issue as soon as possible to minimize data downtime.",
+          "zh": "我們必須儘快解決這個高優先級的伺服器問題，以將數據停機時間降到最低。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-064",
+      "source": "phrase",
+      "number": 64,
+      "titleEn": "At the moment...",
+      "titleZh": "目前/現在這個當下",
+      "usage": "用來表達「目前/現在這個當下」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The exhibition manager is tied up with a venue inspection at the moment, but he will call you back later.",
+          "zh": "展覽經理目前正忙於場地檢查，但他稍後會回撥給您。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’m a bit busy cooking dinner at the moment; can I reply to your text message in half an hour?",
+          "zh": "我現在這個當下正忙著煮晚餐，可以半小時後再回你的簡訊嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "At the moment, our engineering team is focusing on optimization for the mobile view layout.",
+          "zh": "目前，我們的工程團隊正專注於行動裝置檢視版面的優化。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-065",
+      "source": "phrase",
+      "number": 65,
+      "titleEn": "In the long run...",
+      "titleZh": "從長遠來看...",
+      "usage": "用來表達「從長遠來看...」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Investing in high-quality video production equipment might be expensive now, but it will save money in the long run.",
+          "zh": "投資高品質的影音製作設備現在可能很貴，但從長遠來看，這反而能省下大筆開銷。",
+          "scene": "生活"
+        },
+        {
+          "en": "Writing clean and modular React code takes more effort initially, but it makes maintenance much easier in the long run.",
+          "zh": "撰寫乾淨且模組化的 React 程式碼一開始要花更多精力，但從長遠來看，這會讓維護變得容易許多。",
+          "scene": "工作"
+        },
+        {
+          "en": "Cultivating a regular exercise habit pays off in the long run by boost your daily energy levels.",
+          "zh": "從長遠來看，培養規律的運動習慣能有效提升你每天的活力，是非常值得的。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-066",
+      "source": "phrase",
+      "number": 66,
+      "titleEn": "For the time being...",
+      "titleZh": "暫時/目前先這樣",
+      "usage": "用來表達「暫時/目前先這樣」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Let’s use this temporary layout design for the time being until the brand assets are fully ready.",
+          "zh": "在品牌素材完全準備就緒之前，我們目前先暫時使用這個臨時的版面設計。",
+          "scene": "工作"
+        },
+        {
+          "en": "My regular camera is being repaired, so I’m using my old backup model for the time being.",
+          "zh": "我的常用相機正在維修中，所以目前我暫時先用舊的備用機。",
+          "scene": "生活"
+        },
+        {
+          "en": "For the time being, all internal staff communications should be done through Slack.",
+          "zh": "目前暫時先這樣安排：所有內部員工的溝通都請透過 Slack 進行。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-067",
+      "source": "phrase",
+      "number": 67,
+      "titleEn": "On short notice...",
+      "titleZh": "臨時/通知時間很短",
+      "usage": "用來表達「臨時/通知時間很短」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Thank you all for attending this emergency sync-up meeting on such short notice.",
+          "zh": "非常感謝大家在這麼臨時、通知時間這麼短的情況下，還來參加這個緊急對齊會議。",
+          "scene": "工作"
+        },
+        {
+          "en": "It’s hard to find a pet sitter on short notice, so we might have to cancel our weekend trip.",
+          "zh": "臨時很難找到寵物保姆，所以我們可能不得不取消這週末的旅行。",
+          "scene": "生活"
+        },
+        {
+          "en": "The vendor managed to deliver the replacement event brochures on short notice, which saved the day.",
+          "zh": "廠商在極短的臨時通知下，成功送達了更換的活動手冊，真是解了燃眉之急。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-068",
+      "source": "phrase",
+      "number": 68,
+      "titleEn": "Behind schedule...",
+      "titleZh": "進度落後",
+      "usage": "用來表達「進度落後」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Due to the sudden system crash, the front-end layout implementation is currently two days behind schedule.",
+          "zh": "由於突然的系統當機，前端頁面排版的實作進度目前落後了兩天。",
+          "scene": "工作"
+        },
+        {
+          "en": "Traffic was terrible this morning, so the entire catering team is running a bit behind schedule.",
+          "zh": "今天早上的交通太糟糕了，導致整個餐飲團隊的進度都有點落後。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "We need to allocate extra resources to the exhibition renovation, or we will fall behind schedule.",
+          "zh": "我們需要為展覽館改造投入額外的資源，否則我們的進度將會落後。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-069",
+      "source": "phrase",
+      "number": 69,
+      "titleEn": "Ahead of schedule...",
+      "titleZh": "進度超前",
+      "usage": "用來表達「進度超前」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Thanks to the automated AI tools we implemented, the project was completed three days ahead of schedule.",
+          "zh": "多虧了我們導入的自動化 AI 工具，該專案比原定計劃提前了三天完成。",
+          "scene": "工作"
+        },
+        {
+          "en": "We finished packing for our transpacific flight ahead of schedule, so we can relax tonight.",
+          "zh": "我們提前完成了飛越太平洋航班的行李打包，所以今晚可以好好放鬆了。",
+          "scene": "生活"
+        },
+        {
+          "en": "The core infrastructure backend deployment went smoothly and finished well ahead of schedule.",
+          "zh": "核心基礎設施的後端部署進展順利，而且大大的超前進度完成。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-070",
+      "source": "phrase",
+      "number": 70,
+      "titleEn": "Right off the bat...",
+      "titleZh": "一開始/立刻/一上來就...",
+      "usage": "用來表達「一開始/立刻/一上來就...」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "When we checked into the hotel in Los Angeles, we noticed the amazing view right off the bat.",
+          "zh": "當我們入住洛杉磯的飯店時，一上來就立刻注意到了那絕佳的窗外美景。",
+          "scene": "生活"
+        },
+        {
+          "en": "Right off the bat, the new director made it clear that he wanted to optimize our current workflow.",
+          "zh": "新主管一上任，立刻就明確表示他想要優化我們目前的工作流程。",
+          "scene": "工作"
+        },
+        {
+          "en": "In the interview, she impressed the evaluation panel right off the bat with her extensive portfolio.",
+          "zh": "在面試中，她一開始就憑藉其豐富的作品集，給評估小組留下了深刻的印象。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-071",
+      "source": "phrase",
+      "number": 71,
+      "titleEn": "From scratch...",
+      "titleZh": "從頭開始/從零開始",
+      "usage": "用來表達「從頭開始/從零開始」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The template didn’t meet our needs, so we decided to design the Next.js interactive framework from scratch.",
+          "zh": "模板不符合我們的需求，所以我們決定從零開始設計這個 Next.js 互動式框架。",
+          "scene": "工作"
+        },
+        {
+          "en": "He didn’t use any prepared sauce; he made the entire Italian dish completely from scratch.",
+          "zh": "他沒有用任何現成的醬料，完全是從零開始親手做出這整道義大利料理。",
+          "scene": "生活"
+        },
+        {
+          "en": "Building a brand identity from scratch requires deep market research and clear public relations strategies.",
+          "zh": "從頭開始建立品牌形象，需要深度的市場研究與清晰的公關策略。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-072",
+      "source": "phrase",
+      "number": 72,
+      "titleEn": "In the meantime...",
+      "titleZh": "與此同時/在這段期間內",
+      "usage": "用來表達「與此同時/在這段期間內」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The engineering team is fixing the layout configuration; in the meantime, let's refine the copy.",
+          "zh": "工程團隊正在修正版面配置；與此同時，我們來精煉一下文案。",
+          "scene": "工作"
+        },
+        {
+          "en": "The drone batteries will take an hour to charge; in the meantime, we can scope out the best flight coordinates.",
+          "zh": "無人機電池需要一小時充電；在這段期間內，我們可以先勘查最佳的飛行座標。",
+          "scene": "生活"
+        },
+        {
+          "en": "The director is reviewing the proposal; in the meantime, please keep me in the loop regarding vendor replies.",
+          "zh": "主管正在審查企劃書；在這期間，如果有廠商的回信也請隨時讓我知道進展。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-073",
+      "source": "phrase",
+      "number": 73,
+      "titleEn": "Up to this point...",
+      "titleZh": "到目前為止",
+      "usage": "用來表達「到目前為止」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Up to this point, all test cases for our responsive web utility app have passed successfully.",
+          "zh": "到目前為止，我們這款響應式網頁工具應用的所有測試案例都已成功通過。",
+          "scene": "工作"
+        },
+        {
+          "en": "Up to this point, our trip through the National Parks has been absolutely breathtaking.",
+          "zh": "到目前為止，我們這趟國家公園之旅精采絕倫，美景真的令人屏息。",
+          "scene": "生活"
+        },
+        {
+          "en": "Up to this point, we haven't received any official confirmation from the venue coordinator.",
+          "zh": "到目前為止，我們還沒有收到來自場地協調窗口的任何官方確認。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-074",
+      "source": "phrase",
+      "number": 74,
+      "titleEn": "Sooner or later...",
+      "titleZh": "遲早...",
+      "usage": "用來表達「遲早...」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "If you keep staying up late editing videos, sooner or later your health is going to suffer.",
+          "zh": "如果你一直熬夜剪影片，遲早身體會吃不消的。",
+          "scene": "生活"
+        },
+        {
+          "en": "Technology frameworks change fast; sooner or later we will have to migrate this system to Next.js.",
+          "zh": "技術框架更迭得很快，我們遲早得把這個系統遷移到 Next.js。",
+          "scene": "工作"
+        },
+        {
+          "en": "Hard work pays off; if you stay committed, sooner or later you will achieve your career goals.",
+          "zh": "一分耕耘一分收穫；只要你堅持投入，遲早會實現你的職涯目標。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-075",
+      "source": "phrase",
+      "number": 75,
+      "titleEn": "All of a sudden...",
+      "titleZh": "突然之間",
+      "usage": "用來表達「突然之間」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We were walking down the street when, all of a sudden, it started pouring down rain.",
+          "zh": "我們正走在街上，突然之間，天就下起了傾盆大雨。",
+          "scene": "生活"
+        },
+        {
+          "en": "The server traffic spiked all of a sudden, causing a temporary lag in our web application interface.",
+          "zh": "伺服器的流量突然暴增，導致我們的網頁應用程式介面出現了暫時性的卡頓。",
+          "scene": "工作"
+        },
+        {
+          "en": "My drone lost its GPS coordinate lock all of a sudden, so I had to trigger the manual return home.",
+          "zh": "我的無人機突然間失去了 GPS 座標定位鎖定，所以我不得不啟動手動返航。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-076",
+      "source": "phrase",
+      "number": 76,
+      "titleEn": "Time is running out for...",
+      "titleZh": "做...的時間快不夠了/迫在眉睫",
+      "usage": "用來表達「做...的時間快不夠了/迫在眉睫」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The exhibition opens next month; time is running out for the final layout data analysis.",
+          "zh": "展覽下個月就要開幕了，留給最終版面數據分析的時間已經快不夠了。",
+          "scene": "工作"
+        },
+        {
+          "en": "The early-bird ticket discount ends tonight; time is running out for us to book our flights.",
+          "zh": "早鳥機票優惠今晚截止，我們訂機票的時間快不夠了。",
+          "scene": "生活"
+        },
+        {
+          "en": "Time is running out for the public relations department to draft the crisis management response.",
+          "zh": "公關部門撰寫危機管理回應的時間已經迫在眉睫。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-077",
+      "source": "phrase",
+      "number": 77,
+      "titleEn": "On a regular basis...",
+      "titleZh": "定期地/常態性地",
+      "usage": "用來表達「定期地/常態性地」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I make sure to back up all my raw photography and media files on a regular basis.",
+          "zh": "我確保自己會定期備份我所有的攝影原檔與媒體檔案。",
+          "scene": "生活"
+        },
+        {
+          "en": "Our department syncs up with the technical development team on a regular basis to prevent layout bugs.",
+          "zh": "我們部門常態性地與技術開發團隊進行進度對齊，以防止出現排版錯誤。",
+          "scene": "工作"
+        },
+        {
+          "en": "She practices yoga on a regular basis to maintain her physical flexibility and mental focus.",
+          "zh": "她定期練習瑜伽，以保持身體的柔軟度與專注力。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-078",
+      "source": "phrase",
+      "number": 78,
+      "titleEn": "At your earliest convenience...",
+      "titleZh": "在您方便時儘快...",
+      "usage": "商務書信結尾萬用客套語",
+      "note": "商務書信結尾萬用客套語",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Please review the venue budget chart attached below and sign off on it at your earliest convenience.",
+          "zh": "請審閱下方附帶的場地預算表，並在您方便時儘快簽核。",
+          "scene": "工作"
+        },
+        {
+          "en": "Could you please update us on the vendor coordination timeline at your earliest convenience?",
+          "zh": "能否請您在方便時儘快向我們更新廠商協調的時間表？",
+          "scene": "工作"
+        },
+        {
+          "en": "Please let me know your availability for a short follow-up call at your earliest convenience.",
+          "zh": "請在您方便時儘快讓我知道您何時有空進行一次簡短的跟進通話。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-079",
+      "source": "phrase",
+      "number": 79,
+      "titleEn": "Down the road...",
+      "titleZh": "在未來/以後的日子裡",
+      "usage": "用來表達「在未來/以後的日子裡」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Learning Tailwind CSS now will definitely make building interactive layout projects much easier down the road.",
+          "zh": "現在學好 Tailwind CSS，絕對能讓你在未來建立互動式版面專案時變得容易許多。",
+          "scene": "生活"
+        },
+        {
+          "en": "This technical setup might look complex now, but it will prevent serious configuration issues down the road.",
+          "zh": "這個技術設定現在看起來可能很複雜，但它可以防止我們在未來遇到嚴重的配置問題。",
+          "scene": "工作"
+        },
+        {
+          "en": "We plan to expand our travel portfolio to Europe down the road, but for now, we focus on US trips.",
+          "zh": "我們計畫在未來把旅遊足跡擴展到歐洲，但目前我們還是先專注於美國之行。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-080",
+      "source": "phrase",
+      "number": 80,
+      "titleEn": "It takes [time/effort] to...",
+      "titleZh": "做...需要花費[時間/精力]",
+      "usage": "用來表達「做...需要花費[時間/精力]」。",
+      "note": "",
+      "category": "時間、頻率與效率管理",
+      "categoryId": "phrase-cat-4",
+      "categoryNo": 4,
+      "tags": [
+        "時間、頻率與效率管理",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It takes a lot of patience and practice to master smooth drone cinematic coordination.",
+          "zh": "要熟練掌握流暢的無人機電影感鏡頭協調，需要大量的耐心與練習。",
+          "scene": "生活"
+        },
+        {
+          "en": "It takes thorough analysis and cross-department collaboration to manage a permanent exhibition renovation.",
+          "zh": "管理一個常設展廳的改造專案，需要縝密的分析與跨部門的通力合作。",
+          "scene": "工作"
+        },
+        {
+          "en": "It takes time to adapt to a new technical framework, but the efficiency boost is worth it.",
+          "zh": "適應一個新的技術框架需要花費一些時間，但隨之而來的效率提升是非常值得的。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-081",
+      "source": "phrase",
+      "number": 81,
+      "titleEn": "What if...?",
+      "titleZh": "如果...該怎麼辦？",
+      "usage": "用來表達「如果...該怎麼辦？」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "What if it rains during our outdoor drone flying session tomorrow? Do we have a backup venue?",
+          "zh": "如果明天我們戶外空拍時下雨該怎麼辦？我們有備用場地嗎？",
+          "scene": "生活"
+        },
+        {
+          "en": "What if the server traffic spikes during the exhibition's opening hour? Is the cloud layout ready?",
+          "zh": "如果展覽開幕那一小時伺服器流量暴增該怎麼辦？雲端配置準備好了嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "What if the primary hardware vendor misses the shipping deadline?",
+          "zh": "如果我們的主要硬體廠商錯過了出貨截止日期該怎麼辦？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-082",
+      "source": "phrase",
+      "number": 82,
+      "titleEn": "Even if...",
+      "titleZh": "即使/即便...",
+      "usage": "用來表達「即使/即便...」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Even if I have to fly across the Pacific Ocean on a long transpacific flight, I won't miss the sporting event.",
+          "zh": "即使必須搭乘長途跨太平洋航班，我也絕不會錯過那場體育盛事。",
+          "scene": "生活"
+        },
+        {
+          "en": "Even if we implement AI tools to automate the workflow, we still need human editors to review the final press release.",
+          "zh": "即便我們導入 AI 工具來自動化工作流程，我們仍然需要人工編輯來審查最終的新聞稿。",
+          "scene": "工作"
+        },
+        {
+          "en": "Even if the camera equipment is expensive, it’s a worthy investment for professional landscape photography.",
+          "zh": "即使相機設備很貴，但對於專業風景攝影來說，這是一筆很值得的投資。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-083",
+      "source": "phrase",
+      "number": 83,
+      "titleEn": "In case of... / In case that...",
+      "titleZh": "萬一/以防...",
+      "usage": "In case of 後面接名詞；In case that 後面接完整句子",
+      "note": "In case of 後面接名詞；In case that 後面接完整句子",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Please take a spare battery along in case that the main one runs out of juice during the photo shoot.",
+          "zh": "拍照時請帶上一顆備用電池，以防主電池在拍攝過程中沒電。",
+          "scene": "生活"
+        },
+        {
+          "en": "In case of an emergency system crash, the backend configuration file will automatically trigger a data backup.",
+          "zh": "萬一發生緊急系統當機，後端設定檔會自動觸發數據備份。",
+          "scene": "工作"
+        },
+        {
+          "en": "Let’s print out some physical event maps in case the venue's interactive network layout glitches.",
+          "zh": "我們列印一些實體活動地圖吧，以防會場的互動網路配置出現故障。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-084",
+      "source": "phrase",
+      "number": 84,
+      "titleEn": "Provided that...",
+      "titleZh": "只要/在...的條件下",
+      "usage": "語氣比 if 更具備條件約束感",
+      "note": "語氣比 if 更具備條件約束感",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We can launch the Next.js interactive framework next week, provided that the technical team passes all test cases.",
+          "zh": "只要技術團隊通過所有測試案例，我們下週就可以上線這個 Next.js 互動式框架。",
+          "scene": "工作"
+        },
+        {
+          "en": "I’m happy to go on a road trip, provided that we check the drone flight coordinates beforehand.",
+          "zh": "只要我們事先確認好無人機的飛行座標，我很樂意去公路旅行。",
+          "scene": "生活"
+        },
+        {
+          "en": "The budget adjustment will be approved, provided that you present a thorough data analysis of the exhibition venue costs.",
+          "zh": "只要你提交一份關於展覽場地成本的縝密數據分析，預算調整就會獲得批准。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-085",
+      "source": "phrase",
+      "number": 85,
+      "titleEn": "Unless...",
+      "titleZh": "除非...否則",
+      "usage": "用來表達「除非...否則」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Unless we book the attraction tickets on Klook today, we won't be able to get a slot for the weekend tour.",
+          "zh": "除非我們今天就在 Klook 上把景點門票訂好，否則週末的導覽行程我們絕對拿不到名額。",
+          "scene": "生活"
+        },
+        {
+          "en": "Unless we streamline our communication channel, the exhibition project will fall behind schedule.",
+          "zh": "除非我們精簡溝通管道，否則展覽專案的進度將會落後。",
+          "scene": "工作"
+        },
+        {
+          "en": "I won't buy that new DJI remote controller unless they offer a substantial early-bird discount.",
+          "zh": "除非他們提供大幅度的早鳥優惠，否則我不會買那款新的 DJI 遙控器。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-086",
+      "source": "phrase",
+      "number": 86,
+      "titleEn": "Whether... or not...",
+      "titleZh": "不論是否... / 不管有沒有...",
+      "usage": "用來表達「不論是否... / 不管有沒有...」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We must deliver the public relations response by noon, whether the director signs off on it or not.",
+          "zh": "不論主管最終有沒有簽核，我們中午前都必須發出這份公關回應。",
+          "scene": "工作"
+        },
+        {
+          "en": "Whether it is a sunny day or not, I plan to spend my Saturday morning testing the responsive web app's layout.",
+          "zh": "不論明天是不是晴天，我理當都計劃把週六上午花在測試這款響應式網頁應用的排版上。",
+          "scene": "生活"
+        },
+        {
+          "en": "The anniversary event will take place whether the external vendors agree to the terms or not.",
+          "zh": "不管外部廠商是否同意這些條款，週年慶活動都將如期舉行。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-087",
+      "source": "phrase",
+      "number": 87,
+      "titleEn": "If only I had...",
+      "titleZh": "要是那時我能...該有多好",
+      "usage": "對過去表達強烈遺憾的虛擬語氣，後面接過去完成式 had+V-ed",
+      "note": "對過去表達強烈遺憾的虛擬語氣，後面接過去完成式 had+V-ed",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "If only I had checked the hardware compatibility before purchasing that specific drone controller model!",
+          "zh": "要是那時我在購買之前，有先檢查那款特定的無人機遙控器型號的硬體相容性該有多好！",
+          "scene": "生活"
+        },
+        {
+          "en": "If only we had backed up the main server configuration files before the system upgrade!",
+          "zh": "要是我們在系統升級前，有先備份主伺服器的設定檔該有多好！",
+          "scene": "工作"
+        },
+        {
+          "en": "If only I had applied for the real estate salesperson course exam earlier, I wouldn't have to wait until next year.",
+          "zh": "要是那時我能早點報名不動產營業員的課程考試該有多好，我就不用等到明年了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-088",
+      "source": "phrase",
+      "number": 88,
+      "titleEn": "It’s highly possible that...",
+      "titleZh": "非常有可能...",
+      "usage": "用來表達「非常有可能...」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Given the positive feedback, it’s highly possible that the board will approve the permanent exhibition renovation budget.",
+          "zh": "鑑於正面回饋，董事會非常有可能會批准常設展廳的改造預算。",
+          "scene": "工作"
+        },
+        {
+          "en": "It’s highly possible that we will run into jet lag after flying back from Los Angeles to Taipei.",
+          "zh": "從洛杉磯飛回台北後，我們非常有可能會遇到時差問題。",
+          "scene": "生活"
+        },
+        {
+          "en": "It’s highly possible that the front-end layout bug is related to the latest Tailwind CSS update.",
+          "zh": "前端的排版錯誤非常有可能與最新一次的 Tailwind CSS 更新有關。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-089",
+      "source": "phrase",
+      "number": 89,
+      "titleEn": "There is a chance that...",
+      "titleZh": "有機會/有可能...",
+      "usage": "用來表達「有機會/有可能...」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "There is a chance that the national park will be crowded this weekend, so let’s head out early.",
+          "zh": "這週末國家公園有可能會人滿為患，所以我們早點出發吧。",
+          "scene": "生活"
+        },
+        {
+          "en": "There is a chance that the client might ask for a complete live demonstration of the interactive app tomorrow.",
+          "zh": "明天客戶有可能會要求對這款互動應用進行完整的現場實機展示。",
+          "scene": "工作"
+        },
+        {
+          "en": "There is a chance that he already fixed the configuration glitch; let’s sync up with him.",
+          "zh": "他有可能已經把設定故障給修好了，我們跟他對齊一下進度吧。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-090",
+      "source": "phrase",
+      "number": 90,
+      "titleEn": "Under no circumstances should...",
+      "titleZh": "在任何情況下都不應該...",
+      "usage": "強烈否定倒裝句，助動詞 should 挪到主詞前面",
+      "note": "強烈否定倒裝句，助動詞 should 挪到主詞前面",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Under no circumstances should we share the unreleased exhibition layout data with external agencies.",
+          "zh": "在任何情況下，我們都不應該將尚未公開的展覽規劃數據透露給外部機構。",
+          "scene": "工作"
+        },
+        {
+          "en": "Under no circumstances should you operate a drone near an airport or inside restricted air coordinates.",
+          "zh": "在任何情況下，你都不應該在機場附近或管制航空座標區內操作無人機。",
+          "scene": "生活"
+        },
+        {
+          "en": "Under no circumstances should the team deploy code directly to production without running manual test cases.",
+          "zh": "在任何情況下，團隊都不應該在沒有執行手動測試案例的情況下，將程式碼直接部署到正式環境。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-091",
+      "source": "phrase",
+      "number": 91,
+      "titleEn": "On the condition that...",
+      "titleZh": "在...的條件下",
+      "usage": "用來表達「在...的條件下」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The director signed the press release on the condition that we verify the statistics one last time.",
+          "zh": "主管簽核了這份新聞稿，條件是我們必須最後一次核實裡面的統計數據。",
+          "scene": "工作"
+        },
+        {
+          "en": "My wife agreed to go camping on the condition that the venue has proper showering facilities.",
+          "zh": "我老婆答應去露營，條件是營地必須有妥善的盥洗設施。",
+          "scene": "生活"
+        },
+        {
+          "en": "We will sign the contract with the hardware vendor on the condition that they offer free server maintenance for the first year.",
+          "zh": "我們將與硬體廠商簽約，條件是他們第一年必須提供免費的伺服器維護。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-092",
+      "source": "phrase",
+      "number": 92,
+      "titleEn": "Assuming that...",
+      "titleZh": "假設... / 倘若...",
+      "usage": "用來表達「假設... / 倘若...」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Assuming that the project budget remains unchanged, we need to carefully prioritize our marketing spending.",
+          "zh": "假設專案預算保持不變，我們需要非常謹慎地安排我們的行銷支出優先順序。",
+          "scene": "工作"
+        },
+        {
+          "en": "Assuming that the weather stays clear, we should be able to capture some stunning sunset photography tonight.",
+          "zh": "倘若天氣保持晴朗，我們今晚應該能捕捉到一些絕美的日落落日美景。",
+          "scene": "生活"
+        },
+        {
+          "en": "Assuming that the responsive web app design gets approved today, when can we start coding the front-end?",
+          "zh": "假設響應式網頁應用程式的設計今天獲得批准，我們什麼時候可以開始寫前端程式碼？",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-093",
+      "source": "phrase",
+      "number": 93,
+      "titleEn": "Had it not been for...",
+      "titleZh": "若不是因為那時有...",
+      "usage": "過去虛擬語氣倒裝，等同於 If it had not been for...",
+      "note": "過去虛擬語氣倒裝，等同於 If it had not been for...",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Had it not been for your timely data analysis, we would have chosen the wrong supplier for the exhibition venue hardware.",
+          "zh": "若不是因為你那時及時做了數據分析，我們展覽場地的硬體恐怕就選錯供應商了。",
+          "scene": "工作"
+        },
+        {
+          "en": "Had it not been for the detailed online checklist, I would have forgotten to pack my drone charger for the trip.",
+          "zh": "若不是因為那份詳細的網路清單，我這次旅行差點就忘了帶無人機充電器。",
+          "scene": "生活"
+        },
+        {
+          "en": "Had it not been for the automated AI tools, we couldn't have completed the workflow optimization ahead of schedule.",
+          "zh": "若不是因為有自動化 AI 工具，我們根本不可能提前完成工作流程的優化。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-094",
+      "source": "phrase",
+      "number": 94,
+      "titleEn": "It is bound to...",
+      "titleZh": "勢必會/注定會...",
+      "usage": "後面接原形動詞",
+      "note": "後面接原形動詞",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "With so many international flights arriving, the Taipei airport is bound to be busy this Friday evening.",
+          "zh": "有這麼多國際航班降落，台北機場這週五晚上勢必會非常繁忙。",
+          "scene": "生活"
+        },
+        {
+          "en": "A permanent exhibition hall renovation is bound to experience some unexpected challenges during the setup phase.",
+          "zh": "常設展廳的改造專案在佈置階段，勢必會遇到一些意料之外的挑戰。",
+          "scene": "工作"
+        },
+        {
+          "en": "If you keep learning Next.js and Tailwind CSS daily, your development workflow is bound to become more efficient.",
+          "zh": "如果你每天堅持學習 Next.js 和 Tailwind CSS，你的開發流程勢必會變得更有效率。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-095",
+      "source": "phrase",
+      "number": 95,
+      "titleEn": "There’s a thin line between...",
+      "titleZh": "...與...之間只有一線之隔",
+      "usage": "用來表達「...與...之間只有一線之隔」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "There’s a thin line between taking risks for creative videography and being reckless with expensive drone equipment.",
+          "zh": "為了創意錄影去冒險，與對昂貴的無人機設備粗心大意之間，往往只有一線之隔。",
+          "scene": "生活"
+        },
+        {
+          "en": "In public relations, there's a thin line between being persistent with media contacts and being annoying.",
+          "zh": "在公關領域中，對媒體窗口保持堅持與讓人感到厭煩之間，往往只有一線之隔。",
+          "scene": "工作"
+        },
+        {
+          "en": "There’s a thin line between a highly detailed layout configuration and an over-complicated user interface.",
+          "zh": "細緻的版面配置與過於複雜的使用者介面之間，通常只有一線之隔。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-096",
+      "source": "phrase",
+      "number": 96,
+      "titleEn": "In the event of...",
+      "titleZh": "萬一發生...事件時",
+      "usage": "後面通常接名詞，比 in case of 更正式，常用於條款或公告",
+      "note": "後面通常接名詞，比 in case of 更正式，常用於條款或公告",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "In the event of a severe system crash, please notify the technical coordinator immediately via Slack.",
+          "zh": "萬一發生嚴重的系統當機事件，請立即透過 Slack 通知技術窗口。",
+          "scene": "工作"
+        },
+        {
+          "en": "In the event of heavy rain, the outdoor photography session will be rescheduled to the following Sunday.",
+          "zh": "萬一遇到大雨，戶外攝影行程將改期至下週日。",
+          "scene": "生活"
+        },
+        {
+          "en": "In the event of a budget deficit, we will have to scale down the anniversary event planning.",
+          "zh": "萬一發生預算赤字，我們將不得不縮減週年慶活動的規劃規模。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-097",
+      "source": "phrase",
+      "number": 97,
+      "titleEn": "As if / As though...",
+      "titleZh": "彷彿/就像是...一樣",
+      "usage": "用來表達「彷彿/就像是...一樣」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "He pilots the drone so smoothly, as if he were a professional aviator with years of experience.",
+          "zh": "他操控無人機非常流暢，彷彿他是一位擁有多年經驗的專業飛行員一樣。",
+          "scene": "生活"
+        },
+        {
+          "en": "The new front-end framework runs so incredibly fast, as though the server page configuration had zero latency.",
+          "zh": "這個新的前端框架運作得驚人地快，就像是伺服器頁面配置完全沒有延遲一樣。",
+          "scene": "工作"
+        },
+        {
+          "en": "She talked about the national park's scenery as if she had visited the place dozens of times.",
+          "zh": "她談起那個國家公園的風景，就好像她已經去過那裡幾十次了一樣。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-098",
+      "source": "phrase",
+      "number": 98,
+      "titleEn": "It's no wonder that...",
+      "titleZh": "難怪/不足為奇的是...",
+      "usage": "用來表達「難怪/不足為奇的是...」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "They used professional-grade cinema software to edit the travel video; it's no wonder that the quality looks so stunning.",
+          "zh": "他們用專業級的電影軟體來剪輯這部旅遊影片，難怪畫質看起來這麼震撼。",
+          "scene": "生活"
+        },
+        {
+          "en": "The interactive web app utilizes Next.js for server-side rendering; it's no wonder that it loads so instantly.",
+          "zh": "這款互動網頁應用利用了 Next.js 進行伺服器端渲染，難怪載入速度如此即時。",
+          "scene": "工作"
+        },
+        {
+          "en": "He practiced the mock course exam questions every night; it’s no wonder that he passed the salesperson test easily.",
+          "zh": "他每天晚上都練習模擬考題，難怪他能輕鬆通過營業員測驗。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-099",
+      "source": "phrase",
+      "number": 99,
+      "titleEn": "Given that...",
+      "titleZh": "考慮到/鑑於...的實際情況",
+      "usage": "用來表達「考慮到/鑑於...的實際情況」。",
+      "note": "",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Given that the pre-registration numbers exceeded our expectation, we should secure a larger venue for the event.",
+          "zh": "考慮到預約報名的人數超出了我們的預期，我們應該為活動爭取一個更大的場地。",
+          "scene": "工作"
+        },
+        {
+          "en": "Given that the transpacific flight takes over eleven hours, I should pack a comfortable travel pillow.",
+          "zh": "鑑於跨太平洋航班需要搭乘十一個多小時，我應該帶上一個舒適的旅行枕。",
+          "scene": "生活"
+        },
+        {
+          "en": "Given that the public relations department is short-staffed, we should prioritize the core media contacts first.",
+          "zh": "考慮到公關部門目前人手不足，我們應該優先處理核心媒體窗口。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-100",
+      "source": "phrase",
+      "number": 100,
+      "titleEn": "Lest...",
+      "titleZh": "免得/以免...",
+      "usage": "後面子句動詞通常用原形動詞（因為省略了 should）",
+      "note": "後面子句動詞通常用原形動詞（因為省略了 should）",
+      "category": "假設、條件與可能性",
+      "categoryId": "phrase-cat-5",
+      "categoryNo": 5,
+      "tags": [
+        "假設、條件與可能性",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We should double-check the server logic settings lest the responsive app crash during the live demo.",
+          "zh": "我們應該反覆檢查伺服器邏輯設定，以免這款響應式應用在現場實機展示時當機。",
+          "scene": "工作"
+        },
+        {
+          "en": "Back up your photography files onto an external drive lest you lose the raw media data due to a hardware glitch.",
+          "zh": "把你的攝影檔案備份到外接硬碟吧，免得因為硬體故障而失去媒體原檔數據。",
+          "scene": "生活"
+        },
+        {
+          "en": "Let’s sync up with the coordinator today lest there be any misunderstanding regarding the exhibition timeline.",
+          "zh": "我們今天跟窗口對齊一下吧，免得對展覽的時間軸產生任何誤解。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-101",
+      "source": "phrase",
+      "number": 101,
+      "titleEn": "We are facing...",
+      "titleZh": "我們正面臨...",
+      "usage": "用來表達「我們正面臨...」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We are facing an unexpected technical bottleneck regarding the data visualization interface of our web app.",
+          "zh": "我們目前在網頁應用的數據視覺化介面上，正面臨一個意料之外的技术瓶頸。",
+          "scene": "工作"
+        },
+        {
+          "en": "We are facing strict budget constraints for the upcoming permanent exhibition renovation project.",
+          "zh": "針對即將到來的常設展廳改造專案，我們正面臨嚴格的預算限制。",
+          "scene": "工作"
+        },
+        {
+          "en": "We are facing severe traffic congestion due to the holiday weekend; we might arrive a bit late.",
+          "zh": "因為週末連假的關係，我們正面臨嚴重的交通堵塞；可能會稍微晚到一點。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-102",
+      "source": "phrase",
+      "number": 102,
+      "titleEn": "It’s not worth...",
+      "titleZh": "做...是不值得的",
+      "usage": "注意：後面接動名詞 V-ing 或名詞",
+      "note": "注意：後面接動名詞 V-ing 或名詞",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It’s not worth staying up all night editing that travel vlog if it's going to affect your health.",
+          "zh": "如果熬夜剪輯那部旅遊影片會影響你的健康，那這麼做是一點都不值得的。",
+          "scene": "生活"
+        },
+        {
+          "en": "It’s not worth rushing the front-end deployment if the user interface layout isn't fully ready yet.",
+          "zh": "如果使用者介面的版面配置還沒完全準備好，那倉促進行前端部署是不值得的。",
+          "scene": "工作"
+        },
+        {
+          "en": "It's not worth arguing over such a minor misunderstanding; let's just move on.",
+          "zh": "為了一個這麼小的誤會爭吵是不值得的；我們算了吧。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-103",
+      "source": "phrase",
+      "number": 103,
+      "titleEn": "We need to weigh the pros and cons of...",
+      "titleZh": "我們需要權衡...的利弊",
+      "usage": "用來表達「我們需要權衡...的利弊」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We need to weigh the pros and cons of migrating our entire system framework to Next.js this month.",
+          "zh": "我們需要權衡一下，在這個月將整個系統框架遷移到 Next.js 的利與弊。",
+          "scene": "工作"
+        },
+        {
+          "en": "Before purchasing the high-end cinema camera, we need to weigh the pros and cons of such a big investment.",
+          "zh": "在購買高階電影相機之前，我們需要好好權衡一下這筆龐大投資的利弊。",
+          "scene": "生活"
+        },
+        {
+          "en": "We need to weigh the pros and cons of outsourcing the graphic design work to an external agency.",
+          "zh": "我們需要權衡一下，把平面設計工作外包給外部機構的利與弊。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-104",
+      "source": "phrase",
+      "number": 104,
+      "titleEn": "The major drawback of... is...",
+      "titleZh": "...的主要缺點是...",
+      "usage": "用來表達「...的主要缺點是...」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The major drawback of this compact drone model is its limited battery life in high-wind conditions.",
+          "zh": "這款輕巧型無人機的主要缺點，是在強風環境下的電池續航力非常有限。",
+          "scene": "生活"
+        },
+        {
+          "en": "The major drawback of our current database configuration is the slow query performance during peak traffic hours.",
+          "zh": "我們目前資料庫配置的主要缺點，是在高流量尖峰時段的查詢效能較慢。",
+          "scene": "工作"
+        },
+        {
+          "en": "The major drawback of that exhibition venue is the lack of convenient parking facilities for visitors.",
+          "zh": "那個展覽場地的主要缺點，是缺乏供參觀者使用的便利停車設施。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-105",
+      "source": "phrase",
+      "number": 105,
+      "titleEn": "To cope with...",
+      "titleZh": "為了應付/處理...",
+      "usage": "用來表達「為了應付/處理...」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "To cope with the high volume of media inquiries, the public relations department drafted a comprehensive response sheet.",
+          "zh": "為了應付大量的媒體詢問，公關部門起草了一份完善的回應對策表。",
+          "scene": "工作"
+        },
+        {
+          "en": "To cope with the severe jet lag after our transpacific flight, we decided to rest early tonight.",
+          "zh": "為了處理飛越太平洋航班後的嚴重時差，我們決定今晚早點休息。",
+          "scene": "生活"
+        },
+        {
+          "en": "To cope with the sudden increase in server load, the technical team expanded the cloud configuration capacity.",
+          "zh": "為了應付突如其來的伺服器負載增加，技術團隊擴大了雲端配置的容量。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-106",
+      "source": "phrase",
+      "number": 106,
+      "titleEn": "It has a negative impact on...",
+      "titleZh": "這對...產生了負面影響",
+      "usage": "用來表達「這對...產生了負面影響」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The continuous delays in the layout design have a negative impact on the entire project timeline.",
+          "zh": "版面設計的不斷延誤，對整個專案的時間軸產生了負面影響。",
+          "scene": "工作"
+        },
+        {
+          "en": "Lack of proper sleep has a negative impact on your daily concentration levels and programming efficiency.",
+          "zh": "缺乏充足的睡眠，會對你每天的專案專注度與寫程式的效率產生負面影響。",
+          "scene": "生活"
+        },
+        {
+          "en": "The sudden change in vendor policy has a negative impact on our hardware procurement budget.",
+          "zh": "廠商政策的突然改變，對我們的硬體採購預算產生了負面影響。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-107",
+      "source": "phrase",
+      "number": 107,
+      "titleEn": "We are running into a bottleneck with...",
+      "titleZh": "我們在...上遇到了瓶頸",
+      "usage": "用來表達「我們在...上遇到了瓶頸」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We are running into a bottleneck with the data analysis logic of the responsive utility application.",
+          "zh": "我們目前在這款響應式工具應用的數據分析邏輯上，遇到了瓶頸。",
+          "scene": "工作"
+        },
+        {
+          "en": "The event planning team is running into a bottleneck with finding a suitable theme for the anniversary celebration.",
+          "zh": "活動企劃團隊目前在尋找適合週年慶祝活動的主題上，遇到了瓶頸。",
+          "scene": "工作"
+        },
+        {
+          "en": "We are running into a bottleneck with our storage space; we need to back up old files to an external drive.",
+          "zh": "我們的儲存空間遇到了瓶頸；需要把舊檔案備份到外接硬碟了。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-108",
+      "source": "phrase",
+      "number": 108,
+      "titleEn": "The root cause of the problem is...",
+      "titleZh": "問題的根本原因在於...",
+      "usage": "用來表達「問題的根本原因在於...」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The root cause of the problem is a conflict between the current layout stylesheet and the Tailwind CSS setup.",
+          "zh": "問題的根本原因，在於目前的版面樣式表與 Tailwind CSS 設定之間產生了衝突。",
+          "scene": "工作"
+        },
+        {
+          "en": "The root cause of the problem is the lack of direct communication between the coordinator and the technical team.",
+          "zh": "問題的根本原因，在於窗口窗口與技術團隊之間缺乏直接的溝通。",
+          "scene": "工作/生活"
+        },
+        {
+          "en": "The root cause of the drone glitch was an uncalibrated compass before the flight session.",
+          "zh": "無人機故障的根本原因，在於飛行前羅盤沒有進行校準。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-109",
+      "source": "phrase",
+      "number": 109,
+      "titleEn": "We need to come up with...",
+      "titleZh": "我們需要想出/提出[解決方案]",
+      "usage": "用來表達「我們需要想出/提出[解決方案]」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We need to come up with an alternative promotional strategy to boost attendance for the permanent exhibition hall.",
+          "zh": "我們需要想出一個替代的宣傳策略，來提升常設展廳的參觀人數。",
+          "scene": "工作"
+        },
+        {
+          "en": "We need to come up with a practical fix for this front-end layout bug before tomorrow's live demonstration.",
+          "zh": "在明天現場實機展示之前，我們需要提出一個針對這個前端排版錯誤的實用修正方案。",
+          "scene": "工作"
+        },
+        {
+          "en": "We need to come up with a unique gift idea for our upcoming wedding anniversary celebration.",
+          "zh": "在即將到來的結婚週年慶祝活動前，我們需要想出一個特別的禮物點子。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-110",
+      "source": "phrase",
+      "number": 110,
+      "titleEn": "It serves as a reminder that...",
+      "titleZh": "這起到了一個提醒的作用，讓我們知道...",
+      "usage": "用來表達「這起到了一個提醒的作用，讓我們知道...」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "This system glitch serves as a reminder that we must always back up our server configuration data regularly.",
+          "zh": "這次系統故障起到了一個提醒的作用，讓我們知道平時必須定期備份伺服器的設定數據。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "Losing the drone connection serves as a reminder that we should never fly inside restricted coordinates.",
+          "zh": "失去無人機連線的經驗提醒了我們，絕對不可以進入管制座標區內飛行。",
+          "scene": "生活"
+        },
+        {
+          "en": "The client’s feedback serves as a reminder that clear user experience logic is more important than fancy design layouts.",
+          "zh": "客戶的回饋提醒了我們，清晰的使用者經驗邏輯比華麗的設計排版更為重要。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-111",
+      "source": "phrase",
+      "number": 111,
+      "titleEn": "To make matters worse...",
+      "titleZh": "更糟的是/雪上加霜的是...",
+      "usage": "用來表達「更糟的是/雪上加霜的是...」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "My spare camera battery ran out, and to make matters worse, it started to rain heavily during our outdoor shoot.",
+          "zh": "我的備用相機電池沒電了，更糟的是，戶外拍攝時竟然開始下起了大雨。",
+          "scene": "生活"
+        },
+        {
+          "en": "The primary developer missed the layout deadline, and to make matters worse, the server went down this morning.",
+          "zh": "主力開發工程師錯過了版面截止日期，雪上加霜的是，伺服器今天早上還當機了。",
+          "scene": "工作"
+        },
+        {
+          "en": "The flight was delayed, and to make matters worse, the airport lost one of our heavy equipment bags.",
+          "zh": "班機延誤了，更糟的是，機場還弄丟了我們一個裝有重型設備的行李袋。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-112",
+      "source": "phrase",
+      "number": 112,
+      "titleEn": "There is room for improvement in...",
+      "titleZh": "...還有改進的空間",
+      "usage": "用來表達「...還有改進的空間」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "While the interactive interface runs smoothly, there is room for improvement in its load optimization speed.",
+          "zh": "雖然互動介面運作順暢，但在其載入優化速度上仍有改進的空間。",
+          "scene": "工作"
+        },
+        {
+          "en": "There is room for improvement in the cross-department workflow coordination between public relations and marketing.",
+          "zh": "公關部門與行銷部門之間的跨部門工作流程協調，顯然還有改進的空間。",
+          "scene": "工作"
+        },
+        {
+          "en": "My framing technique is fine, but there is still room for improvement in my color grading skills for videography.",
+          "zh": "我的構圖技巧還算可以，但在影像製作的調色技巧上，依然還有很大的進步空間。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-113",
+      "source": "phrase",
+      "number": 113,
+      "titleEn": "It poses a threat to...",
+      "titleZh": "這對...構成了威脅/造成了風險",
+      "usage": "用來表達「這對...構成了威脅/造成了風險」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The unpatched security flaw in the database configuration poses a threat to our user data privacy.",
+          "zh": "資料庫設定中未修補的安全漏洞，對我們的使用者數據隱私構成了威脅。",
+          "scene": "工作"
+        },
+        {
+          "en": "Operating a drone in strong gusts poses a threat to the safety of both the equipment and the bystanders.",
+          "zh": "在強陣風中操作無人機，對設備以及周遭旁人的安全都會構成威脅。",
+          "scene": "生活"
+        },
+        {
+          "en": "The delayed hardware shipping timeline poses a threat to the exhibition's opening date.",
+          "zh": "延誤的硬體出貨時程，對展覽的開幕日期造成了風險。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-114",
+      "source": "phrase",
+      "number": 114,
+      "titleEn": "We need to bridge the gap between...",
+      "titleZh": "我們需要縮短/消除...之間的差距與隔閡",
+      "usage": "用來表達「我們需要縮短/消除...之間的差距與隔閡」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We need to bridge the gap between the technical engineering team and the event planning coordinators.",
+          "zh": "我們需要消除技術工程團隊與活動企劃窗口之間的溝通隔閡。",
+          "scene": "工作"
+        },
+        {
+          "en": "The new user tutorial is designed to bridge the gap between advanced web applications and non-technical users.",
+          "zh": "這款新的新手教學旨在縮短高階網頁應用與非技術使用者之間的易用性差距。",
+          "scene": "工作"
+        },
+        {
+          "en": "We need to bridge the gap between our conceptual design layout and the client's actual budget expectations.",
+          "zh": "我們需要拉近我們的概念設計排版與客戶實際預算期望之間的差距。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-115",
+      "source": "phrase",
+      "number": 115,
+      "titleEn": "It’s critical to...",
+      "titleZh": "做...是至關重要的/關鍵的",
+      "usage": "用來表達「做...是至關重要的/關鍵的」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It’s critical to verify the hardware compatibility before deploying the new interactive framework to the exhibition hall.",
+          "zh": "在將新的互動式框架佈署到展覽館之前，核實硬體相容性是至關重要的。",
+          "scene": "工作"
+        },
+        {
+          "en": "It’s critical to monitor the battery temperature levels when flying a drone during hot summer days.",
+          "zh": "在炎熱的夏天操作無人機時，監控電池溫度狀態是關鍵至關重要的。",
+          "scene": "生活"
+        },
+        {
+          "en": "It’s critical to maintain a consistent brand tone across all public relations press releases.",
+          "zh": "在所有公關新聞稿中保持一致的品牌基調，是至關重要的。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-116",
+      "source": "phrase",
+      "number": 116,
+      "titleEn": "We should prioritize...",
+      "titleZh": "我們應該優先考慮/把...排在第一順位",
+      "usage": "用來表達「我們應該優先考慮/把...排在第一順位」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Given the tight deadline, we should prioritize fixing the major backend logic crash over updating user interface colors.",
+          "zh": "鑑於緊迫的截止日期，我們應該優先考慮修復後端核心邏輯崩潰，而不是更新使用者介面的顏色。",
+          "scene": "工作"
+        },
+        {
+          "en": "When planning our itinerary for the Los Angeles trip, we should prioritize booking attraction tickets early.",
+          "zh": "在規劃洛杉磯之行的行程時，我們應該把提早預訂景點門票排在第一順位。",
+          "scene": "生活"
+        },
+        {
+          "en": "We should prioritize the safety review of the interactive installations before welcoming visitors to the permanent exhibition.",
+          "zh": "在迎來常設展參觀者之前，我們應該優先進行互動式裝置的安全審查。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-117",
+      "source": "phrase",
+      "number": 117,
+      "titleEn": "It's easier said than done.",
+      "titleZh": "這說時容易做時難/知易行難",
+      "usage": "用來表達「這說時容易做時難/知易行難」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Automating the entire department workflow using AI tools is easier said than done; it requires thorough planning.",
+          "zh": "利用 AI 工具將整個部門的工作流程自動化，真的是說時容易做時難；這需要周全的規劃。",
+          "scene": "工作"
+        },
+        {
+          "en": "Adjusting your sleep cycle to completely eliminate jet lag is easier said than done.",
+          "zh": "想藉由調整睡眠週期來完全消除時差，真的是知易行難。",
+          "scene": "生活"
+        },
+        {
+          "en": "Building a flawless responsive web layout from scratch is easier said than done for beginner developers.",
+          "zh": "對於初學者來說，從零開始建構一個完美的響應式網頁排版，往往是說時容易做時難。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-118",
+      "source": "phrase",
+      "number": 118,
+      "titleEn": "We are caught in a dilemma over...",
+      "titleZh": "我們在...上陷入了兩難的境地",
+      "usage": "用來表達「我們在...上陷入了兩難的境地」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We are caught in a dilemma over whether to lower the exhibition entrance fee or scale down the event budget.",
+          "zh": "我們正陷入兩難：到底是要調降展覽入場費，還是要縮減活動預算。",
+          "scene": "工作"
+        },
+        {
+          "en": "I am caught in a dilemma over choosing between the superior lens sharpness or the lighter travel tripod setup.",
+          "zh": "我正陷入兩難，不知道該選擇更出色的鏡頭清晰度，還是更輕便的旅行三腳架配置。",
+          "scene": "生活"
+        },
+        {
+          "en": "The technical team is caught in a dilemma over deploying the update now or waiting for more test data analysis.",
+          "zh": "技術團隊正陷入兩難，不知道是該現在就部署更新，還是等待更多測試數據分析。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-119",
+      "source": "phrase",
+      "number": 119,
+      "titleEn": "To smooth things over...",
+      "titleZh": "為了平息事態/緩和氣氛/圓場...",
+      "usage": "用來表達「為了平息事態/緩和氣氛/圓場...」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The public relations coordinator offered a sincere apology and a complimentary pass to smooth things over with the dissatisfied visitor.",
+          "zh": "公關窗口誠摯致歉並提供了一張贈票，以平息不滿參觀者的情緒。",
+          "scene": "工作"
+        },
+        {
+          "en": "To smooth things over after the heated discussion, he invited the entire design team out for a coffee break.",
+          "zh": "在激烈的討論過後，為了緩和現場氣氛，他請整個設計團隊喝咖啡休息一下。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "To smooth things over regarding the late data delivery, the vendor offered a 10% discount on our next order.",
+          "zh": "為了圓場數據延遲交付的事，廠商在我們下一筆訂單上提供了九折優惠。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-120",
+      "source": "phrase",
+      "number": 120,
+      "titleEn": "It pays off to...",
+      "titleZh": "做...是會有回報的/值得的/有好處的",
+      "usage": "用來表達「做...是會有回報的/值得的/有好處的」。",
+      "note": "",
+      "category": "困境、衝突、評估與解決",
+      "categoryId": "phrase-cat-6",
+      "categoryNo": 6,
+      "tags": [
+        "困境、衝突、評估與解決",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It pays off to spend time reading the documentation carefully before writing complex Next.js layout structures.",
+          "zh": "在編寫複雜的 Next.js 版面結構之前，花時間仔細閱讀說明文件絕對是有回報的。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "It pays off to research drone flight coordinates and wind conditions before heading out for a photo shoot.",
+          "zh": "在出發進行拍片之前，事先研究好無人機飛行座標與風向狀態，是非常值得的。",
+          "scene": "生活"
+        },
+        {
+          "en": "It pays off to invest in high-quality user research; it saves you from expensive design adjustments later.",
+          "zh": "投資高品質的使用者研究是非常有好處的；這能讓你免於日後進行昂貴的設計調整。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-121",
+      "source": "phrase",
+      "number": 121,
+      "titleEn": "To be honest with you...",
+      "titleZh": "老實跟你說... / 說真的...",
+      "usage": "用來表達「老實跟你說... / 說真的...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "To be honest with you, I didn't think the new camera model was worth the hype until I tried it myself.",
+          "zh": "老實跟你說，在我親自試用之前，我真不覺得那款新相機值得網路上炒得那麼熱。",
+          "scene": "生活"
+        },
+        {
+          "en": "To be honest with you, our current team doesn’t have enough bandwidth to deploy the new application layout this week.",
+          "zh": "說真的，我們團隊目前的產能（頻寬）不足以在本週佈署新的應用程式版面。",
+          "scene": "工作"
+        },
+        {
+          "en": "To be honest with you, I’m still feeling a bit of jet lag after returning to Taipei from Los Angeles.",
+          "zh": "老實說，從洛杉磯回到台北後，我目前還是覺得有點時差。",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "honestly",
+      "layerRole": "句型：坦白講現況。",
+      "togetherHint": "風格的 Honestly 是「我要講重點了」。句型的 To tell you the truth / To be honest with you 是坦白。都不要用成質疑對方說謊。",
+      "togetherExample": "Honestly, I think we’re overthinking this part. To be honest with you, our team doesn’t have the bandwidth this week.",
+      "togetherZh": "老實說，我覺得這一段我們想太多了。坦白跟你說，我們團隊這週沒有餘裕。",
+      "related": [
+        {
+          "id": "phrase-034",
+          "source": "phrase",
+          "titleEn": "To tell you the truth...",
+          "titleZh": "老實跟你說... / 說真的...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "phrase-134",
+          "source": "phrase",
+          "titleEn": "To tell you the truth...",
+          "titleZh": "老實說... / 坦白講...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "style-s1-07",
+          "source": "style",
+          "titleEn": "Honestly",
+          "titleZh": "老實說；我要講重點了",
+          "role": "直率開場：進入真心話。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-122",
+      "source": "phrase",
+      "number": 122,
+      "titleEn": "You might as well...",
+      "titleZh": "你倒不如 / 不妨就...",
+      "usage": "常用於勸說別人既然現狀如此，不如採取某個更實際的行動",
+      "note": "常用於勸說別人既然現狀如此，不如採取某個更實際的行動",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Since you are already downtown for the photography gear, you might as well check out that new photo exhibition nearby.",
+          "zh": "既然你都為了買相機配件進市中心了，倒不如順便去看看附近那個新舉辦的攝影展。",
+          "scene": "生活"
+        },
+        {
+          "en": "Since the layout design needs a complete re-write, we might as well build the framework from scratch using Next.js.",
+          "zh": "既然版面設計需要徹底重寫，我們倒不如直接用 Next.js 從頭開始建構這個框架。",
+          "scene": "工作"
+        },
+        {
+          "en": "Since we missed the early flight, we might as well grab a cup of coffee and wait for the next one comfortably.",
+          "zh": "既然我們錯過了早班機，不妨就去倒杯咖啡，舒舒服服地等下一班吧。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-123",
+      "source": "phrase",
+      "number": 123,
+      "titleEn": "It goes without saying that...",
+      "titleZh": "不言而喻 / 不用說也知道...",
+      "usage": "用來表達「不言而喻 / 不用說也知道...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It goes without saying that cross-department collaboration is critical to the success of a permanent exhibition renovation.",
+          "zh": "不用說也知道，跨部門的通力合作是常設展廳改造專案成功的關鍵。",
+          "scene": "工作"
+        },
+        {
+          "en": "It goes without saying that you must verify drone flight restricted coordinates before takeoff.",
+          "zh": "不言而喻，在無人機起飛之前，你必須先核實好航空管制禁飛座標。",
+          "scene": "生活"
+        },
+        {
+          "en": "It goes without saying that keeping data security intact should always be our engineering team's top priority.",
+          "zh": "不用說也知道，維護數據安全完好無損，永遠應該是我們工程團隊的第一順位。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-124",
+      "source": "phrase",
+      "number": 124,
+      "titleEn": "For what it’s worth...",
+      "titleZh": "不論價值如何 / 不管有沒有用...",
+      "usage": "用來謙虛地提出個人看法或提供資訊",
+      "note": "用來謙虛地提出個人看法或提供資訊",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "For what it’s worth, I found that updating to Tailwind CSS made managing responsive page layouts much faster.",
+          "zh": "不管有沒有用，我個人是覺得升級到 Tailwind CSS 讓管理響應式頁面排版的速度變快很多。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "For what it's worth, here is the contact info of the coordinator who managed the interactive venue last year.",
+          "zh": "不論有沒有參考價值，這份是去年負責管理互動會場的窗口窗口聯絡資訊，供你參考。",
+          "scene": "工作"
+        },
+        {
+          "en": "For what it’s worth, I think your travel video looks fantastic, even without the heavy color grading.",
+          "zh": "不管我的看法值不值錢，我覺得你的旅遊影片看起來棒極了，就算沒有做太多調色也很棒。",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "for what it's worth",
+      "layerRole": "句型積木：同樣的潤滑劑，可直接套進生活／工作例句。",
+      "togetherHint": "風格與句型都有這條。語氣較謙，適合你不想顯得強勢時丟出觀察。不要跟 The bottom line is 混用：一個是輕放，一個是拍板。",
+      "togetherExample": "For what it’s worth, my experience has shown that this approach works. I’m on board with the general idea, I just have a slightly different take on the timeline.",
+      "togetherZh": "僅供參考，依我的經驗這套作法行得通。大方向我贊成，時程上我有一點不同看法。",
+      "related": [
+        {
+          "id": "style-s2-08",
+          "source": "style",
+          "titleEn": "For what it's worth",
+          "titleZh": "僅供參考；不管有沒有用",
+          "role": "謙虛提供觀察。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-125",
+      "source": "phrase",
+      "number": 125,
+      "titleEn": "As far as I'm concerned...",
+      "titleZh": "就我而言 / 在我的看法裡",
+      "usage": "用來表達「就我而言 / 在我的看法裡」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "As far as I'm concerned, the public relations press release is fully optimized and ready for media distribution.",
+          "zh": "就我而言，這份公關新聞稿已經完全優化好，隨時可以發布給媒體了。",
+          "scene": "工作"
+        },
+        {
+          "en": "As far as I'm concerned, buying a reliable, lightweight travel tripod is a must for long road trips.",
+          "zh": "在我的看法裡，去長途公路旅行時，買一個可靠且輕便的旅行三腳架是絕對必須的。",
+          "scene": "生活"
+        },
+        {
+          "en": "As far as I'm concerned, resolving the database log bottleneck is more urgent than tweaking user interface styles.",
+          "zh": "依我之見，解決資料庫日誌的瓶頸問題，比微調使用者介面的風格還要更為迫切。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-126",
+      "source": "phrase",
+      "number": 126,
+      "titleEn": "Correct me if I'm wrong...",
+      "titleZh": "如果我說錯了請糾正我...",
+      "usage": "用來表達「如果我說錯了請糾正我...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Correct me if I'm wrong, but wasn't the budget for the anniversary event already finalized last Friday?",
+          "zh": "如果我說錯了請糾正我，但週年慶活動的預算不是上週五就已經定案了嗎？",
+          "scene": "工作"
+        },
+        {
+          "en": "Correct me if I'm wrong, but I thought the hardware compatibility issue with this controller model had been fixed.",
+          "zh": "如果我記錯了請糾正我，但我以為這款遙控器型號的硬體相容性問題先前就已經修復了。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "Correct me if I'm wrong, but aren't attraction tickets usually cheaper if you book them on Klook in advance?",
+          "zh": "如果我弄錯了請糾正我，但如果提前在 Klook 上預訂，景點門票通常不是比較便宜嗎？",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "correct me if I'm wrong",
+      "layerRole": "委婉核對事實或共識。",
+      "togetherHint": "句型層是委婉指出可能記錯。公式層則用來重述對方真正要的東西。前者核對事實，後者核對感受。",
+      "togetherExample": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some breathing room.",
+      "togetherZh": "如果我錯了請糾正我，但你真正想要的，似乎只是一點喘息空間。",
+      "related": [
+        {
+          "id": "cat-2-a-02",
+          "source": "catalogue",
+          "titleEn": "Correct me if I’m wrong, but it feels like the real issue here isn’t [A], but rather [B].",
+          "titleZh": "如果我錯了請糾正我，但真正的問題似乎不是〔A〕，而是〔B〕。",
+          "role": "傾聽公式：核對對方真正要的是什麼。"
+        },
+        {
+          "id": "cat-4-b-12",
+          "source": "catalogue",
+          "titleEn": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some [內心需求].",
+          "titleZh": "如果我錯了請糾正我，但你真正想要的似乎只是一點〔內心需求〕。",
+          "role": "傾聽公式：核對對方真正要的是什麼。"
+        },
+        {
+          "id": "phrase-049",
+          "source": "phrase",
+          "titleEn": "Correct me if I'm wrong, but...",
+          "titleZh": "如果我錯了請糾正我，但...",
+          "role": "委婉核對事實或共識。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-127",
+      "source": "phrase",
+      "number": 127,
+      "titleEn": "By all means...",
+      "titleZh": "務必 / 當然可以 / 想盡辦法",
+      "usage": "常用於強烈許可或鼓勵他人做某事",
+      "note": "常用於強烈許可或鼓勵他人做某事",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "If you have any suggestions to improve the interactive exhibition layout, by all means, share them with the team.",
+          "zh": "如果您有任何可以優化互動展位動線排版的建議，務必請隨時與團隊分享。",
+          "scene": "工作"
+        },
+        {
+          "en": "A: \"Can I use your external hard drive to back up these raw media files?\" B: \"By all means, go ahead.\"",
+          "zh": "A:「我可以用你的外接硬碟來備份這些媒體原檔嗎？」 B:「當然可以，請自便。」",
+          "scene": "工作/生活"
+        },
+        {
+          "en": "We must ensure, by all means, that the public relations press release is accurate before the live broadcast.",
+          "zh": "在現場直播之前，我們必須想盡一切辦法確保公關新聞稿的內容完全準確。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-128",
+      "source": "phrase",
+      "number": 128,
+      "titleEn": "In a nutshell...",
+      "titleZh": "簡而言之 / 概括來說",
+      "usage": "用來表達「簡而言之 / 概括來說」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "In a nutshell, the new update allows users to configure their own data parameters on the main layout interface.",
+          "zh": "簡而言之，這次的新更新允許使用者在主排版介面上自訂配置他們自己的數據參數。",
+          "scene": "工作"
+        },
+        {
+          "en": "In a nutshell, the exhibition hall renovation project is slightly behind schedule due to vendor delays.",
+          "zh": "概括來說，由於廠商那邊延誤的關係，目前展覽館的改造專案進度稍微有些落後。",
+          "scene": "工作"
+        },
+        {
+          "en": "In a nutshell, the drone lost its GPS coordinate lock because of unexpected server interference.",
+          "zh": "簡單來說，無人機是因為遇到了意料之外的伺服器干擾，才會失去 GPS 座標鎖定。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-129",
+      "source": "phrase",
+      "number": 129,
+      "titleEn": "Long story short...",
+      "titleZh": "長話短說 / 總而言之",
+      "usage": "講述日常或工作事件經過時，跳過細節直接講結果",
+      "note": "講述日常或工作事件經過時，跳過細節直接講結果",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Long story short, the drone configuration glitched, I had to trigger automated home return, but the footage saved perfectly.",
+          "zh": "長話短說，那時無人機設定出了故障，我不得不啟動自動返航，好在影片素材最後完好無損地存下來了。",
+          "scene": "生活"
+        },
+        {
+          "en": "Long story short, the legal department rejected the initial contract draft, so we had to revise the terms overnight.",
+          "zh": "總而言之，法務部門退回了最初的合約草案，所以我們不得不連夜修改條款。",
+          "scene": "工作"
+        },
+        {
+          "en": "We faced severe traffic, nearly missed the flight, but long story short, we made it to Los Angeles on time.",
+          "zh": "我們遇到了大塞車差點趕不上飛機，但長話短說，我們最後還是準時抵達洛杉磯了。",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "long story short",
+      "layerRole": "句型：同一條收束語，生活與工作都能用。",
+      "togetherHint": "風格裡用來高效收束。說故事公式裡則是鋪陳混亂現場時的潤滑劑。講故事時用公式把聽眾放進現場；收尾再用風格把話權拿回來。",
+      "togetherExample": "Long story short, we found ourselves in the middle of a foreign airport with absolutely no cell service. The bottom line is, we still made it.",
+      "togetherZh": "長話短說，我們人在國外機場正中央，完全沒有訊號。重點是，我們還是抵達了。",
+      "related": [
+        {
+          "id": "cat-3-b-11",
+          "source": "catalogue",
+          "titleEn": "Long story short, we found ourselves in the middle of [某個混亂地方] with absolutely no [必備物品].",
+          "titleZh": "長話短說，我們人在〔某個混亂地方〕正中央，而且完全沒有〔必備物品〕。",
+          "role": "故事公式：交代混亂現場。"
+        },
+        {
+          "id": "cat-3-d-28",
+          "source": "catalogue",
+          "titleEn": "So yeah, long story short, that’s how I ended up [荒謬的最終結局].",
+          "titleZh": "所以啦，長話短說，這就是我最後〔荒謬的最終結局〕的原因。",
+          "role": "故事公式：交代混亂現場。"
+        },
+        {
+          "id": "style-s2-09",
+          "source": "style",
+          "titleEn": "Long story short",
+          "titleZh": "長話短說",
+          "role": "連接詞：跳過細節、給結果。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-130",
+      "source": "phrase",
+      "number": 130,
+      "titleEn": "That explains why...",
+      "titleZh": "那正好解釋了為什麼...",
+      "usage": "用來表達「那正好解釋了為什麼...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "He spent three years training as a certified real estate salesperson; that explains why he knows the property market regulations so thoroughly.",
+          "zh": "他花了三年時間受訓成為合格的不動產營業員，那正好解釋了為什麼他對房地產市場的法規了解得這麼透徹。",
+          "scene": "生活"
+        },
+        {
+          "en": "The application implements server-side rendering via Next.js; that explains why the layout loads so instantly.",
+          "zh": "這款應用程式透過 Next.js 實現了伺服器端渲染，那正好解釋了為什麼版面載入速度會如此即時。",
+          "scene": "工作"
+        },
+        {
+          "en": "The national park has high-wind coordinates today; that explains why operating the drone felt so challenging during flight.",
+          "zh": "那個國家公園今天的座標區域風勢強勁，那正好解釋了為什麼剛剛操作無人機飛行時會覺得這麼有挑戰性。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-131",
+      "source": "phrase",
+      "number": 131,
+      "titleEn": "It's a matter of time before...",
+      "titleZh": "...只是遲早的事",
+      "usage": "用來表達「...只是遲早的事」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Given our consistent public relations campaign, it's a matter of time before the exhibition hall renovation gains national attention.",
+          "zh": "鑑於我們持續推進的公關宣傳，展覽館的改建專案獲得全國關注只是遲早的事。",
+          "scene": "工作"
+        },
+        {
+          "en": "If you keep coding utility applications every day, it's a matter of time before you master the Next.js ecosystem framework.",
+          "zh": "如果你堅持每天編寫工具型應用，徹底精通 Next.js 生態框架系統只是遲早的事。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "With those strong typhoons approaching Taipei, it's a matter of time before the weekend transpacific flights get delayed.",
+          "zh": "隨著強烈颱風正逼近台北，週末跨太平洋的航班宣告延誤只是遲早的事。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-132",
+      "source": "phrase",
+      "number": 132,
+      "titleEn": "On the flip side...",
+      "titleZh": "但從另一方面來說... / 反過來說...",
+      "usage": "用來表達「但從另一方面來說... / 反過來說...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The high-end drone camera captures stunning media quality; on the flip side, it drains the battery configuration incredibly fast.",
+          "zh": "這款高階無人機相機能捕捉震撼的影像品質；但從另一方面來說，它消耗電池電量的速度也驚人地快。",
+          "scene": "生活"
+        },
+        {
+          "en": "Working remotely gives the team a lot of schedule flexibility; on the flip side, it requires a stronger effort to keep sync-up communication fluid.",
+          "zh": "遠端工作給了團隊很大的時間彈性；反過來說，這也需要付出更多努力來保持對齊溝通的順暢。",
+          "scene": "工作"
+        },
+        {
+          "en": "Living near downtown Taipei means convenient access to exhibition events; on the flip side, housing costs are much higher.",
+          "zh": "住在台北市中心附近意味著去參加展覽活動非常方便；但從另一方面來說，居住成本也高昂得多。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-133",
+      "source": "phrase",
+      "number": 133,
+      "titleEn": "Don't take it personally, but...",
+      "titleZh": "別針對個人 / 別介意，但是...",
+      "usage": "常用於開頭，免得接下來誠實的職場或生活反饋讓對方受傷",
+      "note": "常用於開頭，免得接下來誠實的職場或生活反饋讓對方受傷",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Don't take it personally, but we need to change the front-end layout configuration because the current user experience logic is confusing.",
+          "zh": "別介意，但是我們需要更改前端的版面配置，因為目前的使用者經驗邏輯有些令人困惑。",
+          "scene": "工作"
+        },
+        {
+          "en": "Don't take it personally, but the director felt the draft of the press release lacked a strong branding focus.",
+          "zh": "請別針對個人，但主管覺得這份新聞稿草案缺乏強烈的品牌焦點。",
+          "scene": "工作"
+        },
+        {
+          "en": "Don't take it personally, but I think your drone flying speed was a bit too fast for smooth cinematic videography.",
+          "zh": "別介意，但我認為你剛剛無人機的飛行速度有點太快了，很難拍出流暢的電影感畫面。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-134",
+      "source": "phrase",
+      "number": 134,
+      "titleEn": "To tell you the truth...",
+      "titleZh": "老實說... / 坦白講...",
+      "usage": "用來表達「老實說... / 坦白講...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "To tell you the truth, I haven't even started reviewing the mock questions for the real estate course examination yet.",
+          "zh": "老實說，我甚至還沒開始複習營業員課程考試的模擬試題呢。",
+          "scene": "生活"
+        },
+        {
+          "en": "To tell you the truth, the backend server stability has been our biggest concern during the utility web app evaluation.",
+          "zh": "坦白講，後端伺服器的穩定性一直我們在進行這款工具網頁應用評估時最大的擔憂。",
+          "scene": "工作"
+        },
+        {
+          "en": "To tell you the truth, I forgot to log into the application to verify the venue data analysis dashboard yesterday.",
+          "zh": "老實說，我昨天忘了登入應用程式去核實場地數據分析的儀表板。",
+          "scene": "生活/工作"
+        }
+      ],
+      "layerFamily": "honestly",
+      "layerRole": "句型：坦白講現況。",
+      "togetherHint": "風格的 Honestly 是「我要講重點了」。句型的 To tell you the truth / To be honest with you 是坦白。都不要用成質疑對方說謊。",
+      "togetherExample": "Honestly, I think we’re overthinking this part. To be honest with you, our team doesn’t have the bandwidth this week.",
+      "togetherZh": "老實說，我覺得這一段我們想太多了。坦白跟你說，我們團隊這週沒有餘裕。",
+      "related": [
+        {
+          "id": "phrase-034",
+          "source": "phrase",
+          "titleEn": "To tell you the truth...",
+          "titleZh": "老實跟你說... / 說真的...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "phrase-121",
+          "source": "phrase",
+          "titleEn": "To be honest with you...",
+          "titleZh": "老實跟你說... / 說真的...",
+          "role": "句型：坦白講現況。"
+        },
+        {
+          "id": "style-s1-07",
+          "source": "style",
+          "titleEn": "Honestly",
+          "titleZh": "老實說；我要講重點了",
+          "role": "直率開場：進入真心話。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-135",
+      "source": "phrase",
+      "number": 135,
+      "titleEn": "It’s non-negotiable that...",
+      "titleZh": "...是毫無討價還價空間的 / 必須嚴格執行的",
+      "usage": "用來表達「...是毫無討價還價空間的 / 必須嚴格執行的」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It’s non-negotiable that all interactive design assets must adhere to our Taiwan Power Company identity guidelines.",
+          "zh": "所有互動設計素材都必須遵循我們台電公司的品牌識別規範，這是毫無討價還價空間的。",
+          "scene": "工作"
+        },
+        {
+          "en": "It’s non-negotiable that you perform a preflight checklist before operating any high-end drone equipment.",
+          "zh": "在操作任何高階無人機設備之前，必須嚴格執行飛行前清單檢查，這是沒有商量餘地的。",
+          "scene": "生活"
+        },
+        {
+          "en": "It’s non-negotiable that code patches must pass all manual test cases before migrating to production servers.",
+          "zh": "在將程式碼補丁遷移到正式伺服器之前，必須通過所有手動測試案例，這是不可妥協的。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-136",
+      "source": "phrase",
+      "number": 136,
+      "titleEn": "Keep in mind that...",
+      "titleZh": "請記住 / 別忘了...",
+      "usage": "用來表達「請記住 / 別忘了...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Keep in mind that the exhibition hall layout is closed for maintenance every Monday when coordinating vendor site surveys.",
+          "zh": "在協調廠商現場勘查時，請牢記展覽館每週一都會閉館維護。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "Keep in mind that wind speeds change drastically near the national park coordinates when managing drone battery life.",
+          "zh": "在調配無人機電池續航力時，別忘了國家公園座標區附近的風速變化非常劇烈。",
+          "scene": "生活"
+        },
+        {
+          "en": "Keep in mind that the client's evaluation criteria focus heavily on responsive layout stability across mobile view formats.",
+          "zh": "請記住，客戶的評估標準重度聚焦在行動裝置版面格式上的響應式穩定度。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-137",
+      "source": "phrase",
+      "number": 137,
+      "titleEn": "More often than not...",
+      "titleZh": "通常 / 多數情況下...",
+      "usage": "用來表達「通常 / 多數情況下...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "More often than not, travel videos edited with professional cinema tools have much better color depth.",
+          "zh": "通常情況下，用專業電影級工具剪輯出來的旅遊影片，其色彩深度表現要好得多。",
+          "scene": "生活"
+        },
+        {
+          "en": "More often than not, server synchronization configuration errors are caused by mismatched file logic syntax.",
+          "zh": "多數情況下，伺服器同步設定錯誤都是由檔案邏輯語法不匹配引起的。",
+          "scene": "工作"
+        },
+        {
+          "en": "More often than not, visitors prefer clear interactive digital wayfinding layout formats over traditional print maps.",
+          "zh": "多數情況下，比起傳統的紙本地圖，參觀者更喜歡清晰的互動式數位導覽版面格式。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-138",
+      "source": "phrase",
+      "number": 138,
+      "titleEn": "That being said...",
+      "titleZh": "話雖如此 / 儘管如此",
+      "usage": "用於承認前述事實後，帶出重要的轉折或補充觀點",
+      "note": "用於承認前述事實後，帶出重要的轉折或補充觀點",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The automated AI tool helps organize workflow data instantly; that being said, a human eye is still required for the final press release review.",
+          "zh": "自動化 AI 工具能立刻幫忙整理工作流程數據；話雖如此，最終的新聞稿審查依然需要人工把關。",
+          "scene": "工作"
+        },
+        {
+          "en": "Learning a new interactive framework like Tailwind CSS can be tedious initially; that being said, the efficiency boost is totally worth it.",
+          "zh": "剛開始學習像 Tailwind CSS 這樣的全新互動式框架可能會很枯燥；儘管如此，隨之而來的效率提升絕對完全值得。",
+          "scene": "生活"
+        },
+        {
+          "en": "The exhibition hall renovation budget is highly restricted; that being said, we must not compromise on the security of the interactive screens.",
+          "zh": "展覽館改建的預算受到了高度限制；話雖如此，我們絕對不能在互動式螢幕的安全防護上打折扣。",
+          "scene": "工作"
+        }
+      ],
+      "layerFamily": "that being said",
+      "layerRole": "",
+      "togetherHint": "這是風格層的轉折器，比 but 更專業。公式層若要不同意，用 I see where you’re coming from 先接住，再用 That being said 轉入你的角度。",
+      "togetherExample": "I see where you’re coming from. That being said, from a logical standpoint, this is our best bet.",
+      "togetherZh": "我懂你的出發點。話雖如此，從邏輯上看，這是我們最好的選擇。",
+      "related": [
+        {
+          "id": "style-s2-03",
+          "source": "style",
+          "titleEn": "That being said",
+          "titleZh": "話雖如此（轉折）",
+          "role": "邏輯轉折：承認前一句，再加另一個維度。"
+        },
+        {
+          "id": "style-s2-04",
+          "source": "style",
+          "titleEn": "Having said that",
+          "titleZh": "不過話說回來（較柔的轉折）",
+          "role": "邏輯轉折：承認前一句，再加另一個維度。"
+        }
+      ]
+    },
+    {
+      "id": "phrase-139",
+      "source": "phrase",
+      "number": 139,
+      "titleEn": "Speaking from experience...",
+      "titleZh": "從經驗來說 / 依過往經驗...",
+      "usage": "用來表達「從經驗來說 / 依過往經驗...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Speaking from experience, coordinating with public relations and technical layout engineering teams early prevents critical development blockers down the road.",
+          "zh": "依過往經驗來看，提早與公關和技術排版工程團隊進行協調對齊，能有效防止日後出現嚴重的開發阻礙。",
+          "scene": "工作"
+        },
+        {
+          "en": "Speaking from experience, buying Klook attraction tickets in advance saves hours of waiting in line during peak travel seasons in Las Vegas.",
+          "zh": "從經驗來說，在拉斯維加斯旅遊旺季期間，提前購買 Klook 景點門票可以讓你免去好幾個小時的排隊時間。",
+          "scene": "生活"
+        },
+        {
+          "en": "Speaking from experience, running manual test cases on different responsive layout interface configurations is essential before deployment.",
+          "zh": "從經驗來說，在部署之前，針對不同的響應式排版介面配置執行手動測試案例是絕對不可或缺的。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-140",
+      "source": "phrase",
+      "number": 140,
+      "titleEn": "It’s a win-win situation for...",
+      "titleZh": "這對...來說是雙贏的局面",
+      "usage": "用來表達「這對...來說是雙贏的局面」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Partnering with the hardware company is a win-win situation for both our exhibition branding and their interactive device visibility.",
+          "zh": "與這家硬體公司合作，不論對我們的展覽品牌塑造，還是對他們的互動裝置曝光度而言，都是個雙贏的局面。",
+          "scene": "工作"
+        },
+        {
+          "en": "Learning web app frameworks improves product design workflow while upgrading your technical skillset; it's a win-win situation.",
+          "zh": "學習網頁應用框架既能優化產品設計流程，又能提升個人的技術硬實力，這完全是雙贏的局面。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "Shifting the weekly sync-up to Thursday morning is a win-win situation for the coordinator and the technical engineering team.",
+          "zh": "把每週的進度對齊會改到週四上午，對於窗口和技術工程團隊來說都是個雙贏的安排。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-141",
+      "source": "phrase",
+      "number": 141,
+      "titleEn": "I can't emphasize enough how...",
+      "titleZh": "我再怎麼強調...都不為過",
+      "usage": "用來表達「我再怎麼強調...都不為過」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "I can't emphasize enough how important clear user interface configuration logic is for elderly exhibition visitors.",
+          "zh": "我再怎麼強調清晰的使用者介面配置邏輯對於高齡展覽參觀者有多重要，都不為過。",
+          "scene": "工作"
+        },
+        {
+          "en": "I can't emphasize enough how critical calibrating your drone hardware configuration is before flying near coastal coordinates.",
+          "zh": "我再怎麼強調在海岸座標區附近飛行前，校準無人機硬體配置有多關鍵，都不為過。",
+          "scene": "生活"
+        },
+        {
+          "en": "I can't emphasize enough how implementing automated file backups saves you from database evaluation disasters.",
+          "zh": "我再怎麼強調導入自動化檔案備份能如何讓你免於資料庫評估災難，都不為過。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-142",
+      "source": "phrase",
+      "number": 142,
+      "titleEn": "That's a textbook example of...",
+      "titleZh": "那是個典型的 / 教科書般的例子",
+      "usage": "用來表達「那是個典型的 / 教科書般的例子」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "The sudden server crash during the unverified code deployment is a textbook example of why staging evaluation environment checks are mandatory.",
+          "zh": "在未驗證程式碼佈署時發生的伺服器突然當機，就是個典型的例子，正說明了為什麼測試環境評估檢查是強制要求的。",
+          "scene": "工作"
+        },
+        {
+          "en": "The crisp detail and perfect framing in this wide-angle landscape shot is a textbook example of great camera exposure setup.",
+          "zh": "這張廣角風景照中俐落的細節與完美的構圖，就是個絕佳的教科書範例，完美展現了高超的相機曝光設定。",
+          "scene": "生活"
+        },
+        {
+          "en": "Their crisis management response during the public relations issue was a textbook example of brand reputation protection.",
+          "zh": "他們在公關事件中展現的危機處理回應，簡直是品牌信譽保護的教科書級典範。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-143",
+      "source": "phrase",
+      "number": 143,
+      "titleEn": "It slipped my mind that...",
+      "titleZh": "我完全忘了... / 這事從我腦袋溜走了",
+      "usage": "用來表達「我完全忘了... / 這事從我腦袋溜走了」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It slipped my mind that the venue registration required physical application forms instead of just the digital data download link.",
+          "zh": "我完全忘了場地登記居然需要紙本申請表，而不能只提供數位數據的下載連結。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "It slipped my mind that the weekly sync-up meeting coordinate time had been rescheduled to Thursday afternoon.",
+          "zh": "我疏忽忘了每週對齊會議的協調時間先前已經被改到了週四下午。",
+          "scene": "工作"
+        },
+        {
+          "en": "It slipped my mind that the early-bird ticket discount for the transpacific flight route ended last night.",
+          "zh": "我完全忘了跨太平洋航線的早鳥機票優惠居然昨晚就截止了。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-144",
+      "source": "phrase",
+      "number": 144,
+      "titleEn": "Read between the lines...",
+      "titleZh": "讀懂字裡行間的意思 / 體會言外之意",
+      "usage": "用來表達「讀懂字裡行間的意思 / 體會言外之意」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "When the client says the layout is \"interesting,\" you need to read between the lines; it usually means they want a complete redesign.",
+          "zh": "當客戶形容這個排版很「有趣」時，你得體會他們的言外之意；這通常意味著他們想要完全重新設計。",
+          "scene": "工作"
+        },
+        {
+          "en": "If you read between the lines of the director's latest evaluation email, you can tell he is shifting resources toward Next.js web application infrastructure.",
+          "zh": "如果你能讀懂主管最新評估郵件的字裡行間之意，就能看出他正將資源向 Next.js 網頁應用基礎建設傾斜。",
+          "scene": "工作"
+        },
+        {
+          "en": "The coordinator didn't say no directly, but if you read between the lines, the hardware vendor is struggling with the shipping timeline.",
+          "zh": "窗口雖然沒有直接說不，但如果體會其言外之意，就能發現硬體廠商目前在出貨時程上有些吃力。",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-145",
+      "source": "phrase",
+      "number": 145,
+      "titleEn": "It costs an arm and a leg to...",
+      "titleZh": "做...要花極其昂貴的代價 / 花大錢",
+      "usage": "用來表達「做...要花極其昂貴的代價 / 花大錢」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It costs an arm and a leg to procure these specialized interactive screens for the permanent exhibition hall layout if you buy them from overseas vendors.",
+          "zh": "如果是向海外廠商購買，為常設展廳版面採購這些特製的互動式螢幕往往要花上一大筆錢。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "It costs an arm and a leg to ship heavy photography crane equipment via transpacific express air routes.",
+          "zh": "透過跨太平洋快遞空運航線來運送笨重的攝影搖臂設備，代價實在是極其昂貴。",
+          "scene": "生活"
+        },
+        {
+          "en": "It costs an arm and a leg to book premium luxury accommodations near the national park during the peak summer holiday season.",
+          "zh": "在暑假旅遊旺季期間，預訂國家公園附近的頂級奢華住宿往往要讓人大傷荷包。",
+          "scene": "生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-146",
+      "source": "phrase",
+      "number": 146,
+      "titleEn": "Get down to business...",
+      "titleZh": "言歸正傳 / 開始辦正事 / 進入主題",
+      "usage": "用來表達「言歸正傳 / 開始辦正事 / 進入主題」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Now that everyone has arrived and grabbed a coffee, let’s get down to business and review the exhibition hall renovation timeline.",
+          "zh": "既然大家都到了也都拿了咖啡，那我們就言歸正傳，開始審查展覽館改造的時間軸吧。",
+          "scene": "工作"
+        },
+        {
+          "en": "We only have thirty minutes left for this sync-up session, so let’s get down to business and tackle the front-end layout configuration glitch.",
+          "zh": "這次對齊會議我們只剩三十分鐘了，所以我們別再閒聊、趕快進入正題，來處理前端排版設定的故障吧。",
+          "scene": "工作"
+        },
+        {
+          "en": "Enough chatting about the weekend flight options; let's get down to business and open the application to complete the target data analysis.",
+          "zh": "關於週末航班選項聊得夠多了，我們開始辦正事，打開應用程式來完成目標數據分析吧。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-147",
+      "source": "phrase",
+      "number": 147,
+      "titleEn": "It's a rule of thumb that...",
+      "titleZh": "一般而言 / 根據經驗法則...",
+      "usage": "用來表達「一般而言 / 根據經驗法則...」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "It's a rule of thumb that you should keep at least 30% battery capacity reserved for manual landing when flying drones in windy coordinates.",
+          "zh": "根據經驗法則，在強風座標區操作無人機飛行時，你應該保留至少 30% 的電池容量用作手動降落。",
+          "scene": "生活"
+        },
+        {
+          "en": "In public relations, it's a rule of thumb that you should always verify the statistical facts twice before distributing a press release.",
+          "zh": "一般而言在公關界，在分發新聞稿之前，你理當永遠要把統計事實反覆核實兩次。",
+          "scene": "工作"
+        },
+        {
+          "en": "When building reactive web layouts, it's a rule of thumb that your framework stylesheet setup should always prioritize mobile view rendering first.",
+          "zh": "在建構響應式網頁排版時，經驗法則告訴我們，框架的樣式表設定永遠應該優先考慮行動裝置檢視的渲染。",
+          "scene": "工作/生活"
+        }
+      ]
+    },
+    {
+      "id": "phrase-148",
+      "source": "phrase",
+      "number": 148,
+      "titleEn": "That's out of the question.",
+      "titleZh": "那是不可能的 / 完全不用考慮",
+      "usage": "用來表達「那是不可能的 / 完全不用考慮」。",
+      "note": "",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Expanding the exhibition hall venue size this late in the setup phase is completely out of the question.",
+          "zh": "在佈置階段進行到這麼後半場時才想擴大展覽館的場地規模，是完全不可能、不用考慮的。",
+          "scene": "工作"
+        },
+        {
+          "en": "Operating a drone without a certified remote pilot registration inside airport coordinate perimeters is absolutely out of the question.",
+          "zh": "在機場座標邊界內，在沒有取得合格遠端駕駛註冊的情況下操作無人機，絕對是完全不用考慮的（違法行為）。",
+          "scene": "生活"
+        },
+        {
+          "en": "Launching the utility app update without running standard code validation manual test cases is out of the question.",
+          "zh": "在沒有執行標準程式碼驗證手動測試案例的情況下，就直接上線這款工具應用的更新，是完全不被允許的。",
+          "scene": "工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-149",
+      "source": "phrase",
+      "number": 149,
+      "titleEn": "Keep your fingers crossed for...",
+      "titleZh": "為...祈求好運 / 祝願成功",
+      "usage": "英美文化中將中指疊在食指上代表祈福",
+      "note": "英美文化中將中指疊在食指上代表祈福",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "Our public relations team is pitching the permanent exhibition concept theme to the board directors today; keep your fingers crossed for us!",
+          "zh": "我們的公關團隊今天正在向董事會引薦常設展的概念主題；請為我們祈求好運吧！",
+          "scene": "工作"
+        },
+        {
+          "en": "I’m submitting my application for the certified salesperson course examination this afternoon; keep your fingers crossed that I pass the checklist query smoothly!",
+          "zh": "我今天下午就要提交合格營業員課程考試的申請了；祝願我能順利通過資格審查！",
+          "scene": "生活"
+        },
+        {
+          "en": "The technical deployment team is migrating the server framework layout to production right now; keep your fingers crossed for zero configuration lag!",
+          "zh": "技術部署團隊現在正在將伺服器框架排版遷移到正式環境；讓我們一起祈禱完全不會出現設定延遲吧！",
+          "scene": "生活/工作"
+        }
+      ]
+    },
+    {
+      "id": "phrase-150",
+      "source": "phrase",
+      "number": 150,
+      "titleEn": "At the end of the day...",
+      "titleZh": "不管怎麼說 / 到頭來 / 歸根究底",
+      "usage": "商務與日常對話收尾、歸納核心結論的最萬用句型",
+      "note": "商務與日常對話收尾、歸納核心結論的最萬用句型",
+      "category": "美式道地轉折、加強語氣與慣用語",
+      "categoryId": "phrase-cat-7",
+      "categoryNo": 7,
+      "tags": [
+        "美式道地轉折、加強語氣與慣用語",
+        "句型"
+      ],
+      "examples": [
+        {
+          "en": "We can experiment with various interactive features, but at the end of the day, the exhibition hall layout must be easily accessible to the general public.",
+          "zh": "我們可以嘗試各種琳瑯滿目的互動功能，但歸根究底，展覽館的動線規劃必須讓一般社會大眾都能輕鬆上手。",
+          "scene": "工作"
+        },
+        {
+          "en": "Framework tools like Tailwind CSS and Next.js are great, but at the end of the day, it’s the practical utility data analysis logic that solves the user's actual problems.",
+          "zh": "像 Tailwind CSS 和 Next.js 這樣的框架工具固然很棒，但到頭來，真正解決使用者實際問題的，還是實用的工具型數據分析邏輯。",
+          "scene": "生活/工作"
+        },
+        {
+          "en": "At the end of the day, taking proper rest and managing your stress levels is far more valuable than logging late hours editing media footage.",
+          "zh": "不管怎麼說，好好休息與調節壓力，其價值遠比你熬夜加班剪輯影音素材要高得多。",
+          "scene": "生活"
+        }
+      ],
+      "layerFamily": "in any case / at the end of the day",
+      "layerRole": "At the end of the day：歸根究底最在乎什麼。",
+      "togetherHint": "兩者都是收束。In any case 把混亂對話拉回行動；At the end of the day 給最終價值判斷。可接在 The bottom line is 之後，但不要三句連發。",
+      "togetherExample": "In any case, let’s keep moving forward. At the end of the day, the exhibition has to be easy for the public.",
+      "togetherZh": "總之，我們繼續往前。歸根究底，展覽必須讓大眾好走、好懂。",
+      "related": [
+        {
+          "id": "style-s2-10",
+          "source": "style",
+          "titleEn": "In any case",
+          "titleZh": "總之；不管怎樣",
+          "role": "In any case：不管剛才多亂，先聚焦。"
+        }
+      ]
+    }
+  ]
+}

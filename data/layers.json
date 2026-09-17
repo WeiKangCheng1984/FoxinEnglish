@@ -1,0 +1,261 @@
+[
+  {
+    "id": "bottom-line",
+    "title": "bottom line",
+    "keywords": [
+      "bottom line"
+    ],
+    "how": "風格裡的 The bottom line is，是你觀察完後自己收斂結論。公式裡的 the bottom line for you，是複述對方的底線、證明你有在聽。先用公式接住，再用風格給出你的定見。",
+    "together": "So the bottom line for you is that as long as the goal is clear, you’re willing to put in the extra hours, right? Fair enough. The bottom line is, we need a solution that works for everyone involved.",
+    "togetherZh": "所以對你來說，底線是只要目標清楚，你就願意多付出，對嗎？有道理。重點是，我們需要一個對所有相關的人都行得通的方案。",
+    "roles": {
+      "style": "你的語氣：把重點直接放到桌上。",
+      "catalogue": "傾聽公式：確認對方的底線，而不是搶著給結論。",
+      "phrase": "句型積木：用類似收束語把討論拉回核心。"
+    }
+  },
+  {
+    "id": "fair-enough",
+    "title": "fair enough",
+    "keywords": [
+      "fair enough"
+    ],
+    "how": "風格裡的 Fair enough 是消化對方邏輯、再決定要不要轉折。公式裡出現時，常接「但我們看實際面」。它不是投降，是先點頭再帶入你的觀察。",
+    "together": "Fair enough, I see where you’re coming from. That being said, let’s look at the practical side of things.",
+    "togetherZh": "有道理，我懂你從哪來。話雖如此，我們還是看實際面。",
+    "roles": {
+      "style": "觀察者語氣：我聽懂了，且承認你的邏輯。",
+      "catalogue": "不同意公式：用公平作墊，再問隱憂或實際面。"
+    }
+  },
+  {
+    "id": "long-story-short",
+    "title": "long story short",
+    "keywords": [
+      "long story short"
+    ],
+    "how": "風格裡用來高效收束。說故事公式裡則是鋪陳混亂現場時的潤滑劑。講故事時用公式把聽眾放進現場；收尾再用風格把話權拿回來。",
+    "together": "Long story short, we found ourselves in the middle of a foreign airport with absolutely no cell service. The bottom line is, we still made it.",
+    "togetherZh": "長話短說，我們人在國外機場正中央，完全沒有訊號。重點是，我們還是抵達了。",
+    "roles": {
+      "style": "連接詞：跳過細節、給結果。",
+      "catalogue": "故事公式：交代混亂現場。",
+      "phrase": "句型：同一條收束語，生活與工作都能用。"
+    }
+  },
+  {
+    "id": "that-being-said",
+    "title": "that being said",
+    "keywords": [
+      "that being said",
+      "having said that"
+    ],
+    "how": "這是風格層的轉折器，比 but 更專業。公式層若要不同意，用 I see where you’re coming from 先接住，再用 That being said 轉入你的角度。",
+    "together": "I see where you’re coming from. That being said, from a logical standpoint, this is our best bet.",
+    "togetherZh": "我懂你的出發點。話雖如此，從邏輯上看，這是我們最好的選擇。",
+    "roles": {
+      "style": "邏輯轉折：承認前一句，再加另一個維度。",
+      "catalogue": "溫和不同意：先接住，再提出隱憂。"
+    }
+  },
+  {
+    "id": "to-be-fair",
+    "title": "to be fair",
+    "keywords": [
+      "to be fair"
+    ],
+    "how": "風格裡用來在直率意見前加公平。公式裡的高 EQ 反駁常需要這層墊句，才不會像在否定對方。",
+    "together": "To be fair, it’s a pretty complex system to learn in one day. I respect that view, but my only reservation is that we might be rushing.",
+    "togetherZh": "平心而論，這套系統要一天學會確實挺複雜。我尊重那個觀點，我唯一的保留是我們可能太趕。",
+    "roles": {
+      "style": "平衡直率：先給公道話。",
+      "catalogue": "表達觀點：把公平當成不同意的入場券。"
+    }
+  },
+  {
+    "id": "for-what-its-worth",
+    "title": "for what it's worth",
+    "keywords": [
+      "for what it's worth",
+      "for what its worth"
+    ],
+    "how": "風格與句型都有這條。語氣較謙，適合你不想顯得強勢時丟出觀察。不要跟 The bottom line is 混用：一個是輕放，一個是拍板。",
+    "together": "For what it’s worth, my experience has shown that this approach works. I’m on board with the general idea, I just have a slightly different take on the timeline.",
+    "togetherZh": "僅供參考，依我的經驗這套作法行得通。大方向我贊成，時程上我有一點不同看法。",
+    "roles": {
+      "style": "謙虛提供觀察。",
+      "phrase": "句型積木：同樣的潤滑劑，可直接套進生活／工作例句。"
+    }
+  },
+  {
+    "id": "correct-me",
+    "title": "correct me if I'm wrong",
+    "keywords": [
+      "correct me if"
+    ],
+    "how": "句型層是委婉指出可能記錯。公式層則用來重述對方真正要的東西。前者核對事實，後者核對感受。",
+    "together": "Correct me if I’m wrong, but it seems like what you’re really looking for is just some breathing room.",
+    "togetherZh": "如果我錯了請糾正我，但你真正想要的，似乎只是一點喘息空間。",
+    "roles": {
+      "phrase": "委婉核對事實或共識。",
+      "catalogue": "傾聽公式：核對對方真正要的是什麼。"
+    }
+  },
+  {
+    "id": "been-meaning",
+    "title": "I've been meaning to",
+    "keywords": [
+      "been meaning to",
+      "i’ve been meaning",
+      "i've been meaning"
+    ],
+    "how": "句型層表達「想做很久但被耽擱」。公式層把同一結構變成破冰：我一直想問懂這行的人。一個講自己的待辦，一個打開別人的故事。",
+    "together": "I’ve been meaning to ask someone who knows about this industry… How did you get into UI design?",
+    "togetherZh": "我一直想問懂這行的人……你是怎麼開始接觸 UI 設計的？",
+    "roles": {
+      "phrase": "表達個人一直想做的事。",
+      "catalogue": "破冰公式：用「一直想問」降低搭話壓力。"
+    }
+  },
+  {
+    "id": "feel-free",
+    "title": "feel free",
+    "keywords": [
+      "feel free"
+    ],
+    "how": "句型層是允許對方行動。風格招牌句 Feel free to jump in 則是導覽／簡報時把發言權打開。同一禮貌，場景不同。",
+    "together": "Feel free to jump in if you have any thoughts. I’d appreciate it if you could share what’s not landing.",
+    "togetherZh": "有想法隨時插進來。如果可以的話，也跟我說哪裡還沒打到點。",
+    "roles": {
+      "style": "引導者語氣：邀請插話。",
+      "phrase": "句型：請對方隨時做某事。"
+    }
+  },
+  {
+    "id": "torn-between",
+    "title": "torn between",
+    "keywords": [
+      "torn between"
+    ],
+    "how": "句型層說出你自己的兩難。公式層則把兩難拋給對方，向他取經。一個是自我揭露，一個是深度提問。",
+    "together": "I’m torn between hiring an agency and doing it in-house. From your experience, which one yields better results?",
+    "togetherZh": "我在找外包公司和自己做之間猶豫。依你的經驗，哪個效果比較好？",
+    "roles": {
+      "phrase": "表達自己卡在兩個選項。",
+      "catalogue": "深度提問：請對方依經驗幫你選。"
+    }
+  },
+  {
+    "id": "devils-advocate",
+    "title": "devil's advocate",
+    "keywords": [
+      "devil’s advocate",
+      "devil's advocate",
+      "devils advocate"
+    ],
+    "how": "公式裡可當創意發問，也可當溫和唱反調。風格裡若要不同意，搭配 I’m not entirely sold yet 會比較不像在攻擊。",
+    "together": "I’m playing devil’s advocate here, but what happens if the vendor pulls out last minute? Actually, I’m not entirely sold on that idea yet, tell me more.",
+    "togetherZh": "我這裡唱個反調：如果廠商最後一刻抽腿會怎樣？其實我還沒完全被說服，多講一點。",
+    "roles": {
+      "catalogue": "提問或反駁公式：暫時站到對面。",
+      "style": "壓力緩衝：保留懷疑，但請對方多講。"
+    }
+  },
+  {
+    "id": "put-a-pin",
+    "title": "put a pin in it",
+    "keywords": [
+      "put a pin"
+    ],
+    "how": "風格招牌句與壓力緩衝都有這條：暫時擱置、不讓對話脫軌。導覽或會議超時時用它，比直接說「不要講這個」客氣。",
+    "together": "That’s a complex topic. Let’s put a pin in that for now and keep moving forward with the plan.",
+    "togetherZh": "那題很複雜。我們先釘住，計畫繼續往前。",
+    "roles": {
+      "style": "引導與壓力緩衝：先釘住，節奏不中斷。"
+    }
+  },
+  {
+    "id": "from-perspective",
+    "title": "from a different angle",
+    "keywords": [
+      "from a different angle",
+      "from where i stand",
+      "from my perspective",
+      "another angle"
+    ],
+    "how": "風格強調「角度不同」而不是「你錯了」。公式層的立體鋪陳、高 EQ 反駁也走同一條路。不同意時先換鏡頭，再講內容。",
+    "together": "I appreciate that perspective, but I am looking at it from a different angle. You’re absolutely right about the design, but looking at it from another angle, it’s not very user-friendly.",
+    "togetherZh": "我感謝這個視角，但我從另一個角度看。設計你完全正確，但換個鏡頭看，它其實不太好用。",
+    "roles": {
+      "style": "觀察者語氣：換一個拍攝角度。",
+      "catalogue": "表達觀點：用另一個鏡頭講反面。",
+      "phrase": "句型：From my perspective… 直接亮出立場。"
+    }
+  },
+  {
+    "id": "actually",
+    "title": "actually",
+    "keywords": [
+      "i'm actually",
+      "i’m actually"
+    ],
+    "titleStart": [
+      "actually"
+    ],
+    "how": "風格裡用來修正誤解或講得更精確，不是反駁對方不誠實。公式破冰也有 I’m actually quite new to…，那是自我定位，不是轉折。",
+    "together": "I’m actually quite new to this industry. Actually, to be more precise, I just want to understand how you got into it.",
+    "togetherZh": "我其實很新進這一行。其實，更精確地說，我只是想搞懂你是怎麼進這行的。",
+    "roles": {
+      "style": "發語詞：提出更精確的觀察。",
+      "catalogue": "破冰：承認自己是新人，降低對立。"
+    }
+  },
+  {
+    "id": "honestly",
+    "title": "honestly",
+    "keywords": [
+      "honestly,",
+      "to be honest",
+      "to tell you the truth"
+    ],
+    "titleStart": [
+      "honestly"
+    ],
+    "how": "風格的 Honestly 是「我要講重點了」。句型的 To tell you the truth / To be honest with you 是坦白。都不要用成質疑對方說謊。",
+    "together": "Honestly, I think we’re overthinking this part. To be honest with you, our team doesn’t have the bandwidth this week.",
+    "togetherZh": "老實說，我覺得這一段我們想太多了。坦白跟你說，我們團隊這週沒有餘裕。",
+    "roles": {
+      "style": "直率開場：進入真心話。",
+      "phrase": "句型：坦白講現況。"
+    }
+  },
+  {
+    "id": "in-any-case",
+    "title": "in any case / at the end of the day",
+    "keywords": [
+      "in any case",
+      "at the end of the day"
+    ],
+    "how": "兩者都是收束。In any case 把混亂對話拉回行動；At the end of the day 給最終價值判斷。可接在 The bottom line is 之後，但不要三句連發。",
+    "together": "In any case, let’s keep moving forward. At the end of the day, the exhibition has to be easy for the public.",
+    "togetherZh": "總之，我們繼續往前。歸根究底，展覽必須讓大眾好走、好懂。",
+    "roles": {
+      "style": "In any case：不管剛才多亂，先聚焦。",
+      "phrase": "At the end of the day：歸根究底最在乎什麼。"
+    }
+  },
+  {
+    "id": "moving-on",
+    "title": "moving on / on that note",
+    "keywords": [
+      "moving on",
+      "on that note"
+    ],
+    "how": "Moving on 是硬切主題，適合導覽下一站。On that note 是順著剛提到的點往下。會議超時用前者；想保持連貫用後者。",
+    "together": "On that note, does anyone need a quick break? Moving on to the next hall, let’s talk about how the system works.",
+    "togetherZh": "既然提到這點，有人需要喘一口氣嗎？接著下一個展廳，我們來看這套系統怎麼運作。",
+    "roles": {
+      "style": "節奏控制：切主題或順勢往下。"
+    }
+  }
+]

@@ -17,7 +17,7 @@ const sans = Noto_Sans_TC({
 
 export const metadata = {
   title: "口說節奏 Cadence",
-  description: "融合個人風格、句型積木與對話公式的英文口說練習網站",
+  description: "融合個人風格、句型積木、對話公式與 GRE 高頻單字的英文練習網站",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

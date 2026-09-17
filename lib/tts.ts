@@ -10,15 +10,17 @@ function pickVoice() {
   );
 }
 
-export function speakEnglish(text: string, onEnd?: () => void) {
+export function speakEnglish(text: string, onEnd?: () => void, rate = 0.92) {
   if (!text || typeof window === "undefined" || !window.speechSynthesis) {
     onEnd?.();
     return;
   }
   window.speechSynthesis.cancel();
-  const utter = new SpeechSynthesisUtterance(text.replace(/\[[^\]]+\]/g, "blank"));
+  const utter = new SpeechSynthesisUtterance(
+    text.replace(/\[[^\]]+\]/g, "blank").replace(/_{3,}/g, " blank ")
+  );
   utter.lang = "en-US";
-  utter.rate = 0.92;
+  utter.rate = rate;
   const voice = pickVoice();
   if (voice) utter.voice = voice;
   utter.onend = () => {
@@ -29,8 +31,12 @@ export function speakEnglish(text: string, onEnd?: () => void) {
     current = null;
     onEnd?.();
   };
-  current = utter;
-  window.speechSynthesis.speak(utter);
+  try {
+    window.speechSynthesis.speak(utter);
+  } catch {
+    current = null;
+    onEnd?.();
+  }
 }
 
 export function stopSpeaking() {

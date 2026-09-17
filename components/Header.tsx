@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 
 const links = [
   { href: "/plan", label: "30 天計畫" },
+  { href: "/words", label: "單字" },
   { href: "/dialogue", label: "對話公式" },
   { href: "/phrases", label: "句型" },
   { href: "/verbs", label: "片語" },

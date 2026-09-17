@@ -3,6 +3,12 @@ import { HomePlanCard } from "@/components/HomePlanCard";
 
 const modules = [
   {
+    href: "/words",
+    kicker: "單字",
+    title: "GRE 800",
+    desc: "聽發音、對英文定義、在句子裡填空。20 詞一組，用間隔重複複習。",
+  },
+  {
     href: "/dialogue",
     kicker: "劇本",
     title: "對話公式",
@@ -26,7 +32,7 @@ export default function HomePage() {
   return (
     <div className="space-y-8">
       <HomePlanCard />
-      <section className="grid gap-4 md:grid-cols-3">
+      <section className="grid gap-4 md:grid-cols-2">
         {modules.map((mod) => (
           <Link
             key={mod.href}

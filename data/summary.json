@@ -3,9 +3,12 @@
   "phrases": 150,
   "verbs": 80,
   "styles": 69,
+  "gre": 800,
+  "grePacks": 40,
   "planDays": 30,
   "styleExamplesMissingZh": 0,
   "phraseExamplesMissingZh": 0,
   "catalogueMissingGloss": 0,
-  "layeredItems": 41
+  "layeredItems": 41,
+  "greMissingExampleZh": 0
 }

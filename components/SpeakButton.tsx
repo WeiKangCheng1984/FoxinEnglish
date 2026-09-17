@@ -3,7 +3,15 @@
 import { useEffect, useState } from "react";
 import { speakEnglish, stopSpeaking } from "@/lib/tts";
 
-export function SpeakButton({ text, label = "發音" }: { text: string; label?: string }) {
+export function SpeakButton({
+  text,
+  label = "發音",
+  rate = 0.92,
+}: {
+  text: string;
+  label?: string;
+  rate?: number;
+}) {
   const [playing, setPlaying] = useState(false);
 
   useEffect(() => {
@@ -23,7 +31,7 @@ export function SpeakButton({ text, label = "發音" }: { text: string; label?: 
       return;
     }
     setPlaying(true);
-    speakEnglish(text, () => setPlaying(false));
+    speakEnglish(text, () => setPlaying(false), rate);
   }
 
   return (

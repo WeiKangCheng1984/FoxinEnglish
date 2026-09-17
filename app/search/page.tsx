@@ -2,13 +2,17 @@
 
 import { useMemo, useState } from "react";
 import { ItemCard } from "@/components/ItemCard";
+import { GreWordCard } from "@/components/GreWordCard";
 import { matchingLayerFamilies, searchItems, sourceHint, sourceLabel } from "@/lib/data";
+import { searchGreWords } from "@/lib/gre";
 import { SpeakButton } from "@/components/SpeakButton";
 
 export default function SearchPage() {
   const [q, setQ] = useState("");
   const families = useMemo(() => matchingLayerFamilies(q), [q]);
   const allHits = useMemo(() => searchItems(q), [q]);
+  const greAll = useMemo(() => searchGreWords(q), [q]);
+  const greHits = greAll.slice(0, 12);
   const results = allHits.slice(0, 40);
 
   return (
@@ -17,19 +21,19 @@ export default function SearchPage() {
         <p className="text-xs tracking-[0.2em] text-copper">SEARCH</p>
         <h1 className="mt-2 font-[family-name:var(--font-display)] text-4xl">搜尋</h1>
         <p className="mt-3 max-w-2xl text-sm leading-7 text-muted">
-          同一句英文可能同時出現在風格連接詞和對話公式裡。搜 <span className="text-ink">bottom line</span>{" "}
-          會看到兩層：先接住對方，再給出你的定見。
+          可搜句型、公式、風格，也可搜 GRE 單字。試 <span className="text-ink">bottom line</span> 或{" "}
+          <span className="text-ink">aberrant</span>。
         </p>
       </header>
       <input
         value={q}
         onChange={(e) => setQ(e.target.value)}
-        placeholder="搜英文、中文、公式或片語，例如 bottom line、fair enough、破冰"
+        placeholder="搜英文、中文、公式、片語或 GRE 單字"
         className="w-full rounded-2xl border border-line bg-sand px-4 py-3 outline-none focus:border-copper"
       />
       {q ? (
         <p className="text-sm text-muted">
-          找到 {allHits.length} 筆，顯示前 {results.length} 筆
+          句子 {allHits.length} 筆、單字 {greAll.length} 筆
           {families.length ? ` · ${families.length} 組跨層說法` : ""}
         </p>
       ) : null}
@@ -62,6 +66,15 @@ export default function SearchPage() {
           </ul>
         </section>
       ))}
+
+      {greHits.length ? (
+        <section className="space-y-4">
+          <h2 className="font-[family-name:var(--font-display)] text-2xl">GRE 單字</h2>
+          {greHits.map((word) => (
+            <GreWordCard key={word.id} word={word} />
+          ))}
+        </section>
+      ) : null}
 
       <div className="space-y-4">
         {results.map((item) => (

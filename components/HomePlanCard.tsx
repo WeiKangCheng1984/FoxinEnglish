@@ -23,7 +23,7 @@ export function HomePlanCard() {
         <div>
           <p className="text-xs tracking-[0.25em] text-sand/60">DAILY CADENCE</p>
           <h1 className="mt-3 font-[family-name:var(--font-display)] text-4xl leading-tight md:text-5xl">
-            把三份資料練成你的說話節奏
+            把三份資料練成你的說話節奏，GRE 單字另開一條複習線。
           </h1>
           <p className="mt-4 max-w-xl text-sm leading-7 text-sand/75">
             對話公式決定這一刻要做什麼，句型把句子組出來，個人風格讓語氣聽起來像你。30 天計畫可自由切換，不必卡在某一天。
@@ -34,6 +34,9 @@ export function HomePlanCard() {
             </Link>
             <Link href="/search" className="rounded-full border border-sand/20 px-5 py-2.5 text-sm">
               搜尋任何一句
+            </Link>
+            <Link href="/words" className="rounded-full border border-sand/20 px-5 py-2.5 text-sm">
+              GRE 單字
             </Link>
           </div>
         </div>

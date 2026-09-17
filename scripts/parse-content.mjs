@@ -95,6 +95,38 @@ function parseSlots(line) {
   return slots;
 }
 
+const GRE_PACK = 20;
+
+function parseGre(text) {
+  const chunks = String(text || "").split(/\n(?=\d{3}\. )/);
+  const items = [];
+  for (const chunk of chunks) {
+    const head = chunk.match(/^(\d{3})\.\s+([A-Za-z][A-Za-z'-]*)（([^）]+)）/);
+    if (!head) continue;
+    const field = (name) => {
+      const m = chunk.match(new RegExp(`${name}：([^\\n]+)`));
+      return m ? m[1].trim() : "";
+    };
+    const split = splitEnZh(field("例句"));
+    const no = Number(head[1]);
+    items.push({
+      id: `gre-${head[1]}`,
+      no,
+      word: head[2],
+      pos: head[3].trim(),
+      defEn: field("英文定義"),
+      defZh: field("中文定義"),
+      usage: field("用法"),
+      exampleEn: split.en,
+      exampleZh: split.zh,
+      synonyms: field("同義"),
+      antonyms: field("反義"),
+      pack: Math.ceil(no / GRE_PACK),
+    });
+  }
+  return items;
+}
+
 function parseCatalogue(text) {
   const typeMeta = [
     { id: "ask", no: 1, title: "提問探詢", titleEn: "Ask & Explore", intent: "開啟話題、挖深觀點、讓對話延續" },
@@ -578,6 +610,8 @@ const catalogue = parseCatalogue(readText("catalogue.txt"));
 const phrases = parsePhrases(readText("phrase.txt"));
 const styles = parseStyle(readText("personal-style.txt"));
 enrichStyle(styles);
+const grePath = path.join(root, "800 GRE");
+const greWords = fs.existsSync(grePath) ? parseGre(fs.readFileSync(grePath, "utf8").replace(/\r\n/g, "\n")) : [];
 const allForLink = [...catalogue.items, ...phrases.patterns, ...phrases.verbs, ...styles.items];
 linkLayers(allForLink);
 const plan = buildPlan(catalogue, phrases, phrases.verbs, styles);
@@ -587,6 +621,8 @@ const summary = {
   phrases: phrases.patterns.length,
   verbs: phrases.verbs.length,
   styles: styles.items.length,
+  gre: greWords.length,
+  grePacks: greWords.length ? Math.ceil(greWords.length / GRE_PACK) : 0,
   planDays: plan.length,
 };
 
@@ -596,6 +632,7 @@ writeJson("verbs.json", { stages: phrases.verbStages, items: phrases.verbs });
 writeJson("style.json", styles);
 writeJson("plan.json", plan);
 writeJson("layers.json", layerFamilies);
+writeJson("gre.json", { packSize: GRE_PACK, items: greWords });
 writeJson("summary.json", {
   ...summary,
   styleExamplesMissingZh: styles.items.reduce(
@@ -608,6 +645,7 @@ writeJson("summary.json", {
   ),
   catalogueMissingGloss: catalogue.items.filter((item) => !catalogueGloss[item.id]).length,
   layeredItems: allForLink.filter((item) => item.layerFamily).length,
+  greMissingExampleZh: greWords.filter((item) => !item.exampleZh).length,
 });
 
 console.log(summary);

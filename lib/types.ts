@@ -44,6 +44,25 @@ export type Item = {
   related?: RelatedItem[];
 };
 
+export type GreWord = {
+  id: string;
+  no: number;
+  word: string;
+  pos: string;
+  defEn: string;
+  defZh: string;
+  usage: string;
+  exampleEn: string;
+  exampleZh: string;
+  synonyms: string;
+  antonyms: string;
+  pack: number;
+};
+
+export type GreGrade = "again" | "hard" | "good";
+
+export type GreStudyMode = "recall" | "choose" | "cloze";
+
 export type PlanDay = {
   day: number;
   week: number;
